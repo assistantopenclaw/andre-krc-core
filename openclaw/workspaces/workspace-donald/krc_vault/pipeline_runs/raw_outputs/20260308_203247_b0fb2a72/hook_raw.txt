@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "The delay loop is not a timing issue, it is a training issue and you are getting better at it daily.",
+  "overlay_hook_2": "Obedience that waits for perfect conditions is not obedience, it is fear with a spiritual explanation.",
+  "overlay_hook_3": "You already have the clarity, what you are missing is the surrender that turns knowledge into action.",
+  "overlay_cta": "read caption"
+}
+```

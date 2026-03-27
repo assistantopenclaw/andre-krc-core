@@ -1,0 +1,31 @@
+===== RUN 1 START =====
+/home/openclaw_agent_1/.openclaw/scripts/krc/process_next_link_from_file.sh: line 29: /home/openclaw_agent_1/.openclaw/scripts/krc/process_one_link.sh: Permission denied
+PROCESS_NEXT_LINK_FAIL https://app.fathom.video/calls/492831090
+===== RUN 1 RC=1 =====
+===== RUN 2 START =====
+/home/openclaw_agent_1/.openclaw/scripts/krc/process_next_link_from_file.sh: line 29: /home/openclaw_agent_1/.openclaw/scripts/krc/process_one_link.sh: Permission denied
+PROCESS_NEXT_LINK_FAIL https://app.fathom.video/calls/493272082
+===== RUN 2 RC=1 =====
+===== RUN 3 START =====
+/home/openclaw_agent_1/.openclaw/scripts/krc/process_next_link_from_file.sh: line 29: /home/openclaw_agent_1/.openclaw/scripts/krc/process_one_link.sh: Permission denied
+PROCESS_NEXT_LINK_FAIL https://app.fathom.video/calls/455850356
+===== RUN 3 RC=1 =====
+===== RUN 4 START =====
+/home/openclaw_agent_1/.openclaw/scripts/krc/process_next_link_from_file.sh: line 29: /home/openclaw_agent_1/.openclaw/scripts/krc/process_one_link.sh: Permission denied
+PROCESS_NEXT_LINK_FAIL https://app.fathom.video/calls/474414211
+===== RUN 4 RC=1 =====
+===== RUN 5 START =====
+/home/openclaw_agent_1/.openclaw/scripts/krc/process_next_link_from_file.sh: line 29: /home/openclaw_agent_1/.openclaw/scripts/krc/process_one_link.sh: Permission denied
+PROCESS_NEXT_LINK_FAIL https://app.fathom.video/calls/492831090
+===== RUN 5 RC=1 =====
+
+=== links_done ===
+
+=== links_failed ===
+https://app.fathom.video/calls/492831090
+https://app.fathom.video/calls/493272082
+https://app.fathom.video/calls/455850356
+https://app.fathom.video/calls/474414211
+https://app.fathom.video/calls/492831090
+
+=== remaining ===

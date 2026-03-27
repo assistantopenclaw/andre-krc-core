@@ -1,0 +1,6 @@
+{
+  "provider": "openrouter",
+  "model": "moonshotai/kimi-k2-thinking",
+  "mode": "single_model",
+  "notes": "Alex uses one persistent reasoning model. No DeepSeek routing. No think-harder switch."
+}

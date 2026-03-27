@@ -1,0 +1,58 @@
+{
+  "call_digest": {
+    "call_type": "Introductory Coaching / Spiritual Grounding - Number Two",
+    "main_themes": [
+      "Becoming specific in prayer for actionable solutions.",
+      "The 'Hamartia' reframe: Sin as missing the target of God's glory.",
+      "The Discernment Filter: Testing thoughts for their source (God vs. Demon).",
+      "Redefining Safety: Why a man's emotional stability is a woman's #1 requirement."
+    ],
+    "emotional_peaks": [
+      "Austin's admission of 'making her my God.'",
+      "The realization that vague prayers get vague answers.",
+      "Andre's testimony of being pulled from the 'pit' of addiction."
+    ],
+    "top_objections": [
+      "The Generality Trap in prayer",
+      "Fear of losing worldly desire (The 'Boobs/Butt' Idolatry)"
+    ],
+    "top_truth_flips": [
+      "Specificity is the bridge from prayer to action.",
+      "You think you're talking to yourself, but you're talking to a demon.",
+      "Safety is power that loves her."
+    ]
+  },
+  "nuggets": [
+    {
+      "nugget_id": "specificity_of_prayer_v2",
+      "category": "framework",
+      "idea_one_liner": "The more specific the question you ask God, the more actionable His answer becomes.",
+      "why_it_hits": "Moves prayer from a mystical plea to a strategic consultation.",
+      "proof_quote": "The more specific the question, the more specific the answer... the more actionable the answer becomes.",
+      "proof_location": "00:28:22",
+      "micro_tags": { "hookable": true, "mechanism": true, "payoff": true },
+      "value_equation": {
+        "dream_outcome": "Clear actionable steps.",
+        "value_score_overall": 9.5
+      },
+      "score": { "overall": 9.1 }
+    },
+    {
+      "nugget_id": "demon_thought_test_v2",
+      "category": "framework",
+      "idea_one_liner": "You aren't thinking crazy thoughts; you're hearing demons. Use the 'Separation Test' to know.",
+      "proof_quote": "Is this thought separating me from God and causing me to trust Him less? ... We will think we're talking with ourselves when we're talking with demons.",
+      "proof_location": "01:46:25",
+      "score": { "overall": 9.5 }
+    }
+  ],
+  "handoff_packet": {
+    "top_5_nuggets": [
+      { "id": "demon_thought_test_v2", "one_liner": "Externalize your intrusive thoughts: If it separates you from God, it's not you.", "why": "Immediate relief." }
+    ],
+    "creator_notes": {
+      "preserve_phrases": ["Power that loves them", "Specificity of prayer", "Hamartia mark-missing"],
+      "tone": "Blunt, revelatory, and high-stakes. (Reprocessed Run Number Two)."
+    }
+  }
+}

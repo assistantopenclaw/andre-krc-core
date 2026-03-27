@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "Every cycle you complete without acting trains your mind to treat obedience as optional, not urgent.",
+  "overlay_hook_2": "Calling fear-based delay spiritual discernment does not make it wisdom, it makes it a baptized excuse.",
+  "overlay_hook_3": "Stop negotiating with delay and move on what you already know, that is where authority is rebuilt.",
+  "overlay_cta": "read caption"
+}
+```

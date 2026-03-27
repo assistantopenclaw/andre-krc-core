@@ -1,0 +1,25 @@
+{
+  "call_digest": {
+    "run_id": "RUN_20260301_195910_64922e48",
+    "main_themes": [
+      "The Screen-Time Prison (Wasting months of life per year)",
+      "The Engine Fuel (Potential vs God's Love)",
+      "Who lives through your body? (Sloth vs Christ)"
+    ]
+  },
+  "nuggets": [
+    {
+      "nugget_id": "screen_time_prison_035_v4",
+      "idea_one_liner": "You are spending 4.5 months of every year staring at a glass rectangle while your parents wonder why you haven't retired them yet.",
+      "proof_quote": "When we divided that by 30, we got 4.55 [months]. ... You've been slacking your life away.",
+      "proof_location": "00:20:46 / 00:29:43",
+      "value_score_overall": 9.7
+    }
+  ],
+  "handoff_packet": {
+    "creator_notes": {
+      "preserve_phrases": ["136 days a year", "Engine vs Gasoline"],
+      "tone": "Brutally honest and math-driven. (V4 Reprocessed Output)."
+    }
+  }
+}

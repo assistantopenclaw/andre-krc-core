@@ -1,0 +1,27 @@
+{
+  "run_id": "20260303_063016_c05fc674",
+  "timestamp": "2026-03-03T06:30:16Z",
+  "status": "content_ready",
+  "client": "Augusto Leal",
+  "source_id": "FATHOM:7yfj1v8RCe6tNGfsrhLedy8sD9JbpPte",
+  "files": {
+    "finished_content": "krc_vault/finished content for posting/20260303_063016_c05fc674__finished_content.md"
+  },
+  "drive": {
+    "file_id": "1xCA4WRjWXAZaIZfFZaWlKZgt--7jaLxfSKBkhBizLb0",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1xCA4WRjWXAZaIZfFZaWlKZgt--7jaLxfSKBkhBizLb0/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-03-03T06:31:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 2,
+    "nuggets_used": [
+      "NUG_003_FORGIVENESS_PHOBIA — commitment phobia lie / forgiveness skill (10.0) — Authority",
+      "NUG_004_MODEL_VS_REALITY — idealization snare / forgiving the model (8.0) — Authority"
+    ]
+  },
+  "finished_content_file(s)": [
+    "/home/openclaw_agent_1/krc_vault/finished content for posting/20260303_063016_c05fc674__finished_content.md"
+  ]
+}

@@ -1,0 +1,14 @@
+
+[stderr]
+Gateway agent failed; falling back to embedded: Error: gateway timeout after 330000ms
+Gateway target: ws://127.0.0.1:18789
+Source: local loopback
+Config: /home/openclaw_agent_1/.openclaw/openclaw.json
+Bind: loopback
+[diagnostic] lane task error: lane=main durationMs=12344 error="Error: session file locked (timeout 10000ms): pid=53703 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock"
+[diagnostic] lane task error: lane=session:agent:bob:main durationMs=12363 error="Error: session file locked (timeout 10000ms): pid=53703 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock"
+[diagnostic] lane task error: lane=main durationMs=10627 error="Error: session file locked (timeout 10000ms): pid=53703 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock"
+[diagnostic] lane task error: lane=session:agent:bob:main durationMs=10642 error="Error: session file locked (timeout 10000ms): pid=53703 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock"
+[diagnostic] lane task error: lane=main durationMs=10612 error="Error: session file locked (timeout 10000ms): pid=53703 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock"
+[diagnostic] lane task error: lane=session:agent:bob:main durationMs=10622 error="Error: session file locked (timeout 10000ms): pid=53703 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock"
+Error: All models failed (3): openrouter/deepseek/deepseek-chat-v3.1: session file locked (timeout 10000ms): pid=53703 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout) | openrouter/deepseek/deepseek-chat-v3-0324: session file locked (timeout 10000ms): pid=53703 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout) | openrouter/anthropic/claude-sonnet-4.6: session file locked (timeout 10000ms): pid=53703 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout)

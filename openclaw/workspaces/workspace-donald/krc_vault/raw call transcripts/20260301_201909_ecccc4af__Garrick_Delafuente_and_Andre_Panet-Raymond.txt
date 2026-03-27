@@ -1,0 +1,1055 @@
+[00:00:00] Andre Panet-Raymond: I took action on your tip, and I got a PC that I'm putting together.
+[00:00:07] Andre Panet-Raymond: I got the graphics card out right now that I'm going to be putting a CloudBot on.
+[00:00:11] garrickdelafuente: For a bot?
+[00:00:12] garrickdelafuente: Yeah.
+[00:00:14] Andre Panet-Raymond: It's going to be good.
+[00:00:16] garrickdelafuente: mean, there's a lot of things in your business, in the way that it is, would really help streamline, take care of everything.
+[00:00:22] Andre Panet-Raymond: Yeah.
+[00:00:23] Andre Panet-Raymond: Yeah, that's why I've become obsessed over the last few days.
+[00:00:26] Andre Panet-Raymond: I'm learning about APIs and , and I'm going full.
+[00:00:30] Andre Panet-Raymond: Full-end AI.
+[00:00:32] garrickdelafuente: Yeah, it's pretty crazy.
+[00:00:34] garrickdelafuente: Mine's been up and running, and I'm working on some research projects and doing things, but it's kind of endless.
+[00:00:41] garrickdelafuente: I'm actually building a project management dashboard so that I can have mine working on several projects, because I want it to kind of look at some trading options.
+[00:00:50] garrickdelafuente: I have a lot of trading courses that I've paid for that I know are valuable, so I'm trying to figure out how I can get it to learn that, and then if I can get it to API with trading platforms.
+[00:00:59] garrickdelafuente: I'm going
+[00:02:01] garrickdelafuente: Yeah.
+[00:02:02] garrickdelafuente: Well, yeah, I guess kind of a lot.
+[00:02:05] garrickdelafuente: Well, not really a lot.
+[00:02:06] garrickdelafuente: I mean, yeah, Saturday was Valentine's Day.
+[00:02:10] Andre Panet-Raymond: So I just stayed busy, went on a hike.
+[00:02:13] garrickdelafuente: I ended up just cooking dinner myself.
+[00:02:16] garrickdelafuente: Sunday, stayed real busy.
+[00:02:17] garrickdelafuente: But yeah, so I dropped them off Saturday.
+[00:02:22] garrickdelafuente: Her car wasn't there, but I just put them at the door.
+[00:02:27] garrickdelafuente: And then, yeah, I guess whenever she got home, she messaged me that, and then I messaged back just something calm.
+[00:02:36] garrickdelafuente: But like before that, you I was pretty confident that I didn't care if she responded or not and that it was the right decision.
+[00:02:42] garrickdelafuente: And then in between that time, I definitely did kind of start spiraling a bit or getting a bit too emotional about it or just dealing with the pain or the emotion of thinking about everything.
+[00:02:57] Andre Panet-Raymond: Mm-hmm.
+[00:02:59] Andre Panet-Raymond: Mm-hmm.
+[00:03:00] garrickdelafuente: And I feel like literally kind of God just met me right in that moment with like the, you know, bare minimum kind message from her, which, I mean, was definitely just like a positive encouragement to keep going, but, you know, it's also, I mean, it can be interpreted in a thousand different ways, right?
+[00:03:24] garrickdelafuente: So it's like not interpreting it and just face value, keep doing what I'm doing and just keep working on me and keep focusing on the future and trusting that he's got it and surrendering all of that to him, not reading into it.
+[00:03:43] garrickdelafuente: It's like, okay, obviously the hostility is not there and there's like, you know, some sort of just like a conversation that it wasn't hostile, doesn't have any emotional weight to it, like whatever, but that doesn't change.
+[00:03:59] garrickdelafuente: It anything or like what my goals are, what my plans are.
+[00:04:04] garrickdelafuente: It doesn't reopen anything.
+[00:04:05] garrickdelafuente: It doesn't say anything like, you know what I mean?
+[00:04:07] garrickdelafuente: It's just like, well, you know, happened, move on.
+[00:04:14] garrickdelafuente: I mean, honestly, like I was, I think more clarity would have come if she didn't say anything at all or said like, hey, we're taking space or like, you're not respecting it.
+[00:04:25] garrickdelafuente: Like, you know what I mean?
+[00:04:26] garrickdelafuente: Like something like that would have been, would have been like a little more clarity on what's to come next.
+[00:04:33] garrickdelafuente: But in a, in a, in way, like I kind of really appreciated that.
+[00:04:41] garrickdelafuente: And then it kind of just helped stabilize the journey and keep it going.
+[00:04:48] garrickdelafuente: And we're in a different way.
+[00:04:51] garrickdelafuente: But I mean, and so then Sunday, super busy, hiked, went to brunch, went to a friend's, it was a friend's birthday.
+[00:05:00] garrickdelafuente: And the guy across the hall was also going through it.
+[00:05:02] garrickdelafuente: So I was like, hey, just pick one thing you want to taste, one thing you want to drink, and one thing you want to feel today.
+[00:05:08] garrickdelafuente: And like, we're going to knock him out because he, you know, his ex is obviously trying to reach out and trying to fly him to Miami and do all this.
+[00:05:17] garrickdelafuente: And so he was at a park on the other side of town.
+[00:05:20] garrickdelafuente: So I just took the dog Sunday morning, like 8 a.m.
+[00:05:22] garrickdelafuente: We went there.
+[00:05:24] garrickdelafuente: And then that's when I actually took some food too.
+[00:05:27] garrickdelafuente: There's a lot of homeless people there.
+[00:05:28] garrickdelafuente: And so I was like, it's your birthday.
+[00:05:31] garrickdelafuente: I said, one thing that always helps me is like, let's just, if you just give and, you know, focus on other people, it'll help us not worry so much about today and what's going on.
+[00:05:40] garrickdelafuente: So we talked to some homeless people, gave them some sandwiches.
+[00:05:43] garrickdelafuente: And then we accomplished all three, went to Topgolf, went to my favorite restaurant, Zuma, got some crazy lobster.
+[00:05:51] garrickdelafuente: And then I took him and some other, we were with like maybe five or six friends, went and saw a show called Absinthe on the Strip, which is like a really good show.
+[00:08:00] garrickdelafuente: And right now, what I'm trying to do is live in that joy, experience God's grace, and continue on the path.
+[00:08:07] garrickdelafuente: I don't want to be stuck in this, like, woe is me, sad, whatever, whatever.
+[00:08:10] garrickdelafuente: It's time to continue to grow, continue to progress in that relationship with Him and what my life looks like in doing so.
+[00:08:20] garrickdelafuente: So today, I watched a random morning video.
+[00:08:27] garrickdelafuente: Yeah, I also checked my phone in the morning when wake up, so I stopped doing that and just started focusing more on, you know, watching something, even if it's like a Tony Rodgers, something like to get, like, not let my mind go down that path, right?
+[00:08:45] garrickdelafuente: And, yeah, I was watching this one this morning that was crazy good, and it was talking about this woman and her prayer every day, and it was two parts.
+[00:08:53] garrickdelafuente: One of them was part of her prayer saying, not my...
+[00:10:00] garrickdelafuente: Presence and you know you can kind of connect it all and realize like that you're not alone, that you are there, right?
+[00:10:08] garrickdelafuente: That there is something going on.
+[00:10:11] garrickdelafuente: So I applied for, there's like a three-square meal thing that I, as a company, we volunteer for every year.
+[00:10:18] garrickdelafuente: So I like that.
+[00:10:19] garrickdelafuente: So I applied for that.
+[00:10:20] garrickdelafuente: And then I applied, there's like a make-a-wish volunteering thing where you get to meet the kids.
+[00:10:24] garrickdelafuente: You can hear their wish, right?
+[00:10:26] garrickdelafuente: And then you're kind of in charge of going to put it together.
+[00:10:29] garrickdelafuente: And so I have a ton of connections all over the world with all kinds of people, especially from my past.
+[00:10:35] garrickdelafuente: So I'm pretty confident I can pretty much get anything done from any athlete or anything.
+[00:10:41] garrickdelafuente: So I applied to do that just to kind of try to fill up more time in giving and some other random stuff.
+[00:10:51] garrickdelafuente: Picked up a homeless guy with his dog.
+[00:10:52] garrickdelafuente: took him to PetSmart, talked to him for a bit, went to Smith's.
+[00:10:56] garrickdelafuente: Just like random things.
+[00:11:00] garrickdelafuente: I was actually legitimately going to meet a buddy at the Red Rock, which is a casino right by my house, to watch a basketball game that I don't even care about, but that's where he was, and I was super bored, and getting off the freeway, and then I looked to my left, and there was just this homeless guy with a dog, and I was like, oh, okay.
+[00:11:16] garrickdelafuente: So I just rolled my window down, was like, hey, get in, let's go, and instead did not go to the Red Rock at all, went and hung out with him, and then just went home after.
+[00:11:24] garrickdelafuente: So, you know, just little things, I guess, being aware of those blessings and continuously surrendering, and knowing that it's all right.
+[00:11:40] garrickdelafuente: Like, doesn't feel great every day.
+[00:11:41] garrickdelafuente: Like, it's just like, it feels like Groundhog Day almost, a lot of the times.
+[00:11:46] garrickdelafuente: But, I mean, definitely making progress and not in the same, not in the same scenario, for sure.
+[00:11:57] Andre Panet-Raymond: So, a lot of side quests.
+[00:12:00] garrickdelafuente: Yeah.
+[00:12:01] garrickdelafuente: Yeah.
+[00:12:01] garrickdelafuente: I mean, I think it's a gift and a curse of my life is I have absolutely no boss or commit.
+[00:12:11] garrickdelafuente: So I can sit at home and cry all day or sit at home and watch sad videos or get fat.
+[00:12:18] garrickdelafuente: And I've been working out twice a day.
+[00:12:19] garrickdelafuente: I'm down 17 pounds in the last two months.
+[00:12:22] garrickdelafuente: Diet's been great.
+[00:12:22] garrickdelafuente: So like, like, you know, all of that stuff is great as well, I guess, you know, coming into summer, being in shape, like all of that kind of stacks in your, in your journey.
+[00:12:34] garrickdelafuente: Right.
+[00:12:34] garrickdelafuente: So definitely been doing all that.
+[00:12:36] garrickdelafuente: So yeah, I guess really just been keeping really busy and trying to find ways to serve and give and stop woe is me and worrying about it.
+[00:12:49] garrickdelafuente: Just appreciating all the blessings that I do have.
+[00:12:53] Andre Panet-Raymond: Okay, cool.
+[00:12:55] Andre Panet-Raymond: I like, this is a good spot.
+[00:12:58] Andre Panet-Raymond: I'm having some.
+[00:13:02] Andre Panet-Raymond: Some ideas on where to go with this conversation, unless you have something that you know you want to work through?
+[00:13:11] Andre Panet-Raymond: No, no, not really.
+[00:13:12] garrickdelafuente: I mean, no, I just, I've been praying if she's, you know, the one for me, restore it and keep me here.
+[00:13:19] garrickdelafuente: And if she's not, please, you know, remove the desires and the thoughts.
+[00:13:25] garrickdelafuente: And those thoughts are not going anywhere, so.
+[00:13:27] Andre Panet-Raymond: Okay.
+[00:13:29] Andre Panet-Raymond: I have a, I have something for that.
+[00:13:31] Andre Panet-Raymond: Let's touch on that first, actually, if you're cool with that.
+[00:13:34] garrickdelafuente: Yeah.
+[00:13:35] Andre Panet-Raymond: So, with my, my journey, personally, my, my testimony, I'm doing this, and I'm so blessed now, and I, my fiance that I adore, um, I gave myself, it's a bit complicated.
+[00:13:56] Andre Panet-Raymond: I don't want go too deep into the details of it.
+[00:13:58] garrickdelafuente: Yeah, basically.
+[00:13:59] garrickdelafuente: Basically.
+[00:13:59] garrickdelafuente: Basically.
+[00:13:59] Andre Panet-Raymond: Basically.
+[00:14:00] Andre Panet-Raymond: I got the bad news and I said, okay, I'm going to give you, this was early November of 24, 24.
+[00:14:10] Andre Panet-Raymond: And so I said, I'm going to give you, no, beginning of November.
+[00:14:13] Andre Panet-Raymond: So I said, I'm going to give you until the end of the year.
+[00:14:15] Andre Panet-Raymond: If you change your mind, I'll be waiting.
+[00:14:16] Andre Panet-Raymond: After that point, I'm moving on.
+[00:14:19] garrickdelafuente: You told her that or you told you that?
+[00:14:20] garrickdelafuente: I told her that.
+[00:14:23] Andre Panet-Raymond: I was like, I get you want some space.
+[00:14:25] Andre Panet-Raymond: Here's space.
+[00:14:28] Andre Panet-Raymond: At the end of the year, I'm moving on.
+[00:14:31] Andre Panet-Raymond: I'll thank you for the part that you've played in my life, basically.
+[00:14:36] garrickdelafuente: And so for me, my prayers became God.
+[00:14:39] Andre Panet-Raymond: If by the end of the year, she's not the right one for me, remove my feelings, help me move forwards.
+[00:14:47] Andre Panet-Raymond: And if not, if not, for me, I knew I had that date.
+[00:14:52] Andre Panet-Raymond: And what that date allowed me to do is not stay in limbo.
+[00:14:58] Andre Panet-Raymond: Now, I was still seeking God.
+[00:15:00] Andre Panet-Raymond: Still moving forwards, but I knew that like come that date, if I didn't get a message, that chapter was closed and I was taking that as God's will.
+[00:15:10] Andre Panet-Raymond: And at the end of December, my fiance showed up and my feelings had been gone for a couple weeks.
+[00:15:20] Andre Panet-Raymond: So it worked out perfectly for me.
+[00:15:23] garrickdelafuente: Yeah.
+[00:15:25] Andre Panet-Raymond: The reason why I bring that up is because of the date.
+[00:15:28] Andre Panet-Raymond: Having a timeline for yourself.
+[00:15:32] Andre Panet-Raymond: For me, it allowed me to feel good about like not moving on too quickly, but also not being like, I'm going to wait for you forever.
+[00:15:45] Andre Panet-Raymond: Which was where I was at when I was in the emotions.
+[00:15:48] garrickdelafuente: Yeah.
+[00:15:48] garrickdelafuente: And that's kind of where I'm at.
+[00:15:50] garrickdelafuente: Because like the end of, I definitely gave myself like no contact for me reaching out or anything until the end of February, right?
+[00:15:57] garrickdelafuente: Mm-hmm.
+[00:15:58] Andre Panet-Raymond: Look up January 9th.
+[00:15:59] garrickdelafuente: So that will be.
+[00:16:00] garrickdelafuente: Like almost two months and then no contact was the I guess the first of February right or that Sunday whatever that was.
+[00:16:10] garrickdelafuente: So but I didn't like I didn't say anything to her and she has you know no idea of any work that I'm doing or any changes or anything which is fine like I'm not doing them for her.
+[00:16:23] garrickdelafuente: So that's kind of where I was at is like I don't think that at come the end of February really anything will change.
+[00:16:33] garrickdelafuente: guess my original goal was like come the end of February maybe some sort of a like light reach out of like a hey I hope you're doing well or whatever and just see what happens.
+[00:16:43] garrickdelafuente: And then if that doesn't go well or she's still in the same headspace or whatever then that's kind of a sign to just move on.
+[00:16:54] garrickdelafuente: But I never like told her that which is a thought that I don't really.
+[00:17:00] garrickdelafuente: It comes up a lot when I don't dive into it.
+[00:17:03] garrickdelafuente: I think that she fully expects me to be going on dates with other girls, doing something different than what I'm doing.
+[00:17:09] garrickdelafuente: And I'm not.
+[00:17:11] garrickdelafuente: And so one thing that creeps into my head is like, oh, is she even doing the work?
+[00:17:14] garrickdelafuente: Or does she know that I'm not going to go sleep with someone else or go do something dumb?
+[00:17:21] garrickdelafuente: And so that's where it's like, hmm, I don't really know.
+[00:17:24] garrickdelafuente: And so what I've decided is just like, I'll deal with that at the end of February, I guess.
+[00:17:29] garrickdelafuente: Gotcha.
+[00:17:30] garrickdelafuente: And just kind of go from there.
+[00:17:34] garrickdelafuente: Because I mean, that's pretty sufficient time, I think.
+[00:17:37] garrickdelafuente: Like, that will be minus one Valentine's Day text, a month of no contact, and two months of a breakup.
+[00:17:44] garrickdelafuente: Like, but yeah, so that's kind of where it's like, is that like the end of February?
+[00:17:52] garrickdelafuente: Is it like, okay, hey, you know, I hope all's well with you.
+[00:17:57] garrickdelafuente: You know, I haven't, you know, done anything.
+[00:18:00] garrickdelafuente: Crazy.
+[00:18:00] garrickdelafuente: I don't know what you're up to, but, you know, I don't know.
+[00:18:07] garrickdelafuente: I'll give this another month or something, and if it's still not clicking for you, then, you know, I'm definitely going to have to move on, or do you just, like, part of me is, like, just, you know, leave it to God, and if there's nobody to move on to, then just keep working on you.
+[00:18:25] garrickdelafuente: My sister and her husband, my sister basically said, and he's eight years older than her, but they met through small group.
+[00:18:32] garrickdelafuente: I've known him my whole life, most of my life.
+[00:18:34] garrickdelafuente: He's my age, obviously.
+[00:18:38] garrickdelafuente: You know, they were dating, whatever, and she said, I love you, and I want to do this, and he was like, well, I'm not really, I don't think I'm ready for that, and didn't say it back to her.
+[00:18:45] garrickdelafuente: And I got to get the details on this, but, yeah, she ended up just, like, blocking him and ending the relationship and saying, like, hey, this is not what I want.
+[00:18:52] garrickdelafuente: And then just praying to God, like, hey, my next relationship, I want to get married, da-da-da-da-da.
+[00:18:56] garrickdelafuente: And I think it was, like, seven to nine.
+[00:19:00] garrickdelafuente: Nine months later, he came back around, messaged her on Facebook, and was like, hey, you know, we want to get coffee or something, and they ended up, you know, going on dates and then, you know, dating and getting married within two years of that.
+[00:19:13] garrickdelafuente: So that is what's, like, a little bit conflicting for me as well, is, like, she is young, so I don't know what that timeline looks like, right?
+[00:19:26] garrickdelafuente: And it's not like I'm necessarily just waiting around.
+[00:19:31] garrickdelafuente: But, yeah, I don't know.
+[00:19:33] garrickdelafuente: I think that would help, but I feel like I haven't done that.
+[00:19:37] garrickdelafuente: I've just kind of been like, okay, here's your space.
+[00:19:40] garrickdelafuente: But then you get a Valentine's Day text that says, like, thank you so much, like, I hope you're doing well.
+[00:19:46] garrickdelafuente: It's like, all right, well, you wouldn't do that if you were moved on or dating other guys or, like, annoyed with me or, like, still, like, hey, I asked for space, give me space.
+[00:19:55] garrickdelafuente: Like, you would just not respond or say, like, you're not respecting my space type thing, you know?
+[00:19:59] garrickdelafuente: So that's...
+[00:20:00] garrickdelafuente: That's where I was at, but I committed to the end of February with everything anyway, so I said, whatever, let's just keep going to the end of February, and we'll see what happens then.
+[00:20:12] garrickdelafuente: Because, I don't know, maybe she does check in or reach out, or maybe something changes, or maybe nothing changes, maybe my feelings change, like, I don't know, it's still two weeks away.
+[00:20:34] garrickdelafuente: Because I'm not really in a rush for that.
+[00:20:36] garrickdelafuente: That part doesn't concern me so much, because I still feel, if I was like, oh, okay, I'm completed on my journey, I'm ready, I'm sitting here, I'm ready.
+[00:20:46] garrickdelafuente: that's a little different, right?
+[00:20:48] garrickdelafuente: But, like, I'm not, you know, it's, what, 21 days to make something a pattern, it's, you know, 60 to 90 days for experiencing that, like, I'm still through all that.
+[00:21:00] garrickdelafuente: So my morning routine is still adapting, changing my habits, my lifestyle, my, you know, so it's like this, I feel like this change would, like this still needs to be going on.
+[00:21:13] garrickdelafuente: And I think these parts of it are kind of better alone, sometimes maybe a check-in or something like, I don't know, maybe she does.
+[00:21:24] garrickdelafuente: No, I don't know.
+[00:21:30] Andre Panet-Raymond: I get where you're coming from.
+[00:21:37] Andre Panet-Raymond: You have the pen, and you're writing out your life story right now.
+[00:21:41] garrickdelafuente: Yeah.
+[00:21:42] garrickdelafuente: How do you want this part to go?
+[00:21:46] garrickdelafuente: I just, God's way.
+[00:21:48] garrickdelafuente: I want it to go the right way, whatever that is.
+[00:21:52] garrickdelafuente: But to me, that is, I mean, yeah, it's surrender.
+[00:21:59] garrickdelafuente: So...
+[00:22:00] garrickdelafuente: I am confident in trusting him and that everything that I'm doing now for me is either going to be a gift for her in our relationship or for somebody else.
+[00:22:19] garrickdelafuente: One thing that I think that I am confident in is that, or not I think, I know that I'm confident, like whatever comes will be good.
+[00:22:28] garrickdelafuente: And the only fear that I have in that is the timeline of that.
+[00:22:33] garrickdelafuente: Because through Instagram and stuff, I've been listening to some of these guys and they're like, you know, three years, six years, I'm 35.
+[00:22:40] garrickdelafuente: like, but, you know, kind of weirdos too.
+[00:22:43] garrickdelafuente: I'm like, I'm kind of lucky in the fact that, you know, from the outside, I'm a good package.
+[00:22:52] garrickdelafuente: So it's like, yeah, that's the only fear I have in that.
+[00:22:56] garrickdelafuente: I don't have fear and that it will be.
+[00:23:00] garrickdelafuente: Good, it is, whether it's her, whether it's somebody else.
+[00:23:08] garrickdelafuente: Yeah.
+[00:23:10] garrickdelafuente: I just also feel like praying that every single day, I get like a weird, like I get a stillness with like her in a way.
+[00:23:22] garrickdelafuente: Not necessarily like a chasing or a reaching, but like something like about the story like feels like it's all like part of it in a way.
+[00:23:39] garrickdelafuente: But it's like, you know, you got to be careful with the pride side of it and to actually surrender it and to actually, you know, truly be doing the things for myself.
+[00:23:53] garrickdelafuente: Not for her, not for her to notice, which I mean, she can't, you know, she doesn't watch my story.
+[00:23:59] garrickdelafuente: She died.
+[00:24:00] garrickdelafuente: haven't talked – like, she doesn't.
+[00:24:01] garrickdelafuente: So there's nothing that I could be doing, which is intentionally the original reason that I blocked her, so that she would stop watching my stories.
+[00:24:09] garrickdelafuente: Now she does not watch them.
+[00:24:11] garrickdelafuente: So now it's like, okay, there's no way that anything you're posting or doing is like so that she can see it's only for you, right?
+[00:24:21] garrickdelafuente: So I'm confident in that, but that's just kind of like – I think that's just part of the journey, just like figuring it out, constant little tests and thoughts and – Figuring what out?
+[00:24:39] garrickdelafuente: Like what's – figuring out what's meant to be.
+[00:24:42] garrickdelafuente: Like it will unravel, like my understanding.
+[00:24:44] garrickdelafuente: There's no question I could ask, no nothing I could say that would give me clarity on that.
+[00:24:51] garrickdelafuente: One way or the other.
+[00:24:52] garrickdelafuente: Is she the one?
+[00:24:53] garrickdelafuente: Is she not the one?
+[00:24:54] garrickdelafuente: Should I move on?
+[00:24:55] garrickdelafuente: Should I not move on?
+[00:24:56] garrickdelafuente: It's just experiencing the journey.
+[00:26:00] garrickdelafuente: In surrendering to him, it's his outcome.
+[00:26:01] garrickdelafuente: It's his will.
+[00:26:02] garrickdelafuente: So I can't do anything.
+[00:26:05] garrickdelafuente: I can't be any more better, perfect.
+[00:26:08] garrickdelafuente: I can't say anything to anyone.
+[00:26:09] garrickdelafuente: I can't do anything to get that clarity.
+[00:26:13] garrickdelafuente: It's right now the goal and the task and the job and the joy comes from the obedience and the surrender, like minute by minute.
+[00:26:34] Andre Panet-Raymond: I just want to highlight something for you to look at and see if I'm missing some context and just a little bit off with this or if I'm on to something that's worth looking at.
+[00:26:45] Andre Panet-Raymond: For me, the friction with that is it seems like external locus of control instead of internal, which I personally don't like.
+[00:27:00] Andre Panet-Raymond: What do you mean?
+[00:27:01] Andre Panet-Raymond: Like, for me, the reason why I went about it the way I did is because I wanted to have clarity, personally.
+[00:27:09] Andre Panet-Raymond: Like, I was like, I'm going to allow myself to pray for her.
+[00:27:13] Andre Panet-Raymond: I'm going to allow myself to keep this possibility open and be willing to do, willing to wait for a text to some degree.
+[00:27:21] Andre Panet-Raymond: I'm not going to change what I do day-to-day, but if she texts me, I'll respond until this date.
+[00:27:27] Andre Panet-Raymond: come this date, I am, like, that is now in the past.
+[00:27:32] Andre Panet-Raymond: What that does, that allowed me to, like, take steps forwards and, like, actually, how do put this?
+[00:27:45] Andre Panet-Raymond: I wasn't, it balanced the waiting and the acting.
+[00:27:52] garrickdelafuente: Yeah, but when I look at, so I've been researching, like, lot of, like, what is that pride?
+[00:27:57] garrickdelafuente: You mentioned it last week.
+[00:27:58] garrickdelafuente: What is pride in these seasons?
+[00:28:00] garrickdelafuente: What is humility?
+[00:28:01] garrickdelafuente: And a lot of my conclusion is that the pride is the self-sufficiency, that I can do this, I can make this decision, or this is the right decision, or this makes sense without his will and using your understanding, which is exactly what is the opposite of that.
+[00:28:19] garrickdelafuente: It should, you know, not be your own understanding because you don't understand it.
+[00:28:23] garrickdelafuente: And so when I look at that, the steps that I'm taking are in obedience to him, and that is all that matters.
+[00:28:36] garrickdelafuente: So if like me putting a date, for instance, you putting your date helped you think about that, figure it out.
+[00:28:47] garrickdelafuente: However, in the grand scheme of things, I don't think your date really did anything.
+[00:28:51] garrickdelafuente: With or without that date, he was bringing in this other woman.
+[00:28:54] garrickdelafuente: He would have that prepared for you.
+[00:28:56] garrickdelafuente: And so, and the antithesis to that would be, okay, let's.
+[00:29:00] garrickdelafuente: Let's say you did that date.
+[00:29:01] garrickdelafuente: He didn't bring this other woman.
+[00:29:03] garrickdelafuente: And two months after that, she came back.
+[00:29:06] garrickdelafuente: If you were still surrendering to him and you were still living in that obedience, your decision and trying to control it and trying to get that understanding is irrelevant.
+[00:29:15] Andre Panet-Raymond: Yes, you're right.
+[00:29:18] Andre Panet-Raymond: What the date did is it changed my perspective.
+[00:29:24] Andre Panet-Raymond: And it allowed me to, for me, balance, I care about this woman.
+[00:29:29] Andre Panet-Raymond: I want to be able to pray for her, but I also don't want to possibly pray for her for the next five years and stop myself from seeing somebody new if they come.
+[00:29:40] Andre Panet-Raymond: So for me, was like I told her, I sent her voice and I was like, hey, I'm going to wait until the end of this year.
+[00:29:45] Andre Panet-Raymond: If you change your mind, no other woman will catch my eye until then.
+[00:29:50] Andre Panet-Raymond: Come that point, I'm moving forwards.
+[00:29:52] Andre Panet-Raymond: God bless.
+[00:29:55] Andre Panet-Raymond: Like, so for me, it was a, I can.
+[00:31:00] garrickdelafuente: Um, but yeah, I mean, at the, after this period of no contact, I'm not just going to go back into, into contact.
+[00:31:08] garrickdelafuente: There's going to be some sort of a plan to be like, Hey, you know, I can reach out.
+[00:31:14] garrickdelafuente: Okay.
+[00:31:14] garrickdelafuente: You're still unwilling to talk.
+[00:31:15] garrickdelafuente: You're still not willing to do this.
+[00:31:16] garrickdelafuente: Like, you know, okay.
+[00:31:19] garrickdelafuente: Like that's totally fine.
+[00:31:21] garrickdelafuente: I respect your space.
+[00:31:22] garrickdelafuente: You know, up until this point, I think, you know, I don't know.
+[00:31:28] garrickdelafuente: I feel like it'll, it'll work out.
+[00:31:30] garrickdelafuente: Maybe there'll be some sort of a, you know, a coffee date or a conversation or something, but I, I agree with you.
+[00:31:38] garrickdelafuente: I wouldn't want to be living in this same season come the end of March of like, well, I'm in no contact.
+[00:31:44] garrickdelafuente: Like, no, like, you know, we've, we've taken the space, we've taken the time.
+[00:31:50] garrickdelafuente: And then if you're still in the same headspace and you don't feel that you don't miss me or whatever the case is, then.
+[00:32:00] garrickdelafuente: Okay.
+[00:32:02] garrickdelafuente: So I definitely, you know, that conversation will come sometime in March, one way or the other.
+[00:32:08] garrickdelafuente: But for right now, I'm just not planning anything and just seeing what happens until the end of February.
+[00:32:17] garrickdelafuente: And then kind of put it together with a plan of some sort of a, probably some sort of a light reach out.
+[00:32:25] garrickdelafuente: Hey, you know, crossed my mind.
+[00:32:26] garrickdelafuente: was thinking about you.
+[00:32:27] garrickdelafuente: How's everything?
+[00:32:28] garrickdelafuente: See if she responds at all in a positive way or, you know, wants to talk about that at all.
+[00:32:34] garrickdelafuente: Because obviously if she doesn't, then those are clear signs that it's like, okay, it's time to move on.
+[00:32:45] Andre Panet-Raymond: That seems, can I be blunt?
+[00:32:48] Andre Panet-Raymond: Yeah.
+[00:32:51] Andre Panet-Raymond: That's like, that's like the gaming, like.
+[00:32:57] Andre Panet-Raymond: Modern way of like, relationships.
+[00:32:59] Andre Panet-Raymond: But.
+[00:33:00] Andre Panet-Raymond: But I personally don't like, I'm like, I don't want to play.
+[00:33:02] Andre Panet-Raymond: What's your recommendation?
+[00:33:04] garrickdelafuente: I don't, I have no idea.
+[00:33:05] garrickdelafuente: I've never been through this.
+[00:33:06] garrickdelafuente: Typically, I would have already, you know, been on other dates, found some other numbit, and she would probably be jealous and already coming back.
+[00:33:13] garrickdelafuente: Like, I don't know.
+[00:33:15] Andre Panet-Raymond: This is all new to me.
+[00:33:16] Andre Panet-Raymond: Yeah, I got you.
+[00:33:18] garrickdelafuente: So, yeah, what's, I don't know, that's, you're the coach, so what makes sense in that scenario?
+[00:33:25] garrickdelafuente: Like, my commitment to myself was, you know, no contact for the month of February.
+[00:33:30] garrickdelafuente: You know, work on yourself, pray daily, read the Bible daily, Spanish Hab daily, like, you know, learn new skills and grow and, but yeah, I don't know what to do after that.
+[00:33:44] garrickdelafuente: I know I'm not going to wait around forever, but yeah, I'd love some sort of a plan that makes sense.
+[00:33:51] Andre Panet-Raymond: So, I put together my plan based off of what would allow me to love God best and bit, but yeah, I all the Bye.
+[00:34:00] Andre Panet-Raymond: And like balance the fact that he's not going to like write on a chalkboard what I should do.
+[00:34:05] Andre Panet-Raymond: And like I can read it like I have to sort of like deal with God being, you know, not as tangible as I would like.
+[00:34:15] garrickdelafuente: Yeah.
+[00:34:17] Andre Panet-Raymond: And so one of the key things I wanted was I wanted to.
+[00:34:24] Andre Panet-Raymond: I told her I would wait for her before she said no.
+[00:34:28] Andre Panet-Raymond: Like I sort of laid it out because she was in a weird spot and I was like, hey, I'll wait for you.
+[00:34:32] Andre Panet-Raymond: And so I had already made that commitment before I got the bad news.
+[00:34:36] Andre Panet-Raymond: And so I wasn't, I would have felt bad with myself if I had just sort of changed.
+[00:34:44] Andre Panet-Raymond: mean, like, all right, well, she said no, even though I made this commitment, I'm going to go back on it because of something she said.
+[00:34:50] Andre Panet-Raymond: That for me felt wrong.
+[00:34:52] Andre Panet-Raymond: So I was like, all right, so I have to hold to my word because I want to be a man in my word.
+[00:34:56] garrickdelafuente: Yeah, I never thought I would wait because everything told me not to say that.
+[00:34:59] garrickdelafuente: That's a bunch of.
+[00:35:00] garrickdelafuente: Emotional weight.
+[00:35:01] garrickdelafuente: You know, she's asking for space, this, that, and the other.
+[00:35:05] garrickdelafuente: So I never said I'd wait.
+[00:35:06] garrickdelafuente: I only said I would respect her boundary and that I would surrender it to God.
+[00:35:11] Andre Panet-Raymond: Yep.
+[00:35:13] garrickdelafuente: And then, you know, beyond that, I never said anything.
+[00:35:19] garrickdelafuente: I wanted to, but I didn't.
+[00:35:20] garrickdelafuente: Because everything, everything from, you know, the relationship apps to chat, everything was just like, it's too much emotional weight.
+[00:35:27] garrickdelafuente: You can't, you're still putting the emotional weight on her.
+[00:35:31] garrickdelafuente: You're, you're giving her the power to, and the pressure of your emotions.
+[00:35:36] garrickdelafuente: Like, I'll wait for you type of thing.
+[00:35:38] garrickdelafuente: So I never said that.
+[00:35:40] Andre Panet-Raymond: Yes.
+[00:35:41] Andre Panet-Raymond: And that's, that's why for me, I had a date.
+[00:35:48] garrickdelafuente: Yeah.
+[00:35:48] garrickdelafuente: But I would like something like that.
+[00:35:50] garrickdelafuente: Like, come February, you know, light reach out if it's not perceived well, or, you know, she's still in the same spot.
+[00:35:58] garrickdelafuente: It's like, okay, I've, you know.
+[00:35:59] garrickdelafuente: know.
+[00:35:59] garrickdelafuente: Thank
+[00:36:00] garrickdelafuente: I've been putting in the work on me, and I have been kind of sitting here waiting for you, like, or not sitting here waiting for you, but I have not been with anybody else or pursuing anybody else, but, you know, I can't just live in this limbo forever.
+[00:36:16] garrickdelafuente: So come the end of March, I'm not putting any pressure on you.
+[00:36:21] garrickdelafuente: There's no ultimatum, but for me, I think that's an adequate enough time that if you're still in the same headspace, that, you know, it's appropriate for me to try and move on, or not try.
+[00:36:33] garrickdelafuente: It's appropriate for me to move on.
+[00:36:36] garrickdelafuente: I could see something like that happening in the, you know, first week of March, like, a conversation like that.
+[00:36:44] garrickdelafuente: That would be positive.
+[00:36:47] garrickdelafuente: Because, like, I haven't even told her, I don't even, like, I haven't even told her that, you know, I haven't been drinking, or, obviously, she knows that, you know, I went to church before, and we were supposed to go to church together, so she knows that I've been going to
+[00:39:00] Andre Panet-Raymond: The outcome, you still feel like you're a strong man and you did things right.
+[00:39:06] garrickdelafuente: Yeah, I mean, I think I've already done that and that comes through, yeah, that relationship with, you know, God and that peace and joy in life and then at the same time, you know, the readiness for whatever's good and better and next.
+[00:39:26] garrickdelafuente: And, you know, I think with, like, health and fitness, like, that's a very clear – you can't hide health and fitness.
+[00:39:34] garrickdelafuente: That's, you know, the one thing.
+[00:39:36] garrickdelafuente: If you're disciplined in that, it shows, obviously.
+[00:39:38] garrickdelafuente: If you're not, it doesn't.
+[00:39:40] garrickdelafuente: And, you know, all of our mutual friends, like, my birthday is May 2nd.
+[00:39:45] garrickdelafuente: Like, I'm going to be, you know, out.
+[00:39:49] garrickdelafuente: It's Vegas.
+[00:39:50] garrickdelafuente: It's going to be 95 degrees in a month and a half.
+[00:39:52] garrickdelafuente: We're going to be at the pool.
+[00:39:53] garrickdelafuente: We're going to go to the lake.
+[00:39:54] garrickdelafuente: I have a boat.
+[00:39:55] garrickdelafuente: Like, you know, we're going to be doing stuff.
+[00:39:57] garrickdelafuente: And so, for me, I think that – We're going to Thank
+[00:40:00] garrickdelafuente: The peace and the joy and who you are when you come back around those because I haven't really seen a lot of them since, you know, we broke up.
+[00:40:06] garrickdelafuente: So a combination of that, like, actual happiness and joy that I haven't felt and been in a while.
+[00:40:14] garrickdelafuente: And then, you know, when you look like, wow, you're in real good shape, you made some crazy changes, you lost 35 pounds, like, what's going on, right?
+[00:40:20] garrickdelafuente: Like, that is all positive.
+[00:40:27] garrickdelafuente: Whether it's, you know, causes her to come back or not, it doesn't matter.
+[00:40:32] garrickdelafuente: I think those are some of the wins that I'm, you know, proof, not proof, but, like, the outcome of the work that you're doing now.
+[00:40:42] garrickdelafuente: Everybody will recognize it and appreciate it.
+[00:40:47] garrickdelafuente: You know, I think that that also comes in being able to support those friends and help them.
+[00:40:51] garrickdelafuente: And they're going to wonder, like, hey, what happened?
+[00:40:53] garrickdelafuente: Like, oh, okay, obviously, something changed for the better here.
+[00:40:56] garrickdelafuente: Like, you're not who you were.
+[00:40:58] garrickdelafuente: You're not stuck.
+[00:40:59] garrickdelafuente: You're not what.
+[00:41:00] garrickdelafuente: Whatever.
+[00:41:00] garrickdelafuente: So to me, I think subconsciously that is also, it also kind of helps with that and is a part of the reason that I've been taking the health and fitness side so serious.
+[00:41:13] Andre Panet-Raymond: Is for you, is that sort of the same thing as them seeing you as like, oh, he's good with him?
+[00:41:24] garrickdelafuente: Kind of, but I think like even the people around here, like this other little Jewish kid that was in two offices down yesterday, he's like, I love that you're coming to the office more.
+[00:41:33] garrickdelafuente: like, your presence is just like, your energy is way different nowadays.
+[00:41:36] garrickdelafuente: Like it's, I like having you around.
+[00:41:38] garrickdelafuente: And I was like, oh, thanks.
+[00:41:39] garrickdelafuente: Like, yeah, I like being around.
+[00:41:42] garrickdelafuente: So that isn't me.
+[00:41:43] garrickdelafuente: That's not me portraying something.
+[00:41:45] garrickdelafuente: It's just, you know, something, genuine peace and joy.
+[00:41:49] garrickdelafuente: And, and once you go through that journey, everybody's going to experience that when they're around you.
+[00:42:00] garrickdelafuente: for me, that's the win because I am happier.
+[00:42:04] garrickdelafuente: I am at peace.
+[00:42:05] garrickdelafuente: I do have more joy than I did before.
+[00:42:11] garrickdelafuente: So it's just different.
+[00:42:12] garrickdelafuente: And so that'll be recognized by everybody.
+[00:42:17] garrickdelafuente: And I encourage some people to ask why and also start their journey and figure it out, right?
+[00:42:22] garrickdelafuente: So that's kind of where I'm at with that.
+[00:42:26] garrickdelafuente: Like, even if she says no or doesn't come back, like, I'm now the best person of myself.
+[00:42:36] garrickdelafuente: So I'm sorry you didn't get to experience that or give it a shot.
+[00:42:41] garrickdelafuente: But somebody will.
+[00:42:45] garrickdelafuente: So I think that that, I think I'll be okay in that regard.
+[00:42:52] garrickdelafuente: Either way, but it'll still be nice to have the clarity, but I think that will be.
+[00:43:00] garrickdelafuente: That's a part of that kind of healing.
+[00:43:05] Andre Panet-Raymond: Okay.
+[00:43:09] Andre Panet-Raymond: We're not there yet.
+[00:43:11] garrickdelafuente: Yeah.
+[00:43:12] Andre Panet-Raymond: What about your time?
+[00:43:15] Andre Panet-Raymond: Like you mentioned you're going on a lot of side quests.
+[00:43:17] Andre Panet-Raymond: I mean, that was my language.
+[00:43:19] Andre Panet-Raymond: Going on a lot of side quests, which are cool.
+[00:43:23] Andre Panet-Raymond: What's the main quest?
+[00:43:28] Andre Panet-Raymond: Right now, in this season.
+[00:43:30] garrickdelafuente: Right now, it's just paying attention to God, just being grateful, seeing opportunities that in front of me.
+[00:43:41] Andre Panet-Raymond: That's good.
+[00:43:43] Andre Panet-Raymond: You play any video games?
+[00:43:45] garrickdelafuente: No.
+[00:43:52] Andre Panet-Raymond: Let me think of an example.
+[00:43:55] garrickdelafuente: I get what you're going for, though.
+[00:43:57] garrickdelafuente: What?
+[00:43:58] garrickdelafuente: Levels.
+[00:43:58] garrickdelafuente: And there's an overall...
+[00:44:04] Andre Panet-Raymond: Well, I'm going at the way humans work and receive positive emotion through dopamine.
+[00:44:17] garrickdelafuente: that, Tony Robinson, like through progress, a compelling future, your life's blueprint, stuff like that?
+[00:44:25] Andre Panet-Raymond: Yeah.
+[00:44:25] Andre Panet-Raymond: Partly, yeah.
+[00:44:26] Andre Panet-Raymond: Like, so dopamine gets released as we see progress towards a meaningful goal.
+[00:44:33] Andre Panet-Raymond: The more meaningful the goal, the more dopamine is released.
+[00:44:37] Andre Panet-Raymond: Or the more, the more dopamine is released per progress.
+[00:44:39] Andre Panet-Raymond: Chunk.
+[00:44:41] Andre Panet-Raymond: Yeah.
+[00:44:44] Andre Panet-Raymond: So, there's, there's sort of two things.
+[00:44:52] Andre Panet-Raymond: The big goal is heaven, basically, for a Christian.
+[00:44:54] Andre Panet-Raymond: It's like, all right, I'm developing the Christ.
+[00:44:57] Andre Panet-Raymond: I'm going to get into heaven.
+[00:44:58] Andre Panet-Raymond: Yeah.
+[00:44:58] Andre Panet-Raymond: I'm to be able to be with God one day.
+[00:45:00] Andre Panet-Raymond: Big goal, cool.
+[00:45:01] Andre Panet-Raymond: But also, you have to be able to have milestones and progress that you can see yourself making towards that.
+[00:45:07] Andre Panet-Raymond: That's how we get that.
+[00:45:12] Andre Panet-Raymond: You're still going to be a sinner when you die.
+[00:45:14] Andre Panet-Raymond: So if you're just measuring on sinner versus in heaven, you don't have the progress bar.
+[00:45:22] garrickdelafuente: Yeah.
+[00:45:26] Andre Panet-Raymond: So you got to build that progress bar.
+[00:45:28] Andre Panet-Raymond: In your case?
+[00:45:29] Andre Panet-Raymond: Yeah.
+[00:45:30] garrickdelafuente: Well, I mean, I still have to show up every day for all of the lawsuits and loans and debt and putting in that work and figure it out and rental houses leak and this and that.
+[00:45:41] garrickdelafuente: So, and for me, like, yeah, that's, that's the goal, right?
+[00:45:47] garrickdelafuente: Is to get back to zero.
+[00:45:50] garrickdelafuente: Zero.
+[00:45:51] garrickdelafuente: In financial, like back to zero, like no, no, no debt, no lawsuits, no loans and all these, like none of that.
+[00:46:01] garrickdelafuente: But that's like a really big goal, right?
+[00:46:04] garrickdelafuente: And so, okay, I trust that it will happen.
+[00:46:06] garrickdelafuente: If it doesn't happen, I don't really care.
+[00:46:09] garrickdelafuente: just means foreclosure or whatever, bankruptcy.
+[00:46:11] garrickdelafuente: So what can I control?
+[00:46:14] garrickdelafuente: What can I do?
+[00:46:15] garrickdelafuente: I can do what I should every day.
+[00:46:19] Andre Panet-Raymond: Discipline to do that.
+[00:46:21] garrickdelafuente: And that's what I've been doing.
+[00:46:22] garrickdelafuente: And some of them are not great conversations that you want to have, you know, fire this builder, I got to pay this, or can't pay that, or my sister, just going to tell her I'm calling back.
+[00:46:36] Andre Panet-Raymond: So I want to find a video for you really quickly.
+[00:46:41] garrickdelafuente: So, yeah, the progress right now is showing up, being obedient, being consistent, and the dopamine comes from the little blessings along the way.
+[00:46:53] garrickdelafuente: That lets you know that you're on the right path.
+[00:46:56] garrickdelafuente: Because it's a long way, but I got myself here.
+[00:47:00] garrickdelafuente: And I know that I can get myself out.
+[00:47:03] garrickdelafuente: Like it's probably, let me see, three, four, five.
+[00:47:06] garrickdelafuente: It's probably close to about $900,000.
+[00:47:10] garrickdelafuente: And is that?
+[00:47:12] garrickdelafuente: Debt, bills, stuff that I need to pay.
+[00:47:16] garrickdelafuente: And I'm probably owed somewhere maybe around $400,000 that I'll probably not get.
+[00:47:25] garrickdelafuente: Um, and, you know, usually I bring in somewhere around probably like $400,000.
+[00:47:34] garrickdelafuente: So what do you do?
+[00:47:37] garrickdelafuente: Well, you can't just trust and surrender and God and do nothing.
+[00:47:43] garrickdelafuente: So the goal is to do what you can in a disciplined and obedient manner every day and see what happens.
+[00:47:51] garrickdelafuente: You know, the one benefit is I do, you know, own businesses.
+[00:47:55] garrickdelafuente: So I'm not fixed.
+[00:47:56] garrickdelafuente: You know, God could grace things and all of a sudden I.
+[00:48:00] garrickdelafuente: I could have $500,000 in next three months, right?
+[00:48:02] garrickdelafuente: But I've got to continue to show up.
+[00:48:04] garrickdelafuente: I've to continue to build a brand, continue to set up those meetings.
+[00:48:07] garrickdelafuente: I had one last week.
+[00:48:08] garrickdelafuente: I'm putting together a pretty big deal with a team that does like 150 homes a year as far as us becoming their lending partner and marketing material and put together all that.
+[00:48:19] garrickdelafuente: But for me, I think I've been through that song and dance so many times that it's a little more autopilot.
+[00:48:25] garrickdelafuente: It doesn't require so much of my soul as it does the brain part.
+[00:48:28] garrickdelafuente: And I can execute that in the few hours a day that I come to the office so that the goal is to get to that zero, right, and make progress.
+[00:48:42] garrickdelafuente: And I am making progress.
+[00:48:46] garrickdelafuente: But the timeline and the things I can't control just kind of require his grace.
+[00:48:50] garrickdelafuente: And so my commitment is to have those harder conversations I don't want to have and to, for instance, I sold one of my rental properties.
+[00:49:00] garrickdelafuente: To a buddy, like five months ago.
+[00:49:02] garrickdelafuente: And he was like, hey, I'll buy it from you, but you need to manage it for like the first six months.
+[00:49:07] garrickdelafuente: So the end of last year, I didn't realize that like the logins changed or whatever.
+[00:49:12] garrickdelafuente: So it kind of went vacant, like half vacant.
+[00:49:14] garrickdelafuente: And so it wasn't like making enough to cover the mortgage, blah, blah, blah.
+[00:49:18] garrickdelafuente: So now it's like $6,400 behind, which technically as a friend, I need to pay, even though it's like contractually, I don't owe nothing.
+[00:49:29] garrickdelafuente: The house is yours.
+[00:49:30] garrickdelafuente: And he's got plenty of money.
+[00:49:31] garrickdelafuente: He ain't worried about money.
+[00:49:32] garrickdelafuente: I am.
+[00:49:34] garrickdelafuente: So, you know, I've been, I was like, damn, I'm have to have this conversation.
+[00:49:38] garrickdelafuente: So yesterday I just called him and I just like, hey, like, I'm gonna make it right.
+[00:49:42] garrickdelafuente: I'm gonna do my part because I respect you and you're my friend.
+[00:49:46] garrickdelafuente: Here's what happened.
+[00:49:47] garrickdelafuente: It's back on track now.
+[00:49:48] garrickdelafuente: Here's who owes rent because a couple of the tenants are behind rent and I'm pretty lenient.
+[00:49:51] garrickdelafuente: You know, especially around Christmas time, I basically, whatever.
+[00:49:55] garrickdelafuente: I didn't even check to see if they paid.
+[00:49:57] garrickdelafuente: Half of them didn't pay.
+[00:49:58] garrickdelafuente: So there's eight tenants in this property.
+[00:50:02] Andre Panet-Raymond: So that conversation was just from honesty.
+[00:50:04] garrickdelafuente: And I was like, you know, you can get mad, you can do whatever you want, but it's not really going to affect the outcome.
+[00:50:10] garrickdelafuente: So here's what I can do.
+[00:50:12] garrickdelafuente: Here's what I feel like I should do.
+[00:50:14] garrickdelafuente: And here's what I owe you.
+[00:50:16] garrickdelafuente: If that's not good enough, that's not good enough.
+[00:50:19] garrickdelafuente: And like so far, although that's just one example, because the house has a bunch of issues right now.
+[00:50:24] garrickdelafuente: So he needs to send his guy over there and pay to fix it.
+[00:50:26] garrickdelafuente: Like I'm not doing that.
+[00:50:28] garrickdelafuente: And they just like keep going like super well.
+[00:50:31] garrickdelafuente: And it's just like, all right, just a little bit, 5% off your plate, 5% off your plate, 5% off your plate.
+[00:50:36] garrickdelafuente: It doesn't feel so overwhelming.
+[00:50:38] garrickdelafuente: And so each day I've just been tackling them slowly.
+[00:50:42] garrickdelafuente: I've got, you know, three St.
+[00:50:43] garrickdelafuente: Louis houses I need to sell.
+[00:50:44] garrickdelafuente: Two of them I haven't even been in since winter.
+[00:50:47] garrickdelafuente: So it's like, I know I got to send a realtor there.
+[00:50:50] garrickdelafuente: I'm going to get a laundry list of things.
+[00:50:51] garrickdelafuente: It's going to be expensive.
+[00:50:52] garrickdelafuente: It's going to, okay, like, let's just start tackling the problem.
+[00:50:55] Andre Panet-Raymond: Don't worry about the outcome.
+[00:50:56] garrickdelafuente: So I sent yesterday and then this morning, follow up, hey, I need to work.
+[00:52:00] garrickdelafuente: Doing that.
+[00:52:00] garrickdelafuente: so when you look at, okay, quit alcohol, quit gambling, the oxytocin detox of losing her, like everything all at one time, that progress comes from the joy of like, like, we're still doing it.
+[00:52:14] garrickdelafuente: Like, you know, it's been 38 days.
+[00:52:16] garrickdelafuente: It's not that long, but it's longer than a habit.
+[00:52:20] garrickdelafuente: And we're still, every morning, you know, reading the Bible, like there's a routine, there's a, there's discipline, there's obedience.
+[00:52:27] garrickdelafuente: It's, you know, you're down 17 pounds.
+[00:52:29] garrickdelafuente: You're like, wow, I'm starting to look good again.
+[00:52:30] garrickdelafuente: Like there's, there's progress and joy in that.
+[00:52:37] garrickdelafuente: And so that's kind of what I'm conscious of is like, you can't get stuck in this woe is me.
+[00:52:41] garrickdelafuente: And, and having been a Christian for a long time, I've been around a ton of people that get saved and you get in that cycle where it's like, ah, this weight's off my shoulder.
+[00:52:50] garrickdelafuente: It's like, well, eventually you still got to go do stuff.
+[00:52:52] garrickdelafuente: You still have to do stuff you don't like.
+[00:52:53] garrickdelafuente: You still have trials.
+[00:52:54] garrickdelafuente: You still have tribulations.
+[00:52:55] garrickdelafuente: It's not just like, I'm good.
+[00:52:56] garrickdelafuente: I just get to lay here every day and you know, I'll go to heaven one day.
+[00:53:00] garrickdelafuente: Like, it's not that at all.
+[00:53:02] garrickdelafuente: So being conscious of that.
+[00:53:04] garrickdelafuente: right now, you know, discipline of not texting, no contact, all that, discipline of not numbing it with someone else or going out or wasting time, and the discipline of, you know, saving money and, you know, paying all this and figuring this out and solving the problems daily, which is not fun.
+[00:53:25] Andre Panet-Raymond: Yeah.
+[00:53:25] Andre Panet-Raymond: Yeah.
+[00:53:26] Andre Panet-Raymond: So, you very clearly have, how do put this?
+[00:53:34] Andre Panet-Raymond: The two things that pop into my head are, like, a hole you're digging yourself out of, and this, another way of looking at that is, like, problems to deal with, fires to put out.
+[00:53:47] garrickdelafuente: Yeah.
+[00:53:47] garrickdelafuente: A challenge, a journey, as Tony is.
+[00:53:49] Andre Panet-Raymond: Which, they definitely, they give you things to do.
+[00:53:55] Andre Panet-Raymond: What they don't give you is the fulfillment.
+[00:54:00] Andre Panet-Raymond: The excitement when you wake up every morning because you get to do this thing that you love.
+[00:54:07] garrickdelafuente: Yeah.
+[00:54:08] garrickdelafuente: Which is a different system.
+[00:54:12] Andre Panet-Raymond: And we're designed to have both.
+[00:54:17] Andre Panet-Raymond: Because that excitement, that is what gives us our positive emotion.
+[00:54:21] Andre Panet-Raymond: That's the dopamine system.
+[00:54:24] Andre Panet-Raymond: So it puts you into top gear.
+[00:54:30] garrickdelafuente: Yeah.
+[00:54:32] garrickdelafuente: Yeah, I I definitely had it, obviously, with the businesses that I was building and what created.
+[00:54:45] Andre Panet-Raymond: Yeah.
+[00:54:46] Andre Panet-Raymond: But I mean, those are gone, so.
+[00:54:48] garrickdelafuente: Well, yeah.
+[00:54:49] Andre Panet-Raymond: Okay.
+[00:54:49] Andre Panet-Raymond: I just got a racing analogy, a car racing analogy that I think fits perfectly.
+[00:54:55] garrickdelafuente: And you raced, right?
+[00:54:56] garrickdelafuente: Yeah.
+[00:54:57] garrickdelafuente: Okay.
+[00:54:58] Andre Panet-Raymond: Okay.
+[00:54:58] Andre Panet-Raymond: don't.
+[00:54:58] Andre Panet-Raymond: Okay.
+[00:54:59] Andre Panet-Raymond: I
+[00:55:01] Andre Panet-Raymond: You were in top gear, you're flying, right?
+[00:55:04] Andre Panet-Raymond: You're on the straight, you're hitting 200 plus.
+[00:55:08] Andre Panet-Raymond: And then the turn came up, and you had to downshift, and you took the turn, but you had to slow down.
+[00:55:16] Andre Panet-Raymond: But there can be another straight coming.
+[00:55:21] garrickdelafuente: Yeah.
+[00:55:22] garrickdelafuente: It's not like, oh, the race is over.
+[00:55:24] Andre Panet-Raymond: It's just, all right, we hit that turn, God has me going this way now, now let me get back up to speed.
+[00:55:31] garrickdelafuente: Yeah, and I do feel confident in that, but I also feel like there's a season of this disciplined obedience and doing this work in order to get there.
+[00:55:42] garrickdelafuente: Like, I'm confident, like I see glimpses of it, and I think about it, I'm like, hmm, you know, either a podcast or acting or something with God and some, like some, you know, whatever, speaking, like I don't know what that looks like yet.
+[00:55:56] garrickdelafuente: But, so I see.
+[00:55:59] garrickdelafuente: you
+[00:56:00] garrickdelafuente: Yeah, I know that something will happen, but I also feel and know that, like, you got to solve this real quick.
+[00:56:10] garrickdelafuente: I don't think it'll take more than a year, you know, maybe less, but it's like, you got to solve it because nothing can be built off of it, right?
+[00:56:22] garrickdelafuente: What do you mean by that?
+[00:56:24] Andre Panet-Raymond: Like, I mean, you know, lawyer bills and that, like, you got to get a clean slate.
+[00:56:30] Andre Panet-Raymond: There's no way, I can't even make a budget right now because I have no idea.
+[00:56:32] garrickdelafuente: I got a 12K bill, I got a 7K bill, I got 6K for the lawyer, I got five, like, I couldn't make a budget.
+[00:56:38] garrickdelafuente: I need somewhere 50 to 70,000 a month to stay afloat.
+[00:56:43] garrickdelafuente: That's not sustainable.
+[00:56:45] garrickdelafuente: Like, you got to be able to have a budget to know what's going on, to have a plan.
+[00:56:48] garrickdelafuente: Like, what does that look like?
+[00:56:49] garrickdelafuente: Are we going to flip some more houses?
+[00:56:50] garrickdelafuente: Are we going to, you know, grow the mortgage shop?
+[00:56:53] garrickdelafuente: Like, what are we going to do?
+[00:56:54] garrickdelafuente: Well, let's get all this under control first and all these...
+[00:56:57] garrickdelafuente: Hold on, hold on, hold on, hold on.
+[00:56:58] Andre Panet-Raymond: But...
+[00:57:00] Andre Panet-Raymond: I could be missing something, but, and I've heard you say this a couple times now, and so that's why I want you to examine this.
+[00:57:09] Andre Panet-Raymond: Right now, things aren't handled because the money going out is more than the money coming in.
+[00:57:18] Andre Panet-Raymond: Correct or no?
+[00:57:21] garrickdelafuente: Yeah.
+[00:57:22] garrickdelafuente: Okay.
+[00:57:22] Andre Panet-Raymond: Okay, so to have things handled, more money needs to be coming in than it's going out.
+[00:57:31] garrickdelafuente: Yeah.
+[00:57:32] garrickdelafuente: Which will make progress towards your zero.
+[00:57:34] garrickdelafuente: Right.
+[00:57:38] Andre Panet-Raymond: What are you doing to close that gap right now?
+[00:57:42] Andre Panet-Raymond: Growing the mortgage business.
+[00:57:44] garrickdelafuente: So got the bot going through Facebook, Reddit, organic leads.
+[00:57:47] garrickdelafuente: I got a call center calling my old leads.
+[00:57:50] garrickdelafuente: I got, you know, new realtor partnerships and advertising opportunities with, you know, big flippers in town that, you know, need to sell products.
+[00:57:58] garrickdelafuente: So I'm doing like a.
+[00:57:59] garrickdelafuente: that.
+[00:57:59] garrickdelafuente: Thank
+[00:58:00] garrickdelafuente: Free refi for the next 12 months if you close with us and pay for this and do that.
+[00:58:07] garrickdelafuente: So just, yeah.
+[00:58:08] garrickdelafuente: I mean, that's why I've been coming to the office every day.
+[00:58:10] garrickdelafuente: This is my mortgage office, this one.
+[00:58:12] garrickdelafuente: So all these people are mortgage people.
+[00:58:14] garrickdelafuente: So yeah, I've been focusing on that because that's where the most money in return can come with the least amount of money in.
+[00:58:24] garrickdelafuente: Okay.
+[00:58:26] Andre Panet-Raymond: What, if you had to guess, guesstimate, what, what percent of your potential output for that are you at right now?
+[00:58:39] Andre Panet-Raymond: Like, are you maxed out with doing everything you can to grow that as quickly as possible or?
+[00:58:44] garrickdelafuente: No, I'm probably like 30%.
+[00:58:48] garrickdelafuente: Okay.
+[00:58:49] Andre Panet-Raymond: If you were at 90%, what would be different three months from now?
+[00:58:59] garrickdelafuente: Hmm.
+[00:59:05] garrickdelafuente: I don't know.
+[00:59:12] garrickdelafuente: Because it's like, yeah, I don't know, because I don't really like pay for like stuff just comes in from all my connections and my social media, which I have not been doing any of.
+[00:59:22] garrickdelafuente: So, you know, social media definitely need do some more of because I get a lot of business from that.
+[00:59:32] garrickdelafuente: So, yeah, mean, probably, yeah, probably just more growth.
+[00:59:35] garrickdelafuente: It couldn't get worse.
+[00:59:38] Andre Panet-Raymond: It could get worse or couldn't get worse?
+[00:59:39] Andre Panet-Raymond: Oh, it could not get worse.
+[00:59:41] garrickdelafuente: It would either, it would probably grow.
+[00:59:44] garrickdelafuente: The amount would be unknown, but it would probably grow.
+[00:59:48] Andre Panet-Raymond: Okay, so right now you're, you're, what's the term?
+[00:59:52] Andre Panet-Raymond: Are you on like, can we, let's use car analogies?
+[00:59:56] Andre Panet-Raymond: Are you on like 30% gas right now for accelerating this?
+[01:00:00] Andre Panet-Raymond: Mortgage business?
+[01:00:01] Andre Panet-Raymond: Is that the right?
+[01:00:03] garrickdelafuente: Yeah, I'd probably spend three hours a day on it.
+[01:00:07] garrickdelafuente: Okay.
+[01:00:09] garrickdelafuente: And the rest of the time, I'm just bored.
+[01:00:12] garrickdelafuente: Okay.
+[01:00:14] Andre Panet-Raymond: Why are you bored?
+[01:00:16] Andre Panet-Raymond: Why aren't you flooring it?
+[01:00:28] garrickdelafuente: It just, yeah, I mean, it just comes with a lot more everything, problems, just that.
+[01:00:36] garrickdelafuente: Yeah, I don't necessarily, yeah, I don't know, partly because I guess I don't want all the money.
+[01:00:47] garrickdelafuente: I don't know.
+[01:00:51] garrickdelafuente: It feels like indifferent.
+[01:00:54] garrickdelafuente: Like I'm not really doing anything to serve God by calling it.
+[01:01:00] garrickdelafuente: Everybody and doing all that, it just seems like a rat race that I've done over and over again.
+[01:01:07] Andre Panet-Raymond: More money, more problems.
+[01:01:12] Andre Panet-Raymond: Yeah.
+[01:01:13] Andre Panet-Raymond: Which is why the money has to be going towards a purpose that excites you and makes those problems actually worth dealing with.
+[01:01:26] garrickdelafuente: Yeah.
+[01:01:30] garrickdelafuente: I mean, the only thing that comes to my mind is I want to be like a dad and a husband one day, so you got to provide for a household.
+[01:01:39] Andre Panet-Raymond: Mm-hmm.
+[01:01:41] garrickdelafuente: But I mean, I also make $50,000 a month, so how can I not do that now?
+[01:01:47] garrickdelafuente: It's crazy.
+[01:01:52] garrickdelafuente: Where are we at?
+[01:01:53] garrickdelafuente: February 19th?
+[01:01:56] garrickdelafuente: And I'm already like, yeah, well over $60,000.
+[01:02:00] garrickdelafuente: And none of it is still there.
+[01:02:02] garrickdelafuente: Everything's – I actually needed some more.
+[01:02:04] garrickdelafuente: I got bills I didn't pay yet.
+[01:02:10] Andre Panet-Raymond: What kind of bills?
+[01:02:11] Andre Panet-Raymond: Like, are those bills – like, are those bills reoccurring bills or are they sort of one-time?
+[01:02:17] garrickdelafuente: Combination of both.
+[01:02:19] garrickdelafuente: Reoccurring is mostly paid.
+[01:02:20] garrickdelafuente: I'm trying – I got to finish the construction on a big $3 million house.
+[01:02:25] garrickdelafuente: I thought it would be, like, $10K, but, yeah, it was, like, $13,000 last week, and they still have a whole bunch of electric – like, I don't know, it's probably going to be maybe $20K or $30K, and that will be due by March 15th.
+[01:02:36] garrickdelafuente: They should finish in, like, the next two or three weeks.
+[01:02:39] garrickdelafuente: That invoice will be due so that I can get that posted for sale.
+[01:02:42] garrickdelafuente: And then as soon as I get these reports back from the two houses in St.
+[01:02:46] garrickdelafuente: Louis, I'm going to have an unknown $10,000 $20,000 to get those ready for sale and get those listed.
+[01:02:55] garrickdelafuente: Yeah, lawyer bills will come on the 1st for this month.
+[01:03:00] garrickdelafuente: I don't know.
+[01:03:01] garrickdelafuente: Probably, I'd say, maybe six to eight, depending on communication and emails.
+[01:03:09] garrickdelafuente: Yeah, just the taxes for last year on that $3 million house are going to be due in March, $25,000, HOA, just all kinds of stuff.
+[01:03:26] garrickdelafuente: But, again, you know, I didn't inherit it.
+[01:03:31] garrickdelafuente: I did have a business partner that's no longer helping me pay for anything and gave up.
+[01:03:35] garrickdelafuente: But, you know, these are all things that, at one point, I easily handled.
+[01:03:44] garrickdelafuente: But now that they're snowballing and behind, it's just like, it's like a company's worth of debt on me.
+[01:03:54] garrickdelafuente: And, you know, still help my parents out, still do this, still do that.
+[01:04:00] garrickdelafuente: DJ lives with me for free.
+[01:04:01] garrickdelafuente: pay his car insurance, pay $7,000 for my house, pay, you know, it's just a bunch of just random stuff.
+[01:04:10] garrickdelafuente: I sold the Mercedes.
+[01:04:11] garrickdelafuente: I only have one car.
+[01:04:13] garrickdelafuente: And then I have the motorcycle and the Can-Am, so I've been figuring out if want to sell those or not.
+[01:04:18] Andre Panet-Raymond: What kind of bike?
+[01:04:19] garrickdelafuente: I have a factory R6 race bike, Yamaha R6, from Bryce Prince 2022 season.
+[01:04:29] garrickdelafuente: So I just do a lot of track days with my dad.
+[01:04:31] garrickdelafuente: bought him in, he has an R1M.
+[01:04:34] Andre Panet-Raymond: Oh, geez.
+[01:04:35] Andre Panet-Raymond: Before we tracked out, race fairings and everything.
+[01:04:36] garrickdelafuente: So we do a lot of track days at like, we have Spring Mountain here, Button Willow, Chukwalla.
+[01:04:42] garrickdelafuente: Like we got a lot of tracks around here.
+[01:04:44] Andre Panet-Raymond: That's cool.
+[01:04:45] Andre Panet-Raymond: So I bought that for him like two years ago as a way to just like, this is what we love.
+[01:04:51] garrickdelafuente: Let's spend time together doing it.
+[01:04:56] Andre Panet-Raymond: Okay.
+[01:04:59] Andre Panet-Raymond: So there's a lot.
+[01:05:00] Andre Panet-Raymond: There's a lot of fires.
+[01:05:02] garrickdelafuente: Yeah.
+[01:05:03] garrickdelafuente: There's a lot of fires.
+[01:05:06] Andre Panet-Raymond: When was the last time you, like, did your best to lay everything out, like, on paper or in digital form, but, like, laid out all of the different things going on so you can look at them clearly?
+[01:05:20] garrickdelafuente: A while ago.
+[01:05:25] garrickdelafuente: A while ago.
+[01:05:27] garrickdelafuente: I've slowly been taking care of them.
+[01:05:29] garrickdelafuente: Like, this issue with that rental property, like, I sold that off, you know, got my 50K back because I had a 35K lawyer bill.
+[01:05:38] garrickdelafuente: I told you, like, I had a week before the cruise to find 35K.
+[01:05:42] garrickdelafuente: Yeah.
+[01:05:43] Andre Panet-Raymond: So there's definitely not as many.
+[01:05:45] garrickdelafuente: I've got one house for sale that's, like, 1.8 million, but I've taken action on that in the last month.
+[01:05:51] garrickdelafuente: I'm refinancing it down to, like, a 6.8 rate, and then I'm just going to offer it subject to somebody.
+[01:05:56] garrickdelafuente: Like, put 20% down, you get a 6.8 rate.
+[01:05:58] garrickdelafuente: It doesn't hit your credit.
+[01:05:59] garrickdelafuente: I'll keep it in.
+[01:06:00] garrickdelafuente: My business credit.
+[01:06:00] garrickdelafuente: You don't have to qualify.
+[01:06:02] garrickdelafuente: And I think that's, you know, so I've been taking them kind of like one by one facing them.
+[01:06:07] garrickdelafuente: Okay.
+[01:06:07] garrickdelafuente: This is the best plan of action.
+[01:06:10] garrickdelafuente: Take it one by one over, over the last, you know, really since we broke up.
+[01:06:15] garrickdelafuente: Cause that was just like, I just, that I think was the overall weight was like the only source of happiness and future was her because all this had already been crumbling.
+[01:06:26] garrickdelafuente: So if have no, you know, faith in any of that, but also that's where a lot of, I think of the joy and the peace comes as like, I have been facing it and getting through it little by little.
+[01:06:39] garrickdelafuente: And that's part of the reason I'm not in such a rush because, you know, I still need to do this and it is easier to do it alone.
+[01:06:51] garrickdelafuente: Well, I don't know about that, but I'll tell myself that.
+[01:06:59] Andre Panet-Raymond: Do you think.
+[01:07:00] Andre Panet-Raymond: Would valuable for you to lay everything out and have like a battle map of what's going on right now?
+[01:07:11] garrickdelafuente: Yeah, but when you look at it all, it's just so insurmountable that it just feels like impossible.
+[01:07:17] garrickdelafuente: But if it's just piecework, and I know what's the most important for this week and this month, and I just keep accomplishing that, keep accomplishing that, then I know and trust that in the end it'll be okay.
+[01:07:32] garrickdelafuente: Because it isn't that much.
+[01:07:34] garrickdelafuente: The lawsuit involves those St.
+[01:07:36] garrickdelafuente: Louis houses.
+[01:07:36] garrickdelafuente: I got the $3 million house, which now I just need to finish and get listed.
+[01:07:41] garrickdelafuente: And that should relieve a lot of, I got a couple hundred grand in there.
+[01:07:45] garrickdelafuente: So that should relieve a lot of that.
+[01:07:47] garrickdelafuente: And then the rafter house at $1.8 million, which I'm doing the refi, getting it like, that will also get me.
+[01:07:55] garrickdelafuente: You know, $100 or $200K back.
+[01:07:57] garrickdelafuente: And then...
+[01:08:00] garrickdelafuente: Outside of that is just like the mortgage and just keep making that money and then just filing it away to pay whatever else comes up.
+[01:08:13] garrickdelafuente: So it isn't that much anymore.
+[01:08:16] garrickdelafuente: I sold five of the houses in St.
+[01:08:18] garrickdelafuente: Louis.
+[01:08:18] garrickdelafuente: I sold the rental property.
+[01:08:19] garrickdelafuente: I sold two of the other houses in one in November, one in December.
+[01:08:26] garrickdelafuente: Lost a lot of money on them, but they're gone.
+[01:08:27] garrickdelafuente: So it's like slowly getting better.
+[01:08:32] garrickdelafuente: I guess I just haven't physically written it, but I definitely have it all tallied and ordered in importance in my head.
+[01:08:52] garrickdelafuente: And I guess now there's kind of an end in sight.
+[01:08:57] garrickdelafuente: And November 19th was the final meeting.
+[01:09:00] garrickdelafuente: Radiation date for that lawsuit.
+[01:09:01] garrickdelafuente: And that was the big unknowing.
+[01:09:02] garrickdelafuente: was, you know, from 400K to 1.4 million.
+[01:09:05] garrickdelafuente: It's like a very big difference.
+[01:09:06] garrickdelafuente: Yeah.
+[01:09:08] garrickdelafuente: So I got a little bit of like, here's the goal, right?
+[01:09:13] garrickdelafuente: It's like, this is the goal.
+[01:09:15] Andre Panet-Raymond: And that number was 900?
+[01:09:17] garrickdelafuente: No, that number is, I think it's 700.
+[01:09:24] garrickdelafuente: But that business owns the three houses in St.
+[01:09:28] garrickdelafuente: Louis and has a 200K equity stake in that $1.8 million one here.
+[01:09:32] garrickdelafuente: So it was really like a net of like 250 or 280 from me.
+[01:09:39] Andre Panet-Raymond: Okay.
+[01:09:39] Andre Panet-Raymond: Does that, does that have a due date?
+[01:09:41] garrickdelafuente: It was supposed to be six months, but one of the houses was kind of like taken by a friend of mine unlawfully.
+[01:09:48] garrickdelafuente: The opposing side's attorney said that she would get him to give it back in two days.
+[01:09:53] garrickdelafuente: This was in November.
+[01:09:53] garrickdelafuente: He is still not giving it back.
+[01:09:55] garrickdelafuente: So the timeline has not started.
+[01:09:58] garrickdelafuente: Okay.
+[01:09:58] garrickdelafuente: timeline has not started.
+[01:10:00] garrickdelafuente: So that's grace.
+[01:10:02] Andre Panet-Raymond: One million percent.
+[01:10:03] garrickdelafuente: Yeah.
+[01:10:05] garrickdelafuente: Because if I don't pay it, it's a confession to judgment of like a million personally.
+[01:10:10] Andre Panet-Raymond: Ow.
+[01:10:11] Andre Panet-Raymond: Hmm?
+[01:10:12] garrickdelafuente: Ow.
+[01:10:14] garrickdelafuente: Just like if I don't get that.
+[01:10:16] garrickdelafuente: I said ow.
+[01:10:17] Andre Panet-Raymond: Like, ouch.
+[01:10:18] Andre Panet-Raymond: Like, that hurts.
+[01:10:19] Andre Panet-Raymond: Yeah, but like whatever.
+[01:10:20] garrickdelafuente: What are they going to collect?
+[01:10:21] garrickdelafuente: Like if you don't have any money, you don't have any money.
+[01:10:22] garrickdelafuente: I have judgments on people all over, $200, $220, like that owe me money, that I literally have the judgment on their house and them.
+[01:10:28] garrickdelafuente: I can't collect a dollar, so.
+[01:10:32] garrickdelafuente: Which is all, which, you know, is part of that same surrender.
+[01:10:35] garrickdelafuente: It's like there is a lot of fear, like what you focus on.
+[01:10:40] garrickdelafuente: I can easily get myself every single morning in a stressed, fear state if it's over.
+[01:10:44] garrickdelafuente: And I did.
+[01:10:45] garrickdelafuente: I did for a while, and I did initially when this breakup came.
+[01:10:48] garrickdelafuente: was like, all right.
+[01:10:48] garrickdelafuente: was like, this is the one good thing.
+[01:10:51] garrickdelafuente: Like,  it.
+[01:10:52] garrickdelafuente: This is all not worth it.
+[01:10:53] garrickdelafuente: Like, let's just go to Spain, ride it out, see when we die.
+[01:10:58] garrickdelafuente: Like, you know.
+[01:10:59] garrickdelafuente: This is just.
+[01:11:01] garrickdelafuente: This is just not something that a normal person could get through.
+[01:11:05] garrickdelafuente: Like, I've already made more money than most people make in their whole lives.
+[01:11:08] garrickdelafuente: Now I owe more money than most people make in their whole lives.
+[01:11:11] garrickdelafuente: Like, what reality is this?
+[01:11:18] garrickdelafuente: But God only gives you what can handle.
+[01:11:20] garrickdelafuente: And now I see that light as, it is a way crazier story than most people.
+[01:11:30] garrickdelafuente: But that might be what makes the second half of life so amazing, right?
+[01:11:36] garrickdelafuente: Like, a good story, a good testimony, a good journey, a good fight.
+[01:11:40] garrickdelafuente: All these lessons and all these hard times and all the discipline and obedience and work and, you know, I've gotten to experience more life than most people will probably ever get.
+[01:11:52] garrickdelafuente: I've flown around the world private.
+[01:11:53] garrickdelafuente: I've already had the Ferraris.
+[01:11:54] garrickdelafuente: I've had crazy lawsuits that I've won, that I've lost.
+[01:11:57] garrickdelafuente: Like, all of that kind of.
+[01:12:01] garrickdelafuente: I get comfort in knowing that it's part of the story and the plan, right?
+[01:12:05] garrickdelafuente: I was saved before all of that.
+[01:12:07] garrickdelafuente: So I was meant to go through all of that.
+[01:12:09] garrickdelafuente: And I think, you know, what is it, Proverbs, or what is it that says the pain that you're feeling now is nothing compared to the joy to come or something like that?
+[01:12:19] Andre Panet-Raymond: Mm-hmm.
+[01:12:20] Andre Panet-Raymond: Yeah.
+[01:12:23] Andre Panet-Raymond: So it's a lot of pain.
+[01:12:25] garrickdelafuente: It's a lot of fear.
+[01:12:28] garrickdelafuente: So like, how good will it be if you can get through it, not give up?
+[01:12:33] garrickdelafuente: And so that's all I've committed to is like, I will just see it through and figure it out.
+[01:12:42] garrickdelafuente: And one day, maybe it'll be a great story.
+[01:12:51] garrickdelafuente: I've been interrogated by FBI, IRS, CRA, Royal Canadian Police, like,
+[01:13:02] garrickdelafuente: I don't know.
+[01:13:05] garrickdelafuente: But all I want is, I guess, to be happy and find love.
+[01:13:11] Andre Panet-Raymond: Mm-hmm.
+[01:13:23] Andre Panet-Raymond: Okay.
+[01:13:30] Andre Panet-Raymond: All of those fires are sources of fear, right?
+[01:13:34] garrickdelafuente: Yeah.
+[01:13:36] Andre Panet-Raymond: Do you know clearly which are the biggest sources of fear?
+[01:13:40] Andre Panet-Raymond: Which are the biggest fires?
+[01:13:43] garrickdelafuente: Yeah.
+[01:13:45] Andre Panet-Raymond: Are they laid out?
+[01:13:47] Andre Panet-Raymond: Yes.
+[01:13:48] garrickdelafuente: Okay.
+[01:13:49] garrickdelafuente: Are you tackling them by biggest to smallest?
+[01:13:52] garrickdelafuente: Yes.
+[01:13:55] garrickdelafuente: Like, yeah, biggest and most urgent to smallest, yeah.
+[01:14:02] garrickdelafuente: Like the things that are absolutely due, the things that absolutely need to be done versus the things that can wait.
+[01:14:09] garrickdelafuente: Okay, it's 30 days late, whatever the case is.
+[01:14:13] garrickdelafuente: I'm no longer concerned about all of that.
+[01:14:16] garrickdelafuente: There was an Apex in that company, completely  my credit.
+[01:14:20] garrickdelafuente: I can 100% clean and wipe it within three months once everything's done.
+[01:14:24] garrickdelafuente: So I'm not concerned with all of that.
+[01:14:27] Andre Panet-Raymond: I owned a piece of a credit repair company.
+[01:14:29] garrickdelafuente: I sold it like a year ago, but I'm still super good friends with the people I sold it to.
+[01:14:33] garrickdelafuente: So the worldly things of that, like, really don't stress me.
+[01:14:38] garrickdelafuente: It doesn't bother me.
+[01:14:39] Andre Panet-Raymond: Okay.
+[01:14:40] garrickdelafuente: So I am confident in the fact that I'm doing, I guess, most of what I can to accomplish.
+[01:14:52] Andre Panet-Raymond: If you're working at 100%, doing everything you can to, like, doing the right thing.
+[01:14:59] Andre Panet-Raymond: Whatever that means.
+[01:15:00] Andre Panet-Raymond: In our case, what percent of it would be making more money and what percent would be like handling tasks, like things you have to knock out?
+[01:15:11] garrickdelafuente: I think it would just, it would kind of all be making more money because I'm focused on the probably equally right now work and then solving those tasks.
+[01:15:22] garrickdelafuente: But like I'm, I'm doing everything I need to do to solve those tasks.
+[01:15:27] garrickdelafuente: So allocating more time overall to that section of life wouldn't cause more of time on those tasks, if that makes sense.
+[01:15:38] garrickdelafuente: Like it would go to, to growth.
+[01:15:43] Andre Panet-Raymond: So handle the tasks as they come.
+[01:15:46] Andre Panet-Raymond: Yeah.
+[01:15:47] Andre Panet-Raymond: And so if you said you do, it's about half and half right now, is that like about three hours a day of tasks or no?
+[01:15:52] garrickdelafuente: Hmm.
+[01:15:53] garrickdelafuente: Yeah.
+[01:15:54] garrickdelafuente: Somewhere in there.
+[01:15:55] garrickdelafuente: Okay.
+[01:15:56] Andre Panet-Raymond: Three hours of tasks, three hours of work.
+[01:15:58] Andre Panet-Raymond: Uh, gym for public.
+[01:17:00] garrickdelafuente: I 12 hours coding it.
+[01:17:03] garrickdelafuente: But I was really fired.
+[01:17:04] garrickdelafuente: I was really fired up about it.
+[01:17:06] garrickdelafuente: And I guess I should still be in.
+[01:17:12] garrickdelafuente: I might spend maybe an hour a day on it now.
+[01:17:19] Andre Panet-Raymond: But how many hours a day on average do you think you have left that you could put towards?
+[01:17:25] Andre Panet-Raymond: Like at least three.
+[01:17:26] garrickdelafuente: Okay.
+[01:17:28] Andre Panet-Raymond: And have you been sort of using that three hours to do side quests?
+[01:17:33] garrickdelafuente: Yeah.
+[01:17:34] garrickdelafuente: Yeah.
+[01:17:35] garrickdelafuente: Like I still golf probably twice a week.
+[01:17:37] garrickdelafuente: still go to my parents for lunch or go do random stuff.
+[01:17:44] garrickdelafuente: Okay.
+[01:17:45] Andre Panet-Raymond: So for you, what is...
+[01:17:54] Andre Panet-Raymond: What's holding you from putting that three hours towards it?
+[01:17:56] Andre Panet-Raymond: Why doesn't that seem worth it to you?
+[01:17:59] garrickdelafuente: Give me What with faith?
+[01:17:59] garrickdelafuente: you...
+[01:17:59] garrickdelafuente: Give
+[01:18:12] garrickdelafuente: I don't know, really nothing.
+[01:18:18] garrickdelafuente: I mean, the reality would be, like, as Tony talks about, like, you know, the story and the victim side of things, like, there's some comfort in that, like, rebuild or, you know, I'm doing this.
+[01:18:38] garrickdelafuente: You know, part of me worries about, like, I know I can do it.
+[01:18:46] garrickdelafuente: I can make a million dollars in a year, but can I control everything else and the outcomes of it?
+[01:18:54] Andre Panet-Raymond: Why do you need to?
+[01:18:57] garrickdelafuente: Well, right now, it's so easy to surrender.
+[01:18:59] garrickdelafuente: It's so comfortable.
+[01:19:00] garrickdelafuente: Desperating, trusting him, because I genuinely need him.
+[01:19:06] garrickdelafuente: But if I get back to that point and out-create all of those problems, which I know that I can, you know, what keeps you down then?
+[01:19:19] Andre Panet-Raymond: Cool.
+[01:19:21] Andre Panet-Raymond: That's a good question.
+[01:19:23] Andre Panet-Raymond: Yeah.
+[01:19:24] garrickdelafuente: How would you answer it?
+[01:19:31] garrickdelafuente: I mean, would say that your faith and your discipline would keep you on the same path and the right track.
+[01:19:45] garrickdelafuente: But, I mean, yeah, I guess there's a lot that comes with that, you know?
+[01:19:48] garrickdelafuente: You end up at Monaco for F1.
+[01:19:50] garrickdelafuente: You end up, you know, in a lot of places that...
+[01:21:00] Andre Panet-Raymond: I say, what's the purpose of it?
+[01:21:00] Andre Panet-Raymond: And you say, it's a tool.
+[01:21:01] Andre Panet-Raymond: That's not answering the question.
+[01:21:03] Andre Panet-Raymond: What's the purpose of the tool?
+[01:21:07] garrickdelafuente: I mean, the purpose of money as a tool is it's anything that you want to do with it.
+[01:21:19] garrickdelafuente: It gives you the ability to think you're in control.
+[01:21:25] Andre Panet-Raymond: Okay.
+[01:21:26] Andre Panet-Raymond: I can buy people's time.
+[01:21:28] garrickdelafuente: I can buy people's effort.
+[01:21:29] garrickdelafuente: I could buy people's joy.
+[01:21:31] garrickdelafuente: I could buy people's sadness.
+[01:21:32] garrickdelafuente: I could do anything in the world with money.
+[01:21:38] garrickdelafuente: Worldly.
+[01:21:38] garrickdelafuente: Okay.
+[01:21:40] Andre Panet-Raymond: And so, as somebody who's been gifted by grace, the ability to gather and harness that power, with that power comes great responsibility.
+[01:21:57] garrickdelafuente: Yeah.
+[01:21:57] Andre Panet-Raymond: What have you, what?
+[01:22:00] Andre Panet-Raymond: Maybe this is some homework.
+[01:22:03] Andre Panet-Raymond: Why do you think God has given you the ability to get money?
+[01:22:07] Andre Panet-Raymond: For what purpose?
+[01:22:11] garrickdelafuente: Yeah, to help people.
+[01:22:13] garrickdelafuente: mean, yeah.
+[01:22:14] garrickdelafuente: mean, we have charity in Paraguay and I built chicken coops and I bought thousands of chickens and sustained their life.
+[01:22:24] garrickdelafuente: And two of them live with my parents now in the U.S.
+[01:22:27] garrickdelafuente: and they're getting their citizenship and paid for – I I've done a lot of stuff like that around the world and for people and, you know, past employees that had health issues, paid for all their health insurance and all their daycare and all that stuff.
+[01:22:46] Andre Panet-Raymond: Okay.
+[01:22:48] Andre Panet-Raymond: So, yeah, I mean, I see that purpose and that side.
+[01:22:56] garrickdelafuente: So, yeah, guess, yeah, would have more trust in myself now than back then, right?
+[01:22:59] garrickdelafuente: Because Because
+[01:23:00] garrickdelafuente: We've already been through it once, so it's a lot easier to see the signs.
+[01:23:05] Andre Panet-Raymond: I just sent you a message in the chat.
+[01:23:11] Andre Panet-Raymond: And are you ready for me to tell you or offer you how I think that'll be valuable?
+[01:23:18] garrickdelafuente: Yeah.
+[01:23:21] Andre Panet-Raymond: You know who Alex Ramosi is?
+[01:23:22] Andre Panet-Raymond: Yeah.
+[01:23:23] garrickdelafuente: He's here in Vegas.
+[01:23:24] garrickdelafuente: He's met him several times.
+[01:23:25] garrickdelafuente: Awesome.
+[01:23:26] Andre Panet-Raymond: His headquarters, acquisitions.com building is here.
+[01:23:29] Andre Panet-Raymond: Yeah.
+[01:23:30] Andre Panet-Raymond: Yeah, that's cool.
+[01:23:33] Andre Panet-Raymond: That's him and Tony Robbins.
+[01:23:35] Andre Panet-Raymond: Yeah.
+[01:23:35] garrickdelafuente: I watched this one.
+[01:23:36] garrickdelafuente: This is the full one?
+[01:23:37] garrickdelafuente: Yeah.
+[01:23:37] Andre Panet-Raymond: Yeah.
+[01:23:38] Andre Panet-Raymond: You watched it?
+[01:23:40] garrickdelafuente: Yeah.
+[01:23:40] garrickdelafuente: It was a bit ago.
+[01:23:43] garrickdelafuente: It gets clipped up all the time.
+[01:23:45] garrickdelafuente: see clips of it, but I'll re-watch.
+[01:23:47] garrickdelafuente: Yeah.
+[01:23:47] Andre Panet-Raymond: Came out a month ago.
+[01:23:49] Andre Panet-Raymond: The reason why I sent that is because he's sort of – I recognized myself in that coaching session, basically.
+[01:23:59] Andre Panet-Raymond: time.
+[01:23:59] Andre Panet-Raymond: Bye.
+[01:23:59] Andre Panet-Raymond: Bye.
+[01:23:59] Andre Panet-Raymond: Bye.
+[01:23:59] Andre Panet-Raymond: Thank you.
+[01:24:00] Andre Panet-Raymond: And I'd recognized you as well.
+[01:24:04] Andre Panet-Raymond: And so I think it'd be valuable, and I want to hear if you agree with this, I think it'd be valuable for you to watch that, especially towards the end, where Tony gives him sort of homework to do, which is to figure out what is going to get you up in the morning that's going to make the discipline and the duty, like, a joy.
+[01:24:32] Andre Panet-Raymond: Why is it worth it?
+[01:24:33] Andre Panet-Raymond: Yeah.
+[01:24:34] garrickdelafuente: What is so amazing?
+[01:24:35] Andre Panet-Raymond: What's the outcome that you're aiming for?
+[01:24:39] Andre Panet-Raymond: And it's not going to be chickens.
+[01:24:41] Andre Panet-Raymond: It's not going to be generic charities.
+[01:24:44] Andre Panet-Raymond: Alex has tried that.
+[01:24:45] Andre Panet-Raymond: It's going to be something personal to you that you personally value.
+[01:24:51] Andre Panet-Raymond: That it's going to be a personal thing.
+[01:24:54] Andre Panet-Raymond: And that's why I say, why did God give you, specifically, Garrick, the ability to...
+[01:24:59] Andre Panet-Raymond: it's it's whatever.
+[01:25:00] Andre Panet-Raymond: To harness that power of money based off of your life, your skill sets, your desires, your fears, your weaknesses.
+[01:25:12] Andre Panet-Raymond: Why did he give it to you?
+[01:25:17] garrickdelafuente: Yeah.
+[01:25:18] garrickdelafuente: I mean, did he?
+[01:25:22] Andre Panet-Raymond: Yes.
+[01:25:23] garrickdelafuente: Or is it like the lie of Satan to manipulate and be able to get the money that way?
+[01:25:29] garrickdelafuente: What do mean?
+[01:25:32] garrickdelafuente: Like, is that something that God actually gives?
+[01:25:38] garrickdelafuente: I don't know.
+[01:25:44] garrickdelafuente: I don't know.
+[01:25:45] garrickdelafuente: Like, is making money good?
+[01:25:46] garrickdelafuente: Like, I grew up, it wasn't.
+[01:25:48] garrickdelafuente: It was like not, all you care about is money.
+[01:25:50] garrickdelafuente: Like, that's my parents and my church and everything.
+[01:25:55] garrickdelafuente: Mm-hmm.
+[01:25:58] garrickdelafuente: Which is why partly I'm kind of like, Thank
+[01:26:00] garrickdelafuente: Whatever.
+[01:26:00] garrickdelafuente: I don't want any money.
+[01:26:01] garrickdelafuente: don't need it.
+[01:26:04] garrickdelafuente: Like, I'll get it, and, you know, I'll figure out how to get out, but then I just kind of want to be neutral and normal.
+[01:26:16] garrickdelafuente: I guess that's part of the homework.
+[01:26:20] Andre Panet-Raymond: Yeah.
+[01:26:22] garrickdelafuente: Because that's partly probably coming from fear.
+[01:26:25] garrickdelafuente: It's probably not what you want.
+[01:26:26] garrickdelafuente: I wouldn't have done everything in life I did if that's what I wanted.
+[01:26:36] garrickdelafuente: Yeah.
+[01:26:39] garrickdelafuente: So I'll watch that.
+[01:26:41] garrickdelafuente: I'll make notes on it.
+[01:26:43] garrickdelafuente: Next week.
+[01:26:46] garrickdelafuente: What's that date?
+[01:26:48] garrickdelafuente: Is that, uh...
+[01:26:50] garrickdelafuente: Next week or the week after.
+[01:26:52] garrickdelafuente: We'll kind of figure out a plan with the timeline thing.
+[01:26:59] garrickdelafuente: See what happens.
+[01:27:01] Andre Panet-Raymond: With this video?
+[01:27:03] garrickdelafuente: No, with this video, the homework that we just talked about and figuring that out, I'm saying next week or the week after, we'll figure out the Kaya timeline with the end of no contact and what that looks like to put a line in the sand.
+[01:27:19] garrickdelafuente: Yeah.
+[01:27:21] Andre Panet-Raymond: Sounds good.
+[01:27:25] Andre Panet-Raymond: Are you going to do that homework?
+[01:27:26] Andre Panet-Raymond: Is that going to be valuable to you?
+[01:27:28] garrickdelafuente: Yeah.
+[01:27:30] garrickdelafuente: Yeah, mean, yeah, definitely.
+[01:27:34] Andre Panet-Raymond: Okay.
+[01:27:34] Andre Panet-Raymond: Something that has to be figured out and decided.
+[01:27:39] Andre Panet-Raymond: Yeah.
+[01:27:40] garrickdelafuente: Just part of that, you know, journey that I am aware of.
+[01:27:43] garrickdelafuente: Like, you don't just get to sit in this, like, chill, grace forever.
+[01:27:47] garrickdelafuente: You get the relief, but then you're called now on a different journey guided by him.
+[01:27:53] garrickdelafuente: Yeah.
+[01:27:54] Andre Panet-Raymond: You don't just get to sit there, so.
+[01:27:56] garrickdelafuente: Yeah.
+[01:31:00] Andre Panet-Raymond: In the name of the Father, and of the Son, and of the Holy Spirit.
+[01:31:03] Andre Panet-Raymond: Amen.
+[01:31:03] Andre Panet-Raymond: And so it is.
+[01:31:04] garrickdelafuente: Amen.
+[01:31:06] garrickdelafuente: All right, man.
+[01:31:07] garrickdelafuente: God bless you.
+[01:31:07] garrickdelafuente: I'll text that to you.
+[01:31:09] garrickdelafuente: And I will talk to you next week.
+[01:31:11] garrickdelafuente: All right.
+[01:31:11] garrickdelafuente: Sounds good.
+[01:31:12] garrickdelafuente: Bye.
+[01:31:12] garrickdelafuente: Peace.

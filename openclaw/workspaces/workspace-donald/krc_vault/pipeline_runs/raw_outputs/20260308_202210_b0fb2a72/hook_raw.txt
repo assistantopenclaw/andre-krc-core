@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "The moment you choose waiting over clear action, you forfeit the authority you claim to carry.",
+  "overlay_hook_2": "When resistance whispers you need more data and more prayer, those are not insights, they are excuses.",
+  "overlay_hook_3": "Obedience does not require perfect conditions, it requires the surrender you keep negotiating around.",
+  "overlay_cta": "read caption"
+}
+```

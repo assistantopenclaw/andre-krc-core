@@ -1,0 +1,4 @@
+START run_id=20260302_001843_2d1b41dd url=https://fathom.video/share/FXzEuuJkT-yAGyAiHgGnCzUUyKLPAUqe
+FETCH source=fathom_api status=ok
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260302_001843_2d1b41dd__Arno_Marx_and_Andre_Panet-Raymond.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260302_001843_2d1b41dd__gold_nugget_export.md

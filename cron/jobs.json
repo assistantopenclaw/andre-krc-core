@@ -1,0 +1,589 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "2c07a84a-e27d-4c29-9250-a46f6799e9f9",
+      "agentId": "research",
+      "sessionKey": "agent:research:telegram:direct:8434682557",
+      "name": "research-meta-analytics-sweep-11am-daily",
+      "enabled": true,
+      "createdAtMs": 1772057776622,
+      "updatedAtMs": 1774543669491,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 11 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run Meta Graph API analytics pull (read-only) and upload a Google Doc report to Drive folder 'Openclaw Content Analytics'.\n\nHard rules:\n- NO fabrication: Only use Meta API responses. If API/auth fails, send an error-only report.\n- Organic-only: do NOT include ads analytics.\n- Scope: Instagram + Facebook.\n- Output: create a Google Doc in Drive folder ID 17vjnPR3hiwYu5dd0OMQiugZ9IAV-XiGE with title: \"<Month D, YYYY> — <hh:mm AM/PM> CT — Meta Analytics (IG + FB)\".\n\nExecution:\n- Use exec to run: bash /home/openclaw_agent_1/.openclaw/workspace-tommy/meta_analytics/bin/research_cron_run.sh\n- Token is read from env var META_SYSTEM_USER_TOKEN OR from file /home/openclaw_agent_1/.openclaw/credentials/meta/system_user_token.txt.\n- If run succeeds, announce ONLY the Google Doc link + 1-line summary (no raw JSON).",
+        "timeoutSeconds": 900,
+        "model": "openrouter/google/gemini-3-flash-preview",
+        "thinking": "medium"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {
+        "lastRunAtMs": 1774543528163,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 141328,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0,
+        "lastDelivered": true,
+        "nextRunAtMs": 1774627200000
+      },
+      "deleteAfterRun": false
+    },
+    {
+      "id": "651cdead-eff5-4c84-96eb-1e8b7cc48ded",
+      "agentId": "tasklist",
+      "name": "daily-local-backup",
+      "enabled": true,
+      "deleteAfterRun": false,
+      "createdAtMs": 1772153393647,
+      "updatedAtMs": 1774543309792,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 3 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "You are the Tasklist agent running a scheduled daily backup. Follow these steps EXACTLY in order. Do not skip any step. Do not improvise.\n\nSTEP 1: Run the backup script.\n- Use the exec tool to run this exact command:\n  bash /home/openclaw_agent_1/.openclaw/scripts/daily_backup.sh\n- Wait for it to finish. It should print lines starting with \"-\" and end with \"Backup completed successfully\".\n\nSTEP 2: Verify the backup was created.\n- Use the exec tool to run this exact command:\n  ls -1t /home/openclaw_agent_1/.openclaw/backups | head -1\n- This shows the most recent backup folder name. It should match today's date.\n\nSTEP 3: Check the backup has files.\n- Use the exec tool to run this exact command:\n  ls /home/openclaw_agent_1/.openclaw/backups/$(ls -1t /home/openclaw_agent_1/.openclaw/backups | head -1)/\n- You should see: openclaw.json and folders like main, tommy, alex-ceo, research, tasklist.\n\nSTEP 4: Report the result.\n- If all 3 steps succeeded, respond with EXACTLY:\n  ✅ Daily backup completed. Folder: [folder name from Step 2]. Files verified.\n- If ANY step failed, respond with EXACTLY:\n  🛑 Daily backup FAILED at Step [number]. Error: [paste the error message].\n\nDo NOT do anything else. Do NOT install anything. Do NOT modify any files. Just run the script, verify, and report.",
+        "model": "openrouter/openai/gpt-5-nano",
+        "timeoutSeconds": 120
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {
+        "nextRunAtMs": 1774598400000,
+        "lastRunAtMs": 1774543303608,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 6184,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0,
+        "lastDelivered": true
+      }
+    },
+    {
+      "id": "98e0a914-e183-4558-9009-b89f961cec5c",
+      "agentId": "tasklist",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "model-drift-check",
+      "enabled": true,
+      "createdAtMs": 1772219635540,
+      "updatedAtMs": 1774566173180,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 */6 * * *",
+        "tz": "America/Chicago",
+        "staggerMs": 300000
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run this command: python3 /home/openclaw_agent_1/.openclaw/scripts/check_agent_models.py\n\nIf the output is ALL_CLEAR, reply with just: ALL_CLEAR\n\nIf the output shows ANY drift or mismatch lines, send a message to Tommy (agent id: tommy) with the exact output and tell him to fix the model assignments. Do NOT attempt to fix anything yourself.",
+        "model": "openrouter/openai/gpt-5-nano",
+        "timeoutSeconds": 60
+      },
+      "delivery": {
+        "mode": "none"
+      },
+      "state": {
+        "nextRunAtMs": 1774587713112,
+        "lastRunAtMs": 1774566113132,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 60048,
+        "lastDeliveryStatus": "not-requested",
+        "consecutiveErrors": 1,
+        "lastError": "cron: job execution timed out",
+        "lastErrorReason": "timeout"
+      }
+    },
+    {
+      "id": "4afd83d8-7e21-4db0-b705-d9987339a0e5",
+      "agentId": "tasklist",
+      "sessionKey": "agent:tasklist:telegram:direct:8434682557",
+      "name": "tasklist-open-ideas-9am-digest",
+      "enabled": true,
+      "createdAtMs": 1772258969352,
+      "updatedAtMs": 1774543362929,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "model": "openrouter/google/gemini-2.5-flash-lite",
+        "timeoutSeconds": 120,
+        "message": "You are Tasklist. Send the daily OPEN ideas digest to Andre.\n\nSteps:\n1) Run: python3 /home/openclaw_agent_1/.openclaw/workspace-tasklist/scripts/ideas_cli.py list-open\n2) Parse JSON.\n3) If count=0, output exactly:\nOPEN IDEAS (0)\n- None\n4) If count>0, output exactly:\nOPEN IDEAS (<count>)\n1. <title> — <description> [id:<id>]\n2. ...\nInclude every open item, no omissions.\n5) Do not close/archive anything in this job."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {
+        "nextRunAtMs": 1774620000000,
+        "lastRunAtMs": 1774543327339,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 35590,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "47e4ad12-5053-4a54-96ee-1070d7142637",
+      "agentId": "tommy",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "donald-fathom-library-3perday (DISABLED; replaced by donald agent run)",
+      "enabled": false,
+      "createdAtMs": 1772432092555,
+      "updatedAtMs": 1772432425373,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 6 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run Donald daily backlog processing (3 calls/day) from the local Fathom library.\n\nSteps:\n1) Use exec to run: python3 /home/openclaw_agent_1/.openclaw/scripts/krc/donald_batch_from_library.py --n 3\n2) Announce only:\n- pending_total\n- selected_count\n- for each result: client + share_url + run_id\n\nRules:\n- Do not fabricate.\n- If any failure occurs, include the failing client + URL + stderr snippet.\n\nGoal: steady daily throughput so Jimmy can draft content for Andre to review at lunch.",
+        "timeoutSeconds": 900,
+        "model": "openrouter/google/gemini-3-flash-preview",
+        "thinking": "medium"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {
+        "lastRunAtMs": 1772432316596,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 12629,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "0a2579fb-dbe2-4dce-9e8c-f7d3cdea4d37",
+      "agentId": "tommy",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "donald-fathom-library-3perday (DISABLED; write-policy blocked)",
+      "enabled": false,
+      "createdAtMs": 1772432432582,
+      "updatedAtMs": 1772432605263,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 6 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "model": "openrouter/google/gemini-3-flash-preview",
+        "thinking": "medium",
+        "timeoutSeconds": 1200,
+        "message": "You are Donald.\n\nTask: Process the next 3 unprocessed Fathom calls from the local library and produce gold nugget exports.\n\nSteps:\n1) Use exec to run: python3 /home/openclaw_agent_1/.openclaw/scripts/krc/donald_batch_from_library.py --n 3\n2) Parse the JSON.\n3) For each result with ok=true, read the raw transcript path from the generated manifest in ~/krc_vault/manifests/<run_id>__manifest.json, then do your SOUL.md nugget extraction and write the real nugget export JSON to:\n   ~/krc_vault/gold nugget exports/<run_id>__<Client>__nuggets.json\n   (use your normal schema)\n4) Announce only:\n- pending_total\n- list of (client, share_url, run_id)\n\nRules:\n- No fabrication.\n- If any transcript fetch fails: include run_id + error.\n- Do not write finished content; Jimmy will handle that."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {
+        "lastError": "⚠️ ✍️ Write: `to ~/krc_vault/gold nugget exports/20260302_002042_09f0770d__Arno_Marx__nuggets.json (1540 chars)` failed",
+        "lastRunAtMs": 1772432440507,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 39151,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 1
+      }
+    },
+    {
+      "id": "30326de1-1d76-4043-accf-d82b7824cfa8",
+      "agentId": "tommy",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "fathom-library-3perday (disabled by deterministic-v2)",
+      "enabled": false,
+      "createdAtMs": 1772432614945,
+      "updatedAtMs": 1773008241867,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 6 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "model": "openrouter/google/gemini-3-flash-preview",
+        "thinking": "medium",
+        "timeoutSeconds": 900,
+        "message": "Run the daily Stage-1 Fathom backlog batch (3 calls/day).\n\nUse exec to run:\npython3 /home/openclaw_agent_1/.openclaw/scripts/krc/donald_batch_from_library.py --n 3\n\nAnnounce only:\n- pending_total\n- selected_count\n- for each: client + share_url + run_id\n\nRules:\n- No fabrication.\n- If any failure occurs: include URL + stderr snippet.\n\nNote: This job produces transcripts + manifests + minimal nugget/objection exports. Donald/Jimmy deeper extraction comes in Stage 2."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {
+        "lastRunAtMs": 1772969400015,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 27991,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "efa79a7f-a63f-44ab-a473-5c4e1fa96947",
+      "agentId": "tommy",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "jimmy-daily-drafts-from-fathom-batch (DISABLED; placeholder script)",
+      "enabled": false,
+      "createdAtMs": 1772432784400,
+      "updatedAtMs": 1772432933111,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 9 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "model": "openrouter/anthropic/claude-sonnet-4.6",
+        "thinking": "medium",
+        "timeoutSeconds": 1200,
+        "message": "Generate daily drafts from the most recent Fathom library batch.\n\nSteps:\n1) Use exec to run: python3 /home/openclaw_agent_1/.openclaw/scripts/krc/jimmy_batch_from_last.py\n2) Parse JSON.\n3) Announce ONLY the Drive links for each successful run (from its manifest), one per line.\n\nRules:\n- No fabrication.\n- If any run fails: include run_id + error.\n\nGoal: have drafts ready for Andre by lunch."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {
+        "lastRunAtMs": 1772432792836,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 49709,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "d221534f-eeb7-41ca-bc88-16786dadb93b",
+      "agentId": "tommy",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "lunch-drafts-digest-1145am (DISABLED; legacy content digest archived)",
+      "enabled": false,
+      "createdAtMs": 1772432873566,
+      "updatedAtMs": 1773262506004,
+      "schedule": {
+        "kind": "cron",
+        "expr": "45 11 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "model": "openrouter/google/gemini-3-flash-preview",
+        "thinking": "low",
+        "timeoutSeconds": 300,
+        "message": "Send Andre the lunch drafts digest.\n\nUse exec to run:\npython3 /home/openclaw_agent_1/.openclaw/scripts/krc/daily_lunch_digest.py\n\nReturn the output exactly. No extra commentary."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {
+        "lastRunAtMs": 1773247500027,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 4413,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "f35a088d-c418-4d93-b9b1-312c51e7ff71",
+      "agentId": "donald",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "donald-full-extract-from-last-batch (disabled by deterministic-v2)",
+      "enabled": false,
+      "createdAtMs": 1772433000443,
+      "updatedAtMs": 1773008241889,
+      "schedule": {
+        "kind": "cron",
+        "expr": "15 7 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "model": "openrouter/google/gemini-3-flash-preview",
+        "thinking": "medium",
+        "timeoutSeconds": 1800,
+        "message": "You are Donald (PROSPECTOR). Convert the most recent Fathom batch into REAL exports (not placeholders).\n\nRead batch file:\n- /home/openclaw_agent_1/krc_vault/fathom_library/state/last_batch.json\n\nFor each result in last_batch where ok=true:\n1) Open manifest: ~/krc_vault/manifests/<run_id>__manifest.json\n2) Read raw transcript from manifest.raw_transcript_file\n3) Produce the FOUR deliverables per your SOUL.md and write to files only:\n   A) Call Digest (md)\n   B) Nugget Library (JSON)\n   C) Objection Bank (JSON)\n   D) Handoff Packet (md)\n\nWRITE OUTPUTS USING exec ONLY (NOT write tool), to these vault paths:\n- ~/krc_vault/gold nugget exports/<run_id>__<Client>__nuggets.json\n- ~/krc_vault/gold nugget exports/<run_id>__<Client>__objections.json\n- ~/krc_vault/manifests/<run_id>__<Client>__donald_call_digest.md\n- ~/krc_vault/manifests/<run_id>__<Client>__donald_handoff.md\n\nRules:\n- No fabrication. Proof quotes must be redacted but otherwise verbatim.\n- Do NOT DM Andre.\n- Do NOT message Jimmy.\n- Just write files.\n\nCHAT OUTPUT LOCK:\nReturn EXACTLY one line and nothing else:\nDONE run_ids=<comma-separated-runids> ok=<count> fail=<count>"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {
+        "lastRunAtMs": 1772972100018,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 13437,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "89d44b16-bbd1-4649-a821-443b33b88dc5",
+      "agentId": "tommy",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "deterministic-marketing-pipeline-930am (disabled by deterministic-v2)",
+      "enabled": false,
+      "createdAtMs": 1772433613091,
+      "updatedAtMs": 1773008241907,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 9 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "model": "openrouter/google/gemini-3-flash-preview",
+        "thinking": "low",
+        "timeoutSeconds": 2400,
+        "message": "Run deterministic multi-agent marketing routing pipeline from latest Donald nuggets.\n\nUse exec to run:\npython3 /home/openclaw_agent_1/.openclaw/scripts/krc/marketing_pipeline_orchestrator.py --n 3\n\nIf success:\n- announce only: selected, passed, failed, out_file\n- then announce first 3 route results (nugget_id + ok/route_to)\n\nIf failure:\n- announce error + out_file when available\n\nDo not add extra commentary."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {
+        "lastRunAtMs": 1772980200020,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 3971,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "8e5535ed-6474-4c13-ac48-5d6f445bdc38",
+      "agentId": "tasklist",
+      "sessionKey": "agent:tasklist:telegram:direct:8434682557",
+      "name": "Daily 9AM marketing block (DISABLED; inactive marketing team quarantined)",
+      "enabled": false,
+      "createdAtMs": 1772862022016,
+      "updatedAtMs": 1773262479995,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Reminder: You have a four-hour marketing/editing block scheduled daily at 9:00 AM Central Time. Use this time to review reels content produced by the marketing team and plan scheduling for the day."
+      },
+      "delivery": {
+        "mode": "announce",
+        "to": "8434682557",
+        "channel": "telegram"
+      },
+      "state": {
+        "lastRunAtMs": 1773237630837,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 21870,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "de402f3e-c8ed-42c6-962b-eff0065d21ea",
+      "agentId": "tommy",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "deterministic-5agent-pipeline-8am-ct (disabled by one-lane)",
+      "enabled": false,
+      "createdAtMs": 1773008251662,
+      "updatedAtMs": 1773045573850,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run deterministic 5-agent pipeline (small reliability batch first).\n\nUse exec to run exactly:\npython3 /home/openclaw_agent_1/.openclaw/scripts/krc/deterministic_pipeline_v2.py --from-index 2\n\nRules:\n- No fabrication.\n- Do not print payload content.\n- Announce only one compact summary:\n  runs=<count> ok=<ok_count> fail=<fail_count> run_ids=<csv>\n- If any failure, include only run_id and stage from error object."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {}
+    },
+    {
+      "id": "d95620a2-01c8-49d1-a657-1559554b1ca6",
+      "agentId": "tommy",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "content-team-production-one-link-overnight",
+      "enabled": true,
+      "createdAtMs": 1773045573874,
+      "updatedAtMs": 1774543303608,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 1-6 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use exec to run exactly:\nbash /home/openclaw_agent_1/.openclaw/scripts/krc/run_clone_duo_queue_once.sh\n\nNo extra commentary.\nIf command exits successfully, return exactly:\nCONTENT_TEAM_PRODUCTION_OK\nIf command fails, return exactly:\nCONTENT_TEAM_PRODUCTION_FAIL"
+      },
+      "delivery": {
+        "mode": "none"
+      },
+      "state": {
+        "nextRunAtMs": 1774591200000,
+        "lastRunAtMs": 1774543297911,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 5697,
+        "lastDelivered": false,
+        "lastDeliveryStatus": "not-delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "0af271f6-a9ae-4147-b782-8b80cb354b08",
+      "agentId": "tommy",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "overnight-content-canary-morning-report",
+      "enabled": false,
+      "createdAtMs": 1773265050521,
+      "updatedAtMs": 1773524630194,
+      "schedule": {
+        "kind": "cron",
+        "expr": "15 7 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use exec to run exactly:\npython3 /home/openclaw_agent_1/.openclaw/scripts/krc/generate_canary_report.py\n\nReturn the output exactly. No extra commentary.",
+        "timeoutSeconds": 300
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8434682557",
+        "bestEffort": true
+      },
+      "state": {
+        "lastRunAtMs": 1773520963059,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 9625,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "cb85d7d6-318c-4ec5-9464-cd0c993edd84",
+      "agentId": "tommy",
+      "sessionKey": "agent:tommy:telegram:direct:8434682557",
+      "name": "simple-content-link-processor-3am-to-6am-ct",
+      "enabled": true,
+      "createdAtMs": 1773281360897,
+      "updatedAtMs": 1774543315379,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0,30 3-6 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Use exec to run exactly:\nbash /home/openclaw_agent_1/.openclaw/scripts/krc/process_next_link_from_file.sh\n\nReturn the output exactly. No extra commentary.",
+        "timeoutSeconds": 1800
+      },
+      "delivery": {
+        "mode": "none"
+      },
+      "state": {
+        "nextRunAtMs": 1774598400000,
+        "lastRunAtMs": 1774543309792,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 5587,
+        "lastDelivered": false,
+        "lastDeliveryStatus": "not-delivered",
+        "consecutiveErrors": 0
+      }
+    }
+  ]
+}

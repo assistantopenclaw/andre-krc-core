@@ -1,0 +1,17 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260302_063031_b1124bd8",
+  "source_id": "FATHOM:JsmTS3dWxeYqCs--99AqzN-gBRka8ogh",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "obj_001",
+      "objection_text": "Getting over an ex requires burning every bridge and hating them.",
+      "underlying_belief": "Emotion is the primary driver of detachment; if I don't feel 'hake' I'm still 'attached'.",
+      "underlying_fear": "Being sucked back in; being weak.",
+      "counter_truth_angle": "Hate is just as loud an attachment as love. Real freedom is being bored by the person but grateful to God for the experience.",
+      "transcript_proof_quote_redacted": "You don't get over people by trying to forget them... you get over people by remembering the good things... so you're detached emotionally from them.",
+      "proof_location": "ts: 00:47:00"
+    }
+  ]
+}

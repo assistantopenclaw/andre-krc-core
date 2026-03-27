@@ -1,0 +1,28 @@
+{
+  "run_id": "20260307_063002_b10df11c",
+  "timestamp": "2026-03-07T06:30:02Z",
+  "status": "content_ready",
+  "client": "Barbara Brandyberry (session)",
+  "source_id": "FATHOM:Hyf6QJAGXFimPtqpszx5DM2G3-nXgxuQ",
+  "files": {
+    "finished_content": "krc_vault/finished content for posting/20260307_063002_b10df11c__finished_content.md"
+  },
+  "drive": {
+    "file_id": "1Vcbr_K1BjhIr9eLV1eSKpxMbL8JTFkj5ZWTUNrUlEoY",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1Vcbr_K1BjhIr9eLV1eSKpxMbL8JTFkj5ZWTUNrUlEoY/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-03-07T06:31:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 2,
+    "post_order": "Conversion first (highest score), Authority second",
+    "nuggets_used": [
+      "NUG_002 — oxygen mask / self-neglect as service (8.7) — Conversion/heartbreak",
+      "NUG_001 — laughter as defense / avoidance (7.7) — Authority"
+    ]
+  },
+  "finished_content_file(s)": [
+    "/home/openclaw_agent_1/krc_vault/finished content for posting/20260307_063002_b10df11c__finished_content.md"
+  ]
+}

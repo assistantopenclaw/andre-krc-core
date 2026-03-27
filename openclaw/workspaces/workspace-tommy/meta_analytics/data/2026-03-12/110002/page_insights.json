@@ -1,0 +1,394 @@
+{
+  "data": [
+    {
+      "description": "Daily: The number of people who had any content from your Page or about your Page enter their screen. This includes posts, check-ins, ads, social information from people who interact with your Page and more. (Unique Users)",
+      "id": "1456426071133798/insights/page_impressions_unique/day",
+      "name": "page_impressions_unique",
+      "period": "day",
+      "title": "Daily Total Reach",
+      "values": [
+        {
+          "end_time": "2026-02-12T08:00:00+0000",
+          "value": 6225
+        },
+        {
+          "end_time": "2026-02-13T08:00:00+0000",
+          "value": 7693
+        },
+        {
+          "end_time": "2026-02-14T08:00:00+0000",
+          "value": 4744
+        },
+        {
+          "end_time": "2026-02-15T08:00:00+0000",
+          "value": 4460
+        },
+        {
+          "end_time": "2026-02-16T08:00:00+0000",
+          "value": 7620
+        },
+        {
+          "end_time": "2026-02-17T08:00:00+0000",
+          "value": 10749
+        },
+        {
+          "end_time": "2026-02-18T08:00:00+0000",
+          "value": 8793
+        },
+        {
+          "end_time": "2026-02-19T08:00:00+0000",
+          "value": 35219
+        },
+        {
+          "end_time": "2026-02-20T08:00:00+0000",
+          "value": 19374
+        },
+        {
+          "end_time": "2026-02-21T08:00:00+0000",
+          "value": 12617
+        },
+        {
+          "end_time": "2026-02-22T08:00:00+0000",
+          "value": 11423
+        },
+        {
+          "end_time": "2026-02-23T08:00:00+0000",
+          "value": 8046
+        },
+        {
+          "end_time": "2026-02-24T08:00:00+0000",
+          "value": 4655
+        },
+        {
+          "end_time": "2026-02-25T08:00:00+0000",
+          "value": 5979
+        },
+        {
+          "end_time": "2026-02-26T08:00:00+0000",
+          "value": 14358
+        },
+        {
+          "end_time": "2026-02-27T08:00:00+0000",
+          "value": 3402
+        },
+        {
+          "end_time": "2026-02-28T08:00:00+0000",
+          "value": 4443
+        },
+        {
+          "end_time": "2026-03-01T08:00:00+0000",
+          "value": 36390
+        },
+        {
+          "end_time": "2026-03-02T08:00:00+0000",
+          "value": 25614
+        },
+        {
+          "end_time": "2026-03-03T08:00:00+0000",
+          "value": 12813
+        },
+        {
+          "end_time": "2026-03-04T08:00:00+0000",
+          "value": 6875
+        },
+        {
+          "end_time": "2026-03-05T08:00:00+0000",
+          "value": 4980
+        },
+        {
+          "end_time": "2026-03-06T08:00:00+0000",
+          "value": 6146
+        },
+        {
+          "end_time": "2026-03-07T08:00:00+0000",
+          "value": 4795
+        },
+        {
+          "end_time": "2026-03-08T08:00:00+0000",
+          "value": 4068
+        },
+        {
+          "end_time": "2026-03-09T07:00:00+0000",
+          "value": 4157
+        },
+        {
+          "end_time": "2026-03-10T07:00:00+0000",
+          "value": 2418
+        },
+        {
+          "end_time": "2026-03-11T07:00:00+0000",
+          "value": 7590
+        },
+        {
+          "end_time": "2026-03-12T07:00:00+0000",
+          "value": 2276
+        },
+        {
+          "end_time": "2026-03-13T07:00:00+0000",
+          "value": 154
+        }
+      ]
+    },
+    {
+      "description": "Daily: The number of times people have engaged with your posts through like, comments and shares and more.",
+      "id": "1456426071133798/insights/page_post_engagements/day",
+      "name": "page_post_engagements",
+      "period": "day",
+      "title": "Daily Post Engagements",
+      "values": [
+        {
+          "end_time": "2026-02-12T08:00:00+0000",
+          "value": 419
+        },
+        {
+          "end_time": "2026-02-13T08:00:00+0000",
+          "value": 591
+        },
+        {
+          "end_time": "2026-02-14T08:00:00+0000",
+          "value": 369
+        },
+        {
+          "end_time": "2026-02-15T08:00:00+0000",
+          "value": 374
+        },
+        {
+          "end_time": "2026-02-16T08:00:00+0000",
+          "value": 476
+        },
+        {
+          "end_time": "2026-02-17T08:00:00+0000",
+          "value": 494
+        },
+        {
+          "end_time": "2026-02-18T08:00:00+0000",
+          "value": 345
+        },
+        {
+          "end_time": "2026-02-19T08:00:00+0000",
+          "value": 1544
+        },
+        {
+          "end_time": "2026-02-20T08:00:00+0000",
+          "value": 906
+        },
+        {
+          "end_time": "2026-02-21T08:00:00+0000",
+          "value": 497
+        },
+        {
+          "end_time": "2026-02-22T08:00:00+0000",
+          "value": 466
+        },
+        {
+          "end_time": "2026-02-23T08:00:00+0000",
+          "value": 487
+        },
+        {
+          "end_time": "2026-02-24T08:00:00+0000",
+          "value": 298
+        },
+        {
+          "end_time": "2026-02-25T08:00:00+0000",
+          "value": 236
+        },
+        {
+          "end_time": "2026-02-26T08:00:00+0000",
+          "value": 449
+        },
+        {
+          "end_time": "2026-02-27T08:00:00+0000",
+          "value": 161
+        },
+        {
+          "end_time": "2026-02-28T08:00:00+0000",
+          "value": 176
+        },
+        {
+          "end_time": "2026-03-01T08:00:00+0000",
+          "value": 1029
+        },
+        {
+          "end_time": "2026-03-02T08:00:00+0000",
+          "value": 783
+        },
+        {
+          "end_time": "2026-03-03T08:00:00+0000",
+          "value": 427
+        },
+        {
+          "end_time": "2026-03-04T08:00:00+0000",
+          "value": 231
+        },
+        {
+          "end_time": "2026-03-05T08:00:00+0000",
+          "value": 219
+        },
+        {
+          "end_time": "2026-03-06T08:00:00+0000",
+          "value": 131
+        },
+        {
+          "end_time": "2026-03-07T08:00:00+0000",
+          "value": 229
+        },
+        {
+          "end_time": "2026-03-08T08:00:00+0000",
+          "value": 196
+        },
+        {
+          "end_time": "2026-03-09T07:00:00+0000",
+          "value": 192
+        },
+        {
+          "end_time": "2026-03-10T07:00:00+0000",
+          "value": 124
+        },
+        {
+          "end_time": "2026-03-11T07:00:00+0000",
+          "value": 365
+        },
+        {
+          "end_time": "2026-03-12T07:00:00+0000",
+          "value": 86
+        },
+        {
+          "end_time": "2026-03-13T07:00:00+0000",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "description": "Daily: Total views count per Page",
+      "id": "1456426071133798/insights/page_views_total/day",
+      "name": "page_views_total",
+      "period": "day",
+      "title": "Daily Total views count per Page",
+      "values": [
+        {
+          "end_time": "2026-02-12T08:00:00+0000",
+          "value": 64
+        },
+        {
+          "end_time": "2026-02-13T08:00:00+0000",
+          "value": 120
+        },
+        {
+          "end_time": "2026-02-14T08:00:00+0000",
+          "value": 86
+        },
+        {
+          "end_time": "2026-02-15T08:00:00+0000",
+          "value": 52
+        },
+        {
+          "end_time": "2026-02-16T08:00:00+0000",
+          "value": 163
+        },
+        {
+          "end_time": "2026-02-17T08:00:00+0000",
+          "value": 90
+        },
+        {
+          "end_time": "2026-02-18T08:00:00+0000",
+          "value": 78
+        },
+        {
+          "end_time": "2026-02-19T08:00:00+0000",
+          "value": 411
+        },
+        {
+          "end_time": "2026-02-20T08:00:00+0000",
+          "value": 283
+        },
+        {
+          "end_time": "2026-02-21T08:00:00+0000",
+          "value": 175
+        },
+        {
+          "end_time": "2026-02-22T08:00:00+0000",
+          "value": 128
+        },
+        {
+          "end_time": "2026-02-23T08:00:00+0000",
+          "value": 89
+        },
+        {
+          "end_time": "2026-02-24T08:00:00+0000",
+          "value": 40
+        },
+        {
+          "end_time": "2026-02-25T08:00:00+0000",
+          "value": 77
+        },
+        {
+          "end_time": "2026-02-26T08:00:00+0000",
+          "value": 137
+        },
+        {
+          "end_time": "2026-02-27T08:00:00+0000",
+          "value": 48
+        },
+        {
+          "end_time": "2026-02-28T08:00:00+0000",
+          "value": 42
+        },
+        {
+          "end_time": "2026-03-01T08:00:00+0000",
+          "value": 333
+        },
+        {
+          "end_time": "2026-03-02T08:00:00+0000",
+          "value": 259
+        },
+        {
+          "end_time": "2026-03-03T08:00:00+0000",
+          "value": 139
+        },
+        {
+          "end_time": "2026-03-04T08:00:00+0000",
+          "value": 72
+        },
+        {
+          "end_time": "2026-03-05T08:00:00+0000",
+          "value": 89
+        },
+        {
+          "end_time": "2026-03-06T08:00:00+0000",
+          "value": 59
+        },
+        {
+          "end_time": "2026-03-07T08:00:00+0000",
+          "value": 75
+        },
+        {
+          "end_time": "2026-03-08T08:00:00+0000",
+          "value": 83
+        },
+        {
+          "end_time": "2026-03-09T07:00:00+0000",
+          "value": 49
+        },
+        {
+          "end_time": "2026-03-10T07:00:00+0000",
+          "value": 19
+        },
+        {
+          "end_time": "2026-03-11T07:00:00+0000",
+          "value": 77
+        },
+        {
+          "end_time": "2026-03-12T07:00:00+0000",
+          "value": 26
+        },
+        {
+          "end_time": "2026-03-13T07:00:00+0000",
+          "value": 10
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "previous": "https://graph.facebook.com/v25.0/1456426071133798/insights?access_token=EAAM8BxU4WFQBQxJAmy78zzBOlkd5LT16t2H5xvWdaa27WI3gR7MFX1hA5kjO7jMLYuWHokFVWIycQetDWROhO5ggiomv4EYsk2gpvOT0SZByHc8CMBxddc3gPA5G0GSw8MyGuitYrO9mNEQXrYbcSrFbmLDuqG4g42VuMW2lWQcw2zhVUT85B2IXlZCkJKarNftbSu&since=1768204800&until=1770796800&metric=page_impressions_unique%2Cpage_post_engagements%2Cpage_views_total&period=day"
+  }
+}

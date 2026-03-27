@@ -1,0 +1,51 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260301_201334_d462511e",
+  "source_id": "FATHOM: Bradley Oliver",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "bradley_001",
+      "category": "truth_flip",
+      "idea_one_liner": "When forgiveness lacks boundaries, it becomes permission for continued toxicity.",
+      "why_it_hits": "Exposes the common trap of passive spirituality being used as a shield by an abuser.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Men in toxic cycles",
+      "caption_fit": "normal",
+      "value_score_overall": 8,
+      "value_equation": {
+        "dream_outcome": "Establish boundaries to find peace",
+        "perceived_likelihood": "Clear mechanism through boundary setting",
+        "time_delay": "immediate",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Relief from repeat cycles"],
+        "denominator_notes": ["Requires hard no"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 3,
+          "mechanism_B": 2,
+          "speed_C": 2,
+          "effort_clarity_D": 1
+        }
+      },
+      "proof_quote_redacted": "I worked really, really hard to try to be, you know, the Christian husband and do the right thing and practice forgiveness, but my forgiveness ended up being permission.",
+      "proof_location": "ts: 00:17:21",
+      "proof_anchor_lines": ["Practiced forgiveness but it turned into permission", "Forgiveness without boundaries is dangerous"],
+      "micro_tags": {"hookable": true, "tension": true, "flip": true, "mechanism": false, "story": true, "pattern_interrupt": true, "payoff": true},
+      "hook_angle_1_stakes": "Your forgiveness is keeping you in the cage.",
+      "hook_angle_2_identity": "Stop being the victim of your own grace.",
+      "hook_angle_3_mechanism": "The boundary that makes forgiveness real.",
+      "enemy_frame_type": "none",
+      "enemy_frame_label": "none",
+      "enemy_frame_proof_redacted": "",
+      "first_step_seed": "Identify one repeat behavior you are tolerating under the name of 'forgiveness' and set a hard boundary.",
+      "cta_runway_fit": "strong",
+      "sensitivity_flag": "none",
+      "redaction_notes": "None",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {"stop_power": 8, "hold_power": 7, "payoff_power": 8, "overall": 8},
+      "must_not_claim": []
+    }
+  ]
+}

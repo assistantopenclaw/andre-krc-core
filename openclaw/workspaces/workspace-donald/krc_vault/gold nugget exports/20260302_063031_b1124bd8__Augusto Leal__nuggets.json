@@ -1,0 +1,126 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260302_063031_b1124bd8",
+  "source_id": "FATHOM:JsmTS3dWxeYqCs--99AqzN-gBRka8ogh",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "nugget_001",
+      "category": "truth_flip",
+      "idea_one_liner": "Hope deferred makes the heart sick; stop dangling the carrot and let God close the door.",
+      "why_it_hits": "Reframes 'clinging to hope' as a disservice that creates sickness rather than healing.",
+      "post_class_recommendation": "Conversion",
+      "conversion_angle": "heartbreak",
+      "audience_fit": "men in 'limbo' relationships",
+      "caption_fit": "normal",
+      "value_score_overall": 9,
+      "value_equation": {
+        "dream_outcome": "Freedom from the 'limbo' that drains spiritual and emotional energy.",
+        "perceived_likelihood": "High, anchored in Proverb 13.",
+        "time_delay": "immediate",
+        "effort_sacrifice": "high",
+        "numerator_notes": ["Uses Biblical wisdom to justify a hard 'end' to a toxic cycle.", "Identifies 'dangling hope' as an act of pride/punishment."],
+        "denominator_notes": ["Requires the strength to stay 'done' when the other person tries to circle back."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 1,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "hope deferred makes the heart sick, but a desire fulfilled is a tree of life. And I just feel like I've been kind of doing a massive disservice to her by kind of dangling this carrot of hope... I thought was kind of God's way of taking her out of my life because I didn't have the strength to do so myself.",
+      "proof_location": "ts: 00:03:01",
+      "proof_anchor_lines": [
+        "Unrealistic hope is a poison, not a medicine.",
+        "God closed the door because you couldn't."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": false,
+        "story": true,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "Is your 'hope' actually making your heart sick? Why 'maybe' is the most dangerous word in your relationship.",
+      "hook_angle_2_identity": "Stop being the 'negotiator' and start being the leader. God is waiting for you to move forward.",
+      "hook_angle_3_mechanism": "The 'Proverb 13' principle for ending dead-end relationships.",
+      "enemy_frame_type": "emotional",
+      "enemy_frame_label": "False Hope / Limbo",
+      "enemy_frame_proof_redacted": "dangling this carrot of hope for myself and for her",
+      "first_step_seed": "Confess the 'limbo' you've created and ask God for the finality of truth.",
+      "cta_runway_fit": "strong",
+      "sensitivity_flag": "trauma",
+      "redaction_notes": "",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 9,
+        "hold_power": 8,
+        "payoff_power": 9,
+        "overall": 9
+      },
+      "must_not_claim": []
+    },
+    {
+      "nugget_id": "nugget_002",
+      "category": "framework",
+      "idea_one_liner": "Detachment isn't forgetting the person; it's remembering how God used them for your good.",
+      "why_it_hits": "Provides a mature, non-bitter way to move on without needing to 'villainize' the ex.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "men struggling with memories/gifts from exes",
+      "caption_fit": "normal",
+      "value_score_overall": 8,
+      "value_equation": {
+        "dream_outcome": "Emotional freedom and gratitude for one's past.",
+        "perceived_likelihood": "High, provides a clear mental process.",
+        "time_delay": "immediate",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Stops the 'negative attachment' loop.", "Allows a man to keep the 'good' from a season while leaving the person behind."],
+        "denominator_notes": ["Requires a high level of spiritual maturity to see 'betrayal' as 'preparation'."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 3,
+          "mechanism_B": 2,
+          "speed_C": 2,
+          "effort_clarity_D": 1
+        }
+      },
+      "proof_quote_redacted": "You don't get over people by trying to forget them. You get over people by remembering the good things that came from that time of your life... What was God doing? How was God using that for your salvation? Because he is...detached emotionally from them.",
+      "proof_location": "ts: 00:47:00",
+      "proof_anchor_lines": [
+        "Forgiveness is remembering with God instead of with bitterness.",
+        "Everything good comes from God; she was just the temporary delivery driver."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": false,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "Trying to forget your ex is why you're still obsessed with her. Try this instead.",
+      "hook_angle_2_identity": "The Man who can keep a gift from his ex without being triggered is truly free.",
+      "hook_angle_3_mechanism": "The 'Salvation Audit' for past relationships.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "Villainization / Negative Attachment",
+      "enemy_frame_proof_redacted": "He's still attached to her... emotion attached to this girl that's negative",
+      "first_step_seed": "Find one gift or memory from your ex and thank God for the *lesson* it represents.",
+      "cta_runway_fit": "medium",
+      "sensitivity_flag": "none",
+      "redaction_notes": "",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 8,
+        "hold_power": 8,
+        "payoff_power": 8,
+        "overall": 8
+      },
+      "must_not_claim": []
+    }
+  ]
+}

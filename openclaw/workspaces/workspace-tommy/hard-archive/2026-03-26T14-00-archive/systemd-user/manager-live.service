@@ -1,0 +1,16 @@
+[Unit]
+Description=Manager Live persistent service
+After=default.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/openclaw_agent_1/.openclaw/workspace/shared/ui/manager-live
+EnvironmentFile=/home/openclaw_agent_1/.openclaw/workspace/shared/state/manager-live.env
+ExecStart=/usr/bin/env bash -lc './start.sh'
+Restart=always
+RestartSec=2
+StandardOutput=append:/home/openclaw_agent_1/.openclaw/workspace/shared/logs/manager-live-systemd.out.log
+StandardError=append:/home/openclaw_agent_1/.openclaw/workspace/shared/logs/manager-live-systemd.err.log
+
+[Install]
+WantedBy=default.target

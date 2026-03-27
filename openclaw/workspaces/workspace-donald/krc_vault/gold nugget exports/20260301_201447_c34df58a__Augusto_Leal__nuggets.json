@@ -1,0 +1,51 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260301_201447_c34df58a",
+  "source_id": "FATHOM: Augusto Leal",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "augusto_001",
+      "category": "truth_flip",
+      "idea_one_liner": "The Garden of Eden isn't a place we lost; it is a presence we abandon every time we choose stress over God.",
+      "why_it_hits": "Powerful inversion of the Fall story that puts agency back in the believer's hands.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "High-stress professionals",
+      "caption_fit": "normal",
+      "value_score_overall": 10,
+      "value_equation": {
+        "dream_outcome": "Return to peace (Eden)",
+        "perceived_likelihood": "Instant access to God's presence",
+        "time_delay": "immediate",
+        "effort_sacrifice": "low",
+        "numerator_notes": ["Internal peace", "Removal of anxiety"],
+        "denominator_notes": ["Requires stopping the choosing of stress"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 2,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "We are in the Garden of Eden, constantly eating the apple... we choose to be stressed, rushed, anxious, tired. That is us eating our apples. I can tap into God at any time. And so can you.",
+      "proof_location": "ts: 01:52:34",
+      "proof_anchor_lines": ["Constantly eating the apple of stress", "We choose to be anxious"],
+      "micro_tags": {"hookable": true, "tension": false, "flip": true, "mechanism": true, "story": false, "pattern_interrupt": true, "payoff": true},
+      "hook_angle_1_stakes": "You are starving in the Garden of Eden.",
+      "hook_angle_2_identity": "The man who refuses to eat the apple of anxiety.",
+      "hook_angle_3_mechanism": "The 5-second return to the presence of God.",
+      "enemy_frame_type": "none",
+      "enemy_frame_label": "none",
+      "enemy_frame_proof_redacted": "",
+      "first_step_seed": "Identify your 'apple' (stressor) right now and drop it. Choose to acknowledge God's presence in your current room instead.",
+      "cta_runway_fit": "strong",
+      "sensitivity_flag": "none",
+      "redaction_notes": "",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {"stop_power": 9, "hold_power": 8, "payoff_power": 10, "overall": 10},
+      "must_not_claim": []
+    }
+  ]
+}

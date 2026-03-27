@@ -1,0 +1,4 @@
+START run_id=20260309_020412_0b62a956 url=https://fathom.video/share/mAu9_pHzpFsV2y5vnf4Xf3Z5pRdVBP6s
+FETCH source=fathom_api status=ok
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260309_020412_0b62a956__Adam_Moldovan_and_Andre_Panet-Raymond.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260309_020412_0b62a956__gold_nugget_export.md

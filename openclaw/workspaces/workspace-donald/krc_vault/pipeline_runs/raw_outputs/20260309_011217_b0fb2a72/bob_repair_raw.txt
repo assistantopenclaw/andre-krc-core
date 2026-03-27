@@ -1,0 +1,7 @@
+Looking at SOUL.md, the CTA for Authority route is: "If you're gonna use this in your life, follow so you don't miss out on more applicable relationship wisdom."
+
+The schema expects: ["body line", "", "cta line"]
+
+I should create a concise body line. Let me use: "Most leaders describe a repeated delay loop: action is clear, execution is postponed."
+
+That matches the example pattern. Let me output the JSON.

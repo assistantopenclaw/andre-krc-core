@@ -1,0 +1,29 @@
+{
+  "run_id": "RUN_20260227_232117_QVx6A_nB",
+  "timestamp": "2026-02-27T23:21:17Z",
+  "status": "content_ready",
+  "files": {
+    "gold_nugget_export": "krc_vault/gold nugget exports/RUN_20260227_232117_QVx6A_nB__nuggets.json",
+    "finished_content": "krc_vault/finished content for posting/RUN_20260227_232117_QVx6A_nB__finished_content.md"
+  },
+  "drive": {
+    "file_id": "1OUD3LUZDKPFm9cP52xoe8P5SRGi_ijjJmiHSOv1zOQA",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1OUD3LUZDKPFm9cP52xoe8P5SRGi_ijjJmiHSOv1zOQA/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-02-27T23:22:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 2,
+    "hooks_per_post": 3,
+    "nuggets_used": [
+      "monogamy_of_god_014 (9.4)",
+      "challenging_childhood_default_015 (8.9)"
+    ]
+  },
+  "metadata": {
+    "client": "Isaac",
+    "call_type": "Introductory Deep-Dive / Alignment",
+    "call_date": "2026-02-27"
+  }
+}

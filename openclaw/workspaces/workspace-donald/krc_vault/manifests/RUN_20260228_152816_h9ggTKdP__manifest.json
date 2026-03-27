@@ -1,0 +1,30 @@
+{
+  "run_id": "RUN_20260228_152816_h9ggTKdP",
+  "timestamp": "2026-02-28T15:28:16Z",
+  "status": "content_ready",
+  "files": {
+    "gold_nugget_export": "krc_vault/gold nugget exports/RUN_20260228_152816_h9ggTKdP__nuggets.json",
+    "finished_content": "krc_vault/finished content for posting/RUN_20260228_152816_h9ggTKdP__finished_content.md"
+  },
+  "drive": {
+    "file_id": "1d9vTcR7t11_WHMq8mOpkoN2xJGrRuwL7rttpFWquDAw",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1d9vTcR7t11_WHMq8mOpkoN2xJGrRuwL7rttpFWquDAw/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-02-28T15:29:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 3,
+    "hooks_per_post": 3,
+    "nuggets_used": [
+      "bribing_god_trap_016 (9.6)",
+      "legal_rights_of_demons_018 (9.4)",
+      "satan_truth_slip_017 (9.2)"
+    ]
+  },
+  "metadata": {
+    "client": "JP",
+    "call_type": "Coaching / Spiritual Warfare / Deliverance",
+    "call_date": "2026-02-28"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "run_id": "RUN_20260227_203042_kgLpjMbo",
+  "source_url": "https://fathom.video/share/kgLpjMboKQuyJo8s9yQJnDCUjPV9B8aS",
+  "status": "ready_for_nuggets",
+  "error": null,
+  "log_path": "/home/openclaw_agent_1/krc_vault/run logs/RUN_20260227_203042_kgLpjMbo__run.log",
+  "manual_intake": true,
+  "raw_transcript_file": "/home/openclaw_agent_1/krc_vault/raw call transcripts/RUN_20260227_203042_kgLpjMbo__Augusto_Leal_and_Andre_Panet-Raymond.txt",
+  "notes": "Manual path completed by Tommy using recovered transcript; ready for Donald nugget processing."
+}

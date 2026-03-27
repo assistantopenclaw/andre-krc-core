@@ -1,0 +1,17 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260301_201739_0079aec5",
+  "source_id": "FATHOM: Isaac Martin",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "obj_confrontation_fear",
+      "objection_text": "I'm terrified of asking the hard questions or provoking confrontation.",
+      "underlying_belief": "Confrontation results in the loss of safety and the end of the relationship.",
+      "underlying_fear": "Being abandoned by my primary source of identity if I show my true thoughts.",
+      "counter_truth_angle": "Confrontation is the portal to genuine safety. If truth kills a relationship, the relationship was an idol with a bad map to begin with.",
+      "transcript_proof_quote_redacted": "I'm terrified of asking the hard questions... You're afraid of that confrontation... resulting in the most important thing in your life leaving.",
+      "proof_location": "ts: 00:45:17"
+    }
+  ]
+}

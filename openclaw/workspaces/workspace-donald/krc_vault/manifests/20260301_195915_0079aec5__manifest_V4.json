@@ -1,0 +1,25 @@
+{
+  "run_id": "20260301_195915_0079aec5",
+  "timestamp": "2026-03-01T20:09:00Z",
+  "status": "content_ready",
+  "title": "Isaac Martin Call - V4",
+  "pass": "V4_Refresh",
+  "files": {
+    "gold_nugget_export": "krc_vault/gold nugget exports/20260301_195915_0079aec5__Isaac_Martin_V4.json",
+    "finished_content": "krc_vault/finished content for posting/20260301_195915_0079aec5__finished_content_V4.md"
+  },
+  "drive": {
+    "file_id": "1KwNE9hU2Jo55ZdA9vYp3Dlu-9RlD5ILFEinqmHGXKmg",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1KwNE9hU2Jo55ZdA9vYp3Dlu-9RlD5ILFEinqmHGXKmg/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-03-01T20:10:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 1,
+    "nuggets_used": [
+      "monogamy_to_god_034_v4 (9.4)"
+    ],
+    "refresh_note": "V4 pass \u2014 fresh angles on previously covered nuggets per Andre request"
+  }
+}

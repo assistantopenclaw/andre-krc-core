@@ -1,0 +1,32 @@
+{
+  "run_id": "20260228_221520_2154e61f",
+  "timestamp": "2026-02-28T22:15:20Z",
+  "status": "content_ready",
+  "title": "Arno Marx Spiritual Warfare - Number Two",
+  "files": {
+    "gold_nugget_export": "krc_vault/gold nugget exports/20260228_221520_2154e61f__Arno_Marx_Spiritual_Warfare_number_two.json",
+    "finished_content": "krc_vault/finished content for posting/20260228_221520_2154e61f__finished_content.md"
+  },
+  "drive": {
+    "file_id": "1Yorxvx1Rh5C0XG9lcFORbHkWI1INAKRhnBf5o87bf3s",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1Yorxvx1Rh5C0XG9lcFORbHkWI1INAKRhnBf5o87bf3s/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-02-28T22:16:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 3,
+    "hooks_per_post": 3,
+    "nuggets_used": [
+      "spiritual_gym_buff_vs_skinny_005_v2 (9.6)",
+      "body_slam_satan_003_v2 (9.3)",
+      "identity_vs_counting_001_v2 (8.8)"
+    ]
+  },
+  "metadata": {
+    "client": "Arno Marx",
+    "call_type": "Coaching / Spiritual Warfare Strategy - Number Two",
+    "call_date": "2026-02-28",
+    "related_run": "RUN_20260227_183601_3GEaevca"
+  }
+}

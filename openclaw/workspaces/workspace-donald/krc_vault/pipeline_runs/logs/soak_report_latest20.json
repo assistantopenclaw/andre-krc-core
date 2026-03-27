@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-03-09T05:12:23.017975Z",
+  "sample": "latest_20_completed_runs_filtered_suffix_b0fb2a72",
+  "totals": {
+    "infra_session_lock_fail": 4,
+    "schema_fail": 3,
+    "newline_json_fail": 10,
+    "ok": 3
+  },
+  "by_stage": {
+    "bob": {
+      "infra_session_lock_fail": 4,
+      "schema_fail": 3,
+      "newline_json_fail": 10
+    },
+    "jimmy": {
+      "ok": 3
+    }
+  },
+  "pass_run": "20260308_203659_b0fb2a72",
+  "fail_run": "20260309_000429_b0fb2a72",
+  "latest_runs": [
+    {
+      "run_id": "20260309_000429_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "agent_call_failed agent=bob rc=1 err=outer/deepseek/deepseek-chat-v3-0324: session file locked (timeout 10000ms): pid=47557 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout) | openrouter/anthropic/claude-sonnet-4.6: session file locked (timeout 10000ms): pid=47557 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout)\n"
+    },
+    {
+      "run_id": "20260308_235909_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "agent_call_failed agent=bob rc=1 err=outer/deepseek/deepseek-chat-v3-0324: session file locked (timeout 10000ms): pid=47557 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout) | openrouter/anthropic/claude-sonnet-4.6: session file locked (timeout 10000ms): pid=47557 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout)\n"
+    },
+    {
+      "run_id": "20260308_235221_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "agent_call_failed agent=bob rc=1 err=outer/deepseek/deepseek-chat-v3-0324: session file locked (timeout 10000ms): pid=47557 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout) | openrouter/anthropic/claude-sonnet-4.6: session file locked (timeout 10000ms): pid=47557 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout)\n"
+    },
+    {
+      "run_id": "20260308_234655_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "agent_call_failed agent=bob rc=1 err=outer/deepseek/deepseek-chat-v3-0324: session file locked (timeout 10000ms): pid=47557 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout) | openrouter/anthropic/claude-sonnet-4.6: session file locked (timeout 10000ms): pid=47557 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout)\n"
+    },
+    {
+      "run_id": "20260308_234307_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "schema_fail:missing_final_caption_lines"
+    },
+    {
+      "run_id": "20260308_233457_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "schema_fail:missing_final_caption_lines"
+    },
+    {
+      "run_id": "20260308_232635_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "schema_fail:missing_final_caption_lines"
+    },
+    {
+      "run_id": "20260308_232405_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "newline_json_fail"
+    },
+    {
+      "run_id": "20260308_232159_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "newline_json_fail"
+    },
+    {
+      "run_id": "20260308_231937_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "newline_json_fail"
+    },
+    {
+      "run_id": "20260308_231201_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "newline_json_fail"
+    },
+    {
+      "run_id": "20260308_230744_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "newline_json_fail"
+    },
+    {
+      "run_id": "20260308_230434_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "newline_json_fail"
+    },
+    {
+      "run_id": "20260308_230101_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "newline_json_fail"
+    },
+    {
+      "run_id": "20260308_225827_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "newline_json_fail"
+    },
+    {
+      "run_id": "20260308_225257_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "newline_json_fail"
+    },
+    {
+      "run_id": "20260308_203659_b0fb2a72",
+      "kind": "archive",
+      "stage": null,
+      "error": null
+    },
+    {
+      "run_id": "20260308_203547_b0fb2a72",
+      "kind": "archive",
+      "stage": null,
+      "error": null
+    },
+    {
+      "run_id": "20260308_203358_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "error": "newline_json_fail"
+    },
+    {
+      "run_id": "20260308_203247_b0fb2a72",
+      "kind": "archive",
+      "stage": null,
+      "error": null
+    }
+  ]
+}

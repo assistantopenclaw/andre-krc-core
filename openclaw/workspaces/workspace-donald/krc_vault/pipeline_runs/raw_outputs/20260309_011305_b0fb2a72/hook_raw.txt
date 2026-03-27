@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "The loop does not feel like fear because you have spent enough cycles learning to call it something else.",
+  "overlay_hook_2": "You do not forfeit authority in a moment of failure, you forfeit it across a pattern of chosen delays.",
+  "overlay_hook_3": "Vision does not stall from lack of clarity, it stalls from leaders who will not act on the clarity they have.",
+  "overlay_cta": "read caption"
+}
+```

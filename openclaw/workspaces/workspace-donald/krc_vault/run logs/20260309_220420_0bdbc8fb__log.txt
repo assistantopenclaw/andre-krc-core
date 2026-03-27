@@ -1,0 +1,2 @@
+START run_id=20260309_220420_0bdbc8fb url=--help
+Domain not allowed. Required substring: fathom

@@ -1,0 +1,21 @@
+Two distinct run_ids detected. Producing separate outputs.
+
+**run_id: 20260309_022809**
+```json
+{
+  "overlay_hook_1": "The action is clear, the resistance is loud, and every cycle you choose the resistance, you deepen the loop.",
+  "overlay_hook_2": "Visions do not drift on their own, they drift when leaders keep mistaking procrastination for discernment.",
+  "overlay_hook_3": "Obedience becomes a reflex only after you stop negotiating with delay and actually move on what you know.",
+  "overlay_cta": "read caption"
+}
+```
+
+**run_id: 20260309_022206**
+```json
+{
+  "overlay_hook_1": "Calling it strategic patience does not change what it is, it is a pattern training you to obey fear.",
+  "overlay_hook_2": "The resistance whispering that you need more prayer before acting is not wisdom, it is avoidance with theology.",
+  "overlay_hook_3": "From postponed vision to manifested impact is one decision away, and that decision is called surrender.",
+  "overlay_cta": "read caption"
+}
+```

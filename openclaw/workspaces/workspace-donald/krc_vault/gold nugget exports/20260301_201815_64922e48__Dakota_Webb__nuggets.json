@@ -1,0 +1,51 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260301_201815_64922e48",
+  "source_id": "FATHOM: Dakota Webb",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "dakota_001",
+      "category": "truth_flip",
+      "idea_one_liner": "Doom scrolling is a literal thief of time, stealing months of active life from your year while masquerading as simple relaxation.",
+      "why_it_hits": "Jarring mathematical reality check that turns a common habit into a terrifying loss of potential.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Men stuck in digital passivity",
+      "caption_fit": "tight",
+      "value_score_overall": 10,
+      "value_equation": {
+        "dream_outcome": "Reclaim 4.5 months of life per year",
+        "perceived_likelihood": "Immediate through deleting apps",
+        "time_delay": "immediate",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Massive boost in productivity", "Sudden clarity"],
+        "denominator_notes": ["Requires breaking addiction"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 2,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "That's how many days out of one year... full days... 136... divide that by 30... 4.55 [months]... literally wasting my life while I'm on my phone. Jesus. I didn't realize it was that bad.",
+      "proof_location": "ts: 01:21:45",
+      "proof_anchor_lines": ["Vast majority of people are literally giving away months of their life on an iPhone", "The math of doom scrolling is a mirror of your wasted potential"],
+      "micro_tags": {"hookable": true, "tension": true, "flip": true, "mechanism": true, "story": false, "pattern_interrupt": true, "payoff": true},
+      "hook_angle_1_stakes": "Your phone is charging you 4.5 months of rent per year.",
+      "hook_angle_2_identity": "The man who owns his thumb and his time.",
+      "hook_angle_3_mechanism": "The 'Phone-to-Month' conversion that will make you delete TikTok.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "The Time Thief",
+      "enemy_frame_proof_redacted": "You've been [curse] slacking your life away. What are you doing, bro? You have potential and you're just wasting it.",
+      "first_step_seed": "Check your Screen Time right now. Multiply daily average by 365, divide by 24. Look at that number of days and repent.",
+      "cta_runway_fit": "strong",
+      "sensitivity_flag": "none",
+      "redaction_notes": "",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {"stop_power": 10, "hold_power": 9, "payoff_power": 10, "overall": 10},
+      "must_not_claim": []
+    }
+  ]
+}

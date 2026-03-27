@@ -1,0 +1,11 @@
+{
+  "id": "20260228-000856-test-idea",
+  "title": "Test idea",
+  "description": "one-line test",
+  "status": "closed",
+  "created_at": "2026-02-28T00:08:56-06:00",
+  "updated_at": "2026-02-28T00:08:56-06:00",
+  "source_text": "remember this test",
+  "closed_at": "2026-02-28T00:08:56-06:00",
+  "full_idea": "remember this test"
+}

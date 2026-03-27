@@ -1,0 +1,21 @@
+# CALL DIGEST: Barbara Brandyberry
+
+- **run_id**: 20260307_063002_b10df11c
+- **source_id**: FATHOM:Hyf6QJAGXFimPtqpszx5DM2G3-nXgxuQ
+- **call_type**: coaching
+- **main_themes**: 
+    - Emotional avoidance through laughter.
+    - Spiritual exhaustion from over-giving (Grandchildren/Daughter).
+    - Disconnection from God despite theological knowledge.
+    - Overcoming the fear of facing internal pain.
+- **emotional_peaks**: 
+    - Realization that laughter is a shield (ts: 00:18:00).
+    - Desperation regarding daughter's anger and the burden of care (ts: 00:45:00).
+    - Recalling the experience of God's presence during breast cancer treatment (ts: 01:04:00).
+- **top_objections**: 
+    - Spiritual inertia ("I know the verses but feel far").
+    - Cost/Financial "bind".
+- **top_truth_flips**: 
+    - Self-care is a prerequisite for ministry (Oxygen Mask).
+    - Laughter is deflection, not healing.
+- **patch_notes**: Prospector focus on Christ-centered foundation shifts and the "Oxygen Mask" mechanism.

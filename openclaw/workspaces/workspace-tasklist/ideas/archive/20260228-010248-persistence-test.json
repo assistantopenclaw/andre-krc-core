@@ -1,0 +1,12 @@
+{
+  "id": "20260228-010248-persistence-test",
+  "title": "Persistence test",
+  "description": "Verify memory append",
+  "status": "closed",
+  "created_at": "2026-02-28T01:02:48-06:00",
+  "updated_at": "2026-03-01T13:28:03-06:00",
+  "full_idea": "remember this exact long idea body for persistence",
+  "source_text": "remember this exact long idea body for persistence",
+  "closed_at": "2026-03-01T13:28:03-06:00",
+  "reopened_at": "2026-02-28T01:02:51-06:00"
+}

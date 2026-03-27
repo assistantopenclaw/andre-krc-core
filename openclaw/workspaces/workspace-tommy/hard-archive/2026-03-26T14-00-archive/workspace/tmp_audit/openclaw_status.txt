@@ -1,0 +1,72 @@
+OpenClaw status
+
+Overview
+┌─────────────────┬───────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Item            │ Value                                                                                             │
+├─────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ Dashboard       │ http://127.0.0.1:18789/                                                                           │
+│ OS              │ linux 6.6.87.2-microsoft-standard-WSL2 (x64) · node 25.8.0                                        │
+│ Tailscale       │ off                                                                                               │
+│ Channel         │ stable (default)                                                                                  │
+│ Update          │ available · pnpm · npm update 2026.3.7                                                            │
+│ Gateway         │ local · ws://127.0.0.1:18789 (local loopback) · reachable 22ms · auth token · ANDRE-GAMING (172.  │
+│                 │ 18.162.119) app 2026.3.2 linux 6.6.87.2-microsoft-standard-WSL2                                   │
+│ Gateway service │ systemd installed · enabled · running (pid 47557, state active)                                   │
+│ Node service    │ systemd not installed                                                                             │
+│ Agents          │ 11 · 11 bootstrap files present · sessions 75 · default main active 9m ago                        │
+│ Memory          │ 0 files · 0 chunks · dirty · sources memory · plugin memory-core · vector unknown · fts ready ·   │
+│                 │ cache on (0)                                                                                      │
+│ Probes          │ skipped (use --deep)                                                                              │
+│ Events          │ none                                                                                              │
+│ Heartbeat       │ 30m (main), disabled (alex), disabled (bob), disabled (captainhook), disabled (donald), disabled  │
+│                 │ (jimmy), disabled (mark), disabled (overseer), disabled (research), disabled (tasklist),          │
+│                 │ disabled (tommy)                                                                                  │
+│ Sessions        │ 75 active · default google/gemini-3-flash-preview (200k ctx) · 11 stores                          │
+└─────────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Security audit
+Summary: 0 critical · 1 warn · 1 info
+  WARN Reverse proxy headers are not trusted
+    gateway.bind is loopback and gateway.trustedProxies is empty. If you expose the Control UI through a reverse proxy, configure trusted proxies so local-client c…
+    Fix: Set gateway.trustedProxies to your proxy IPs or keep the Control UI local-only.
+Full report: openclaw security audit
+Deep probe: openclaw security audit --deep
+
+Channels
+┌──────────┬─────────┬────────┬───────────────────────────────────────────────────────────────────────────────────────┐
+│ Channel  │ Enabled │ State  │ Detail                                                                                │
+├──────────┼─────────┼────────┼───────────────────────────────────────────────────────────────────────────────────────┤
+│ Telegram │ ON      │ OK     │ token config×9 (8513…gGZg · len 46) · accounts 9/9                                    │
+└──────────┴─────────┴────────┴───────────────────────────────────────────────────────────────────────────────────────┘
+
+Sessions
+┌────────────────────────────────┬────────┬─────────┬───────────────────────────────┬─────────────────────────────────┐
+│ Key                            │ Kind   │ Age     │ Model                         │ Tokens                          │
+├────────────────────────────────┼────────┼─────────┼───────────────────────────────┼─────────────────────────────────┤
+│ agent:tommy:telegram:direct:84 │ direct │ 1m ago  │ openai/gpt-5.3-codex          │ 162k/400k (40%)                 │
+│ 3…                             │        │         │                               │                                 │
+│ agent:tommy:main               │ direct │ 1m ago  │ openai/gpt-5.3-codex          │ 179k/400k (45%) · 🗄️ 99% cached │
+│ agent:donald:telegram:direct:8 │ direct │ 3m ago  │ google/gemini-3-flash-preview │ 13k/1049k (1%) · 🗄️ 97% cached  │
+│ 4…                             │        │         │                               │                                 │
+│ agent:donald:main              │ direct │ 3m ago  │ google/gemini-3-flash-preview │ 76k/1049k (7%)                  │
+│ agent:main:main                │ direct │ 9m ago  │ openai/gpt-5-mini             │ 13k/400k (3%) · 🗄️ 53% cached   │
+│ agent:captainhook:main         │ direct │ 9m ago  │ anthropic/claude-sonnet-4.6   │ 21k/1000k (2%) · 🗄️ 97% cached  │
+│ agent:bob:main                 │ direct │ 9m ago  │ deepseek/deepseek-chat-v3.1   │ 27k/33k (83%) · 🗄️ 12% cached   │
+│ agent:mark:main                │ direct │ 10m ago │ moonshotai/kimi-k2-thinking   │ 25k/131k (19%) · 🗄️ 97% cached  │
+│ agent:jimmy:telegram:direct:84 │ direct │ 11m ago │ anthropic/claude-sonnet-4.6   │ 16k/1000k (2%) · 🗄️ 97% cached  │
+│ 3…                             │        │         │                               │                                 │
+│ agent:captainhook:telegram:dir │ direct │ 12m ago │ anthropic/claude-sonnet-4.6   │ 15k/1000k (2%)                  │
+│ e…                             │        │         │                               │                                 │
+└────────────────────────────────┴────────┴─────────┴───────────────────────────────┴─────────────────────────────────┘
+
+FAQ: https://docs.openclaw.ai/faq
+Troubleshooting: https://docs.openclaw.ai/troubleshooting
+
+Update available (npm 2026.3.7). Run: openclaw update
+
+Next steps:
+  Need to share?      openclaw status --all
+  Need to debug live? openclaw logs --follow
+  Need to test channels? openclaw status --deep
+
+---STDERR---

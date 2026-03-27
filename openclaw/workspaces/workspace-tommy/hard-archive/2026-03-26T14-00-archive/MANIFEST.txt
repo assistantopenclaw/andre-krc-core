@@ -1,0 +1,91 @@
+Pure Signal archive cleanup 2026-03-26T14-00-archive
+--- workspace tmp_* ---
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_audit -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_audit
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_cron_out.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_cron_out.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_cron_out2.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_cron_out2.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_cron_trace.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_cron_trace.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_cron_trace2.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_cron_trace2.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_finalizer_input.md -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_finalizer_input.md
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_gog_convert_err.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_gog_convert_err2.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err2.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_gog_convert_err3.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err3.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_gog_convert_err4.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err4.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_gog_convert_err5.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err5.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_gog_convert_err6.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err6.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_gog_convert_err7.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err7.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_gog_convert_err8.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err8.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_gog_err.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_err.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_gog_err_verbose.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_err_verbose.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_gog_err_verbose2.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_err_verbose2.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_jimmy_local_ping.err -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_jimmy_local_ping.err
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_jimmy_local_ping.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_jimmy_local_ping.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_meta_error_report.pdf -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_meta_error_report.pdf
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_meta_error_report.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_meta_error_report.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_phase9_contentwriter_output.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_phase9_contentwriter_output.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_run_err.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_run_err.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_run_out.txt -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_run_out.txt
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_test_upload.md -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_test_upload.md
+--- explicit workspace dirs ---
+MOVED /home/openclaw_agent_1/.openclaw/workspace-tommy/krc_scaffold -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/krc_scaffold
+MISSING /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_audit
+MISSING /home/openclaw_agent_1/.openclaw/workspace-tommy/recovery_snapshot_2026-03-09
+--- scripts legacy ---
+MOVED /home/openclaw_agent_1/.openclaw/scripts/krc/legacy_disabled_2026-03-11 -> /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11
+--- stale systemd user unit backup + removal ---
+REMOVED stale unit /home/openclaw_agent_1/.config/systemd/user/manager-live.service (backup at /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/systemd-user/manager-live.service)
+--- post checks ---
+CLEARED /home/openclaw_agent_1/.openclaw/workspace-tommy/krc_scaffold
+CLEARED /home/openclaw_agent_1/.openclaw/workspace-tommy/tmp_audit
+CLEARED /home/openclaw_agent_1/.openclaw/scripts/krc/legacy_disabled_2026-03-11
+CLEARED /home/openclaw_agent_1/.config/systemd/user/manager-live.service
+d /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts
+d /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11
+d /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/systemd-user
+d /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace
+d /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/krc_scaffold
+d /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_audit
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/MANIFEST.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/daily_lunch_digest.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/deterministic_pipeline_v2.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/donald_agent_extract.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/donald_batch_from_library.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/donald_extract_from_manifest.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/jimmy_batch_from_last.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/jimmy_generate_from_last_batch.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/jimmy_generate_from_nuggets.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/jimmy_process_export.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/marketing_pipeline_orchestrator.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/run_pipeline_one_lane.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/scripts/legacy_disabled_2026-03-11/run_pipeline_queue_once.sh
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/systemd-user/manager-live.service
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/krc_scaffold/README.md
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/krc_scaffold/donald_process_url.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/krc_scaffold/jimmy_process_export.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/krc_scaffold/run_helpers.py
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_audit/marketing_team_audit.md
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_audit/openclaw_gateway_status.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_audit/openclaw_status.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_cron_out.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_cron_out2.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_cron_trace.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_cron_trace2.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_finalizer_input.md
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err2.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err3.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err4.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err5.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err6.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err7.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_convert_err8.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_err.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_err_verbose.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_gog_err_verbose2.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_jimmy_local_ping.err
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_jimmy_local_ping.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_meta_error_report.pdf
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_meta_error_report.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_phase9_contentwriter_output.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_run_err.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_run_out.txt
+f /home/openclaw_agent_1/.openclaw/workspace-tommy/hard-archive/2026-03-26T14-00-archive/workspace/tmp_test_upload.md

@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "Delay does not protect your vision from premature failure, it guarantees a slower and quieter atrophy.",
+  "overlay_hook_2": "You are not confused about what to do, you are afraid of what obedience will cost you to actually do it.",
+  "overlay_hook_3": "The question is not whether delay is your strategy, it is whether you have the courage to name it as fear.",
+  "overlay_cta": "read caption"
+}
+```

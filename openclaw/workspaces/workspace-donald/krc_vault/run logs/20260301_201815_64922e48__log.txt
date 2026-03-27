@@ -1,0 +1,4 @@
+START run_id=20260301_201815_64922e48 url=https://fathom.video/share/Dbuph_FFiBcELQgf--xGoot7wxf3JPsf
+FETCH source=fathom_api status=ok
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260301_201815_64922e48__Dakota_Webb_and_Andre_Panet-Raymond.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260301_201815_64922e48__gold_nugget_export.md

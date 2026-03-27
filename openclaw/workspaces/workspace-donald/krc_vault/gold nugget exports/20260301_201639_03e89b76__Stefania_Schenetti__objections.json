@@ -1,0 +1,17 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260301_201639_03e89b76",
+  "source_id": "FATHOM: Stefania Schenetti",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "obj_scaring_men",
+      "objection_text": "I'm afraid to ask deep questions because men won't be ready and will be scared away.",
+      "underlying_belief": "Vetting is a process of manipulation/softness rather than a clear search for truth.",
+      "underlying_fear": "Being alone forever because I am too 'intense' or 'selective'.",
+      "counter_truth_angle": "Men actually value time and honesty; ask for permission to 'go deep' and you save months of wasted energy on the wrong candidates.",
+      "transcript_proof_quote_redacted": "I was wondering... if I do this kind of question from the beginning, they will understand, they will not be ready for this kind of question... men actually like that more than you expect because men don't like wasting time.",
+      "proof_location": "ts: 00:27:38"
+    }
+  ]
+}

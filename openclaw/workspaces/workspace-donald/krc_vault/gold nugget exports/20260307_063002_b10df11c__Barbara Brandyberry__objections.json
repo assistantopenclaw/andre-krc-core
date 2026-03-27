@@ -1,0 +1,26 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260307_063002_b10df11c",
+  "source_id": "FATHOM:Hyf6QJAGXFimPtqpszx5DM2G3-nXgxuQ",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "OBJ_001",
+      "objection_text": "I already know all the Bible verses and truths, but they don't seem to work.",
+      "underlying_belief": "Knowledge equals transformation.",
+      "underlying_fear": "That God has abandoned me or that I am beyond repair despite my knowledge.",
+      "counter_truth_angle": "Knowledge is the map; faith is the walking. You can't just know the mask exists; you have to put it on.",
+      "transcript_proof_quote_redacted": "I know all the Bible verses. I know. Oh, he's not left me in that he never will. But why do I feel so far away from him?",
+      "proof_location": "ts: 00:31:00"
+    },
+    {
+      "objection_id": "OBJ_002",
+      "objection_text": "I can't afford it; it would put a bind on everything.",
+      "underlying_belief": "Financial scarcity is a valid reason to delay spiritual survival.",
+      "underlying_fear": "Losing control of my last remaining security (money) while everything else is in chaos.",
+      "counter_truth_angle": "Is it more expensive to invest in your soul, or to continue paying the price of total burnout and broken family dynamics?",
+      "transcript_proof_quote_redacted": "It would put a bind on everything. ... It's hard for me to stand up for myself.",
+      "proof_location": "ts: 01:34:00"
+    }
+  ]
+}

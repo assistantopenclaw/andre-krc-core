@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "Postponing clear action is not a strategy, it is a training program where fear becomes your instructor.",
+  "overlay_hook_2": "Resistance does not shrink the longer you delay, it grows more persuasive and starts to sound like God.",
+  "overlay_hook_3": "You are not waiting on God for more clarity, you already have it, and God is waiting on your surrender.",
+  "overlay_cta": "read caption"
+}
+```

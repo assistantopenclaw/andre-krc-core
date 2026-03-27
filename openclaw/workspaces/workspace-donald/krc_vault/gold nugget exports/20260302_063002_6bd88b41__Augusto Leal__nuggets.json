@@ -1,0 +1,185 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260302_063002_6bd88b41",
+  "source_id": "FATHOM:3sXnwgFgxZQJDT84Aryxay59psZtsXWS",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "nugget_001",
+      "category": "truth_flip",
+      "idea_one_liner": "Work is not an impediment to God, but a devotional offering and vehicle for Him.",
+      "why_it_hits": "Flips the common burnout/secular frame of work as a 'necessary evil' into a spiritual discipline.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "entrepreneurs, professionals",
+      "caption_fit": "normal",
+      "value_score_overall": 9,
+      "value_equation": {
+        "dream_outcome": "Unity with God in every moment, including the 9-to-5.",
+        "perceived_likelihood": "High, anchored in the example of Jesus as a carpenter.",
+        "time_delay": "immediate",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Directly addresses the largest gap in a man's life: the workplace.", "Connects the material world to spiritual growth."],
+        "denominator_notes": ["Requires a total shift in how one views Excel sheets and calls."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 2,
+          "speed_C": 2,
+          "effort_clarity_D": 1
+        }
+      },
+      "proof_quote_redacted": "I struggle with that, because I just kind of see it as an impediment to being close to God, but I really need to see it as an offering to grow closer to Him... Work is a vehicle for me... How can those two be completely intertwined and not have a tension of separation, but just be a complete alignment with ourself?",
+      "proof_location": "ts: 00:31:17",
+      "proof_anchor_lines": [
+        "Work feels like a distraction from prayer.",
+        "Turn the task into an offering back to Him."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "If your work is just a transaction, your soul is starving for 40 hours a week.",
+      "hook_angle_2_identity": "From 'obedient employee' to 'devoted servant'—how to change your identity at the office.",
+      "hook_angle_3_mechanism": "The 'Devotional Offering' framework for Excel sheets and meetings.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "Work-Life Tension",
+      "enemy_frame_proof_redacted": "I just kind of see it as an impediment to being close to God",
+      "first_step_seed": "Spend one minute before your next call dedicating it as an offering to God.",
+      "cta_runway_fit": "medium",
+      "sensitivity_flag": "none",
+      "redaction_notes": "None needed.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 8,
+        "hold_power": 8,
+        "payoff_power": 9,
+        "overall": 8.5
+      },
+      "must_not_claim": ["Guaranteed raises", "Instant joy in every manual task"]
+    },
+    {
+      "nugget_id": "nugget_002",
+      "category": "revelation",
+      "idea_one_liner": "Jesus spent 90% of His adult life as a carpenter, not a preacher.",
+      "why_it_hits": "Humanizes Christ and validates the 'hidden' years of ordinary labor.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "men seeking purpose in the mundane",
+      "caption_fit": "tight",
+      "value_score_overall": 8,
+      "value_equation": {
+        "dream_outcome": "Peace in the ordinary and belief that God is in the waiting.",
+        "perceived_likelihood": "High, biblical fact.",
+        "time_delay": "immediate",
+        "effort_sacrifice": "low",
+        "numerator_notes": ["Radical perspective on the 'silent years' of Jesus.", "Relieves the pressure to be 'extraordinary' immediately."],
+        "denominator_notes": ["Requires patience with one's current season."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 3,
+          "mechanism_B": 1,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "Jesus wasn't in a rush at all... he was a carpenter until he was 29... from when he was like a 20-year-old until he was 30, he was just a carpenter... sitting by the campfire, just like chilling... and that's God.",
+      "proof_location": "ts: 00:32:44",
+      "proof_anchor_lines": [
+        "Jesus was a carpenter for ten years before His ministry.",
+        "God isn't in a rush for your 'big break'."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": false,
+        "flip": true,
+        "mechanism": false,
+        "story": true,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "You're stressed because you aren't 'successful' yet. Jesus was building chairs at 28.",
+      "hook_angle_2_identity": "Are you a builder or a leader? Jesus was both, mostly at the same time.",
+      "hook_angle_3_mechanism": "The theology of the workbench.",
+      "enemy_frame_type": "emotional",
+      "enemy_frame_label": "Hurry Sickness",
+      "enemy_frame_proof_redacted": "my neurosis for needing to accomplish so much in my day has diminished significantly",
+      "first_step_seed": "Find one ordinary task today and do it with the craftsmanship of Christ.",
+      "cta_runway_fit": "weak",
+      "sensitivity_flag": "none",
+      "redaction_notes": "",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 9,
+        "hold_power": 7,
+        "payoff_power": 8,
+        "overall": 8
+      },
+      "must_not_claim": []
+    },
+    {
+      "nugget_id": "nugget_003",
+      "category": "framework",
+      "idea_one_liner": "Hardship is not abandonment; it is the discipline of a Loving Father.",
+      "why_it_hits": "Reframes pain as confirmation of sonship rather than evidence of God's absence.",
+      "post_class_recommendation": "Conversion",
+      "conversion_angle": "heartbreak",
+      "audience_fit": "men going through trials",
+      "caption_fit": "normal",
+      "value_score_overall": 9,
+      "value_equation": {
+        "dream_outcome": "Stable identity even when life is falling apart.",
+        "perceived_likelihood": "High, based on Hebrews 12.",
+        "time_delay": "short",
+        "effort_sacrifice": "high",
+        "numerator_notes": ["Moves from 'victim' to 'son'.", "Exposes the lie that 'good things only happen to good people'."],
+        "denominator_notes": ["Hard to accept while in the middle of a storm."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 1,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "the Lord disciplines the one he loves, and he chastens everyone he accepts as his son... If you are not disciplined, and everyone undergoes discipline, then you are not legitimate, not true sons and daughters at all.",
+      "proof_location": "ts: 00:41:30",
+      "proof_anchor_lines": [
+        "Discipline is the proof of your legimitacy.",
+        "God treats you like a son, not a stranger."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "If your life is too easy, God might not be disciplining you as a son.",
+      "hook_angle_2_identity": "Are you a 'legitimate' son or an orphan? The difference is how you view trials.",
+      "hook_angle_3_mechanism": "The 'Trial to Sonship' pipeline.",
+      "enemy_frame_type": "spiritual",
+      "enemy_frame_label": "Orphan Spirit",
+      "enemy_frame_proof_redacted": "I can see the gap... asking for his grace for me to actually, like, grow into being his son.",
+      "first_step_seed": "Thank God for the thing that is currently disciplining you.",
+      "cta_runway_fit": "strong",
+      "sensitivity_flag": "trauma",
+      "redaction_notes": "Handle carefully as it touches on fatherhood and discipline.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 9,
+        "hold_power": 8,
+        "payoff_power": 9,
+        "overall": 9
+      },
+      "must_not_claim": ["All pain is God's will", "Discipline is always fun"]
+    }
+  ]
+}

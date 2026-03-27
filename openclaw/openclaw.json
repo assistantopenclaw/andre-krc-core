@@ -1,0 +1,659 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.3.11",
+    "lastTouchedAt": "2026-03-23T05:39:25.294Z"
+  },
+  "env": {
+    "GOG_KEYRING_PASSWORD": "{{GOG_KEYRING_PASSWORD}}",
+    "FATHOM_API_KEY": "{{FATHOM_API_KEY}}",
+    "FATHOM_WEBHOOK_SECRET": "{{FATHOM_WEBHOOK_SECRET}}",
+    "FATHOM_API_BASE_URL": "https://api.fathom.ai"
+  },
+  "wizard": {
+    "lastRunAt": "2026-03-12T03:10:32.152Z",
+    "lastRunVersion": "2026.3.8",
+    "lastRunCommand": "configure",
+    "lastRunMode": "local"
+  },
+  "browser": {
+    "enabled": true,
+    "evaluateEnabled": true,
+    "defaultProfile": "openclaw",
+    "ssrfPolicy": {
+      "dangerouslyAllowPrivateNetwork": true
+    },
+    "profiles": {
+      "openclaw": {
+        "cdpPort": 18800,
+        "color": "#FF4500"
+      }
+    }
+  },
+  "auth": {
+    "profiles": {
+      "openrouter:default": {
+        "provider": "openrouter",
+        "mode": "api_key"
+      },
+      "openrouter:manual": {
+        "provider": "openrouter",
+        "mode": "token"
+      }
+    },
+    "order": {
+      "openrouter": [
+        "openrouter:manual",
+        "openrouter:default"
+      ]
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "openrouter/google/gemini-3-flash-preview",
+        "fallbacks": [
+          "openrouter/openai/gpt-5-mini",
+          "openrouter/google/gemini-3-flash",
+          "openai/gpt-5.3-codex",
+          "openrouter/openai/gpt-5.2",
+          "openrouter/anthropic/claude-sonnet-4.6",
+          "openai/gpt-5.2",
+          "google/gemini-3-flash-preview",
+          "anthropic/claude-sonnet-4.6",
+          "openrouter/moonshotai/kimi-k2.5",
+          "openrouter/openai/gpt-5.4",
+          "openrouter/openai/gpt-5.3-codex"
+        ]
+      },
+      "models": {
+        "openrouter/openai/gpt-5-mini": {
+          "alias": "GPT-5 Mini"
+        },
+        "openrouter/google/gemini-3-flash": {
+          "alias": "Gemini 3 Flash"
+        },
+        "openai/gpt-5.3-codex": {
+          "alias": "Codex 5.3"
+        },
+        "openrouter/google/gemini-3-flash-preview": {
+          "alias": "Gemini 3 Flash Preview"
+        },
+        "openrouter/openai/gpt-5.2": {
+          "alias": "GPT 5.2"
+        },
+        "openrouter/anthropic/claude-sonnet-4.6": {
+          "alias": "Claude Sonnet 4.6"
+        },
+        "openai/gpt-5.2": {
+          "alias": "GPT 5.2"
+        },
+        "google/gemini-3-flash-preview": {
+          "alias": "Gemini 3 Flash Preview"
+        },
+        "anthropic/claude-sonnet-4.6": {
+          "alias": "Claude Sonnet 4.6"
+        },
+        "openrouter/moonshotai/kimi-k2.5": {},
+        "openrouter/openai/gpt-5.4": {},
+        "openrouter/openai/gpt-5.3-codex": {},
+        "minimax/minimax-m2.7": {
+          "alias": "MiniMax M2.7"
+        },
+        "openrouter/minimax/minimax-m2.7": {
+          "alias": "MiniMax M2.7 (OR)",
+          "params": {
+            "temperature": 0.1,
+            "top_p": 0.95
+          }
+        }
+      },
+      "workspace": "/home/openclaw_agent_1/.openclaw/workspace",
+      "thinkingDefault": "medium"
+    },
+    "list": [
+      {
+        "id": "main",
+        "default": true,
+        "name": "Main",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace",
+        "model": {
+          "primary": "openrouter/openai/gpt-5-mini",
+          "fallbacks": [
+            "openrouter/google/gemini-3-flash-preview"
+          ]
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "tommy",
+        "name": "Tommy",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-tommy",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/tommy/agent",
+        "model": {
+          "primary": "openrouter/minimax/minimax-m2.7",
+          "fallbacks": [
+            "openrouter/openai/gpt-5.4",
+            "openrouter/openai/gpt-5.3-codex",
+            "openrouter/openai/gpt-5.2"
+          ]
+        },
+        "identity": {
+          "name": "Tommy"
+        },
+        "thinkingDefault": "high"
+      },
+      {
+        "id": "research",
+        "name": "R2",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-research",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/research/agent",
+        "model": {
+          "primary": "openrouter/google/gemini-3-flash-preview",
+          "fallbacks": [
+            "openrouter/openai/gpt-5-mini"
+          ]
+        },
+        "identity": {
+          "name": "R2"
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "tasklist",
+        "name": "tasklist",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-tasklist",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/tasklist/agent",
+        "model": {
+          "primary": "openrouter/openai/gpt-5-nano",
+          "fallbacks": [
+            "openrouter/openai/gpt-5-nano"
+          ]
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "alex",
+        "name": "Alex",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-alex-ceo",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/alex/agent",
+        "model": {
+          "primary": "openrouter/moonshotai/kimi-k2-thinking",
+          "fallbacks": []
+        },
+        "identity": {
+          "name": "Alex"
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "donald",
+        "name": "LEGACY Donald (inactive)",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-donald",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/donald/agent",
+        "model": {
+          "primary": "openrouter/google/gemini-3-flash-preview",
+          "fallbacks": [
+            "openrouter/openai/gpt-5-mini"
+          ]
+        },
+        "identity": {
+          "name": "LEGACY Donald (inactive)"
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "jimmy",
+        "name": "LEGACY Jimmy (inactive)",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-jimmy",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/jimmy/agent",
+        "model": {
+          "primary": "openrouter/anthropic/claude-sonnet-4.6",
+          "fallbacks": [
+            "openrouter/openai/gpt-5-mini"
+          ]
+        },
+        "identity": {
+          "name": "LEGACY Jimmy (inactive)"
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "bob",
+        "name": "LEGACY Bob (inactive)",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-bob",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/bob/agent",
+        "model": {
+          "primary": "openrouter/deepseek/deepseek-chat-v3.1",
+          "fallbacks": [
+            "openrouter/deepseek/deepseek-chat-v3-0324",
+            "openrouter/anthropic/claude-sonnet-4.6"
+          ]
+        },
+        "identity": {
+          "name": "LEGACY Bob (inactive)"
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "mark",
+        "name": "LEGACY Mark (inactive)",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-mark",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/mark/agent",
+        "model": {
+          "primary": "openrouter/moonshotai/kimi-k2-thinking",
+          "fallbacks": [
+            "openrouter/anthropic/claude-sonnet-4.6"
+          ]
+        },
+        "identity": {
+          "name": "LEGACY Mark (inactive)"
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "captainhook",
+        "name": "LEGACY Captain Hook (inactive)",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-captainhook",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/captainhook/agent",
+        "model": {
+          "primary": "openrouter/anthropic/claude-sonnet-4.6",
+          "fallbacks": [
+            "openai/gpt-5.1"
+          ]
+        },
+        "identity": {
+          "name": "LEGACY Captain Hook (inactive)"
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "overseer",
+        "name": "Overseer",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-overseer",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/overseer/agent",
+        "model": {
+          "primary": "openrouter/anthropic/claude-sonnet-4.6",
+          "fallbacks": [
+            "openai/gpt-5.1"
+          ]
+        },
+        "identity": {
+          "name": "Overseer"
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "transcriptscraper",
+        "name": "Transcript Scraper",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-transcriptscraper",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/transcriptscraper/agent",
+        "model": {
+          "primary": "openrouter/google/gemini-3-flash-preview",
+          "fallbacks": [
+            "openrouter/openai/gpt-5-mini"
+          ]
+        },
+        "identity": {
+          "name": "Transcript Scraper"
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "contentwriter",
+        "name": "Content Writer",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace-contentwriter",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/contentwriter/agent",
+        "model": {
+          "primary": "openrouter/anthropic/claude-sonnet-4.6",
+          "fallbacks": [
+            "openrouter/openai/gpt-5-mini"
+          ]
+        },
+        "identity": {
+          "name": "Content Writer"
+        },
+        "tools": {
+          "elevated": {
+            "enabled": false
+          }
+        }
+      },
+      {
+        "id": "manager",
+        "name": "Manager",
+        "workspace": "/home/openclaw_agent_1/.openclaw/workspace",
+        "agentDir": "/home/openclaw_agent_1/.openclaw/agents/manager/agent",
+        "model": {
+          "primary": "openrouter/openai/gpt-5-mini",
+          "fallbacks": [
+            "openrouter/google/gemini-3-flash-preview"
+          ]
+        },
+        "identity": {
+          "name": "Manager"
+        }
+      }
+    ]
+  },
+  "tools": {
+    "profile": "coding",
+    "allow": [],
+    "web": {
+      "search": {
+        "enabled": true,
+        "provider": "brave"
+      },
+      "fetch": {
+        "enabled": true
+      }
+    },
+    "sessions": {
+      "visibility": "all"
+    },
+    "agentToAgent": {
+      "enabled": true,
+      "allow": [
+        "alex",
+        "main",
+        "research",
+        "tasklist",
+        "tommy",
+        "transcriptscraper",
+        "contentwriter"
+      ]
+    },
+    "elevated": {
+      "enabled": true,
+      "allowFrom": {
+        "telegram": [
+          8434682557
+        ]
+      }
+    },
+    "exec": {
+      "host": "gateway",
+      "security": "full"
+    }
+  },
+  "bindings": [
+    {
+      "agentId": "manager",
+      "match": {
+        "channel": "telegram",
+        "accountId": "default"
+      }
+    },
+    {
+      "type": "route",
+      "agentId": "tommy",
+      "match": {
+        "channel": "telegram",
+        "accountId": "tommy"
+      }
+    },
+    {
+      "type": "route",
+      "agentId": "transcriptscraper",
+      "match": {
+        "channel": "telegram",
+        "accountId": "transcriptscraper"
+      }
+    },
+    {
+      "type": "route",
+      "agentId": "contentwriter",
+      "match": {
+        "channel": "telegram",
+        "accountId": "contentwriter"
+      }
+    },
+    {
+      "type": "route",
+      "agentId": "research",
+      "match": {
+        "channel": "telegram",
+        "accountId": "r2"
+      }
+    },
+    {
+      "type": "route",
+      "agentId": "tasklist",
+      "match": {
+        "channel": "telegram",
+        "accountId": "tasklist"
+      }
+    }
+  ],
+  "commands": {
+    "native": true,
+    "nativeSkills": true,
+    "text": true,
+    "bash": true,
+    "config": true,
+    "debug": true,
+    "restart": true,
+    "ownerAllowFrom": [],
+    "ownerDisplay": "raw"
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "cron": {
+    "enabled": true
+  },
+  "hooks": {
+    "internal": {
+      "enabled": true,
+      "entries": {
+        "session-memory": {
+          "enabled": true
+        },
+        "command-logger": {
+          "enabled": true
+        },
+        "boot-md": {
+          "enabled": true
+        }
+      }
+    }
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "configWrites": false,
+      "dmPolicy": "allowlist",
+      "allowFrom": [
+        8434682557
+      ],
+      "groupPolicy": "allowlist",
+      "streaming": "off",
+      "accounts": {
+        "default": {
+          "dmPolicy": "pairing",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_DEFAULT_BOTTOKEN}}",
+          "allowFrom": [
+            8434682557
+          ],
+          "groupPolicy": "allowlist",
+          "streaming": "off"
+        },
+        "tasklist": {
+          "dmPolicy": "allowlist",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_TASKLIST_BOTTOKEN}}",
+          "allowFrom": [
+            8434682557
+          ],
+          "groupPolicy": "allowlist",
+          "streaming": "off"
+        },
+        "tommy": {
+          "dmPolicy": "allowlist",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_TOMMY_BOTTOKEN}}",
+          "allowFrom": [
+            8434682557
+          ],
+          "groupPolicy": "allowlist",
+          "streaming": "off"
+        },
+        "donald": {
+          "dmPolicy": "allowlist",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_DONALD_BOTTOKEN}}",
+          "allowFrom": [
+            8434682557
+          ],
+          "groupPolicy": "allowlist",
+          "streaming": "off"
+        },
+        "jimmy": {
+          "dmPolicy": "allowlist",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_JIMMY_BOTTOKEN}}",
+          "allowFrom": [
+            8434682557
+          ],
+          "groupPolicy": "allowlist",
+          "streaming": "off"
+        },
+        "alex": {
+          "dmPolicy": "allowlist",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_ALEX_BOTTOKEN}}",
+          "allowFrom": [
+            8434682557
+          ],
+          "groupPolicy": "allowlist",
+          "streaming": "off"
+        },
+        "bob": {
+          "dmPolicy": "allowlist",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_BOB_BOTTOKEN}}",
+          "allowFrom": [
+            8434682557
+          ],
+          "groupPolicy": "allowlist",
+          "streaming": "off"
+        },
+        "mark": {
+          "dmPolicy": "allowlist",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_MARK_BOTTOKEN}}",
+          "allowFrom": [
+            8434682557
+          ],
+          "groupPolicy": "allowlist",
+          "streaming": "off"
+        },
+        "captainhook": {
+          "dmPolicy": "allowlist",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_CAPTAINHOOK_BOTTOKEN}}",
+          "allowFrom": [
+            8434682557
+          ],
+          "groupPolicy": "allowlist",
+          "streaming": "off"
+        },
+        "transcriptscraper": {
+          "dmPolicy": "allowlist",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_TRANSCRIPTSCRAPER_BOTTOKEN}}",
+          "allowFrom": [
+            8434682557
+          ],
+          "groupPolicy": "allowlist",
+          "streaming": "off"
+        },
+        "contentwriter": {
+          "dmPolicy": "allowlist",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_CONTENTWRITER_BOTTOKEN}}",
+          "allowFrom": [
+            8434682557
+          ],
+          "groupPolicy": "allowlist",
+          "streaming": "off"
+        },
+        "r2": {
+          "name": "R2",
+          "enabled": true,
+          "dmPolicy": "pairing",
+          "botToken": "{{OPENCLAW_CHANNELS_TELEGRAM_ACCOUNTS_R2_BOTTOKEN}}",
+          "groupPolicy": "allowlist",
+          "streaming": "partial"
+        }
+      }
+    }
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "{{OPENCLAW_GATEWAY_AUTH_TOKEN}}"
+    },
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    },
+    "nodes": {
+      "denyCommands": []
+    }
+  },
+  "skills": {
+    "install": {
+      "nodeManager": "npm"
+    }
+  },
+  "plugins": {
+    "entries": {
+      "telegram": {
+        "enabled": true
+      },
+      "memory-core": {
+        "enabled": true
+      },
+      "memory-lancedb": {
+        "enabled": true
+      }
+    }
+  }
+}

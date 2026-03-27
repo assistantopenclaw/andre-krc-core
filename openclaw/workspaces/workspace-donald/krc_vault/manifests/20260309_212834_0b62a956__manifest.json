@@ -1,0 +1,27 @@
+{
+  "run_id": "20260309_212834_0b62a956",
+  "timestamp": "2026-03-09T21:30:00Z",
+  "status": "content_ready",
+  "client": "Adam Moldovan (session)",
+  "source_id": "FATHOM:mAu9_pHzpFsV2y5vnf4Xf3Z5pRdVBP6s",
+  "files": {
+    "gold_nugget_export": "krc_vault/gold nugget exports/20260309_040238_0b62a956__gold_nugget_export.md",
+    "raw_transcript": "krc_vault/raw call transcripts/20260309_040238_0b62a956__Adam_Moldovan_and_Andre_Panet-Raymond.txt",
+    "finished_content": "krc_vault/finished content for posting/20260309_040238_0b62a956__finished_content.md"
+  },
+  "drive": {
+    "file_id": "1DVSCfrKTeunxB3ONAwxmeXGcceiP-g2nf0O7GeUmnhI",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1DVSCfrKTeunxB3ONAwxmeXGcceiP-g2nf0O7GeUmnhI/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-03-09T21:31:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 2,
+    "post_order": "Conversion first, Authority second",
+    "nuggets_used": [
+      "faith_vs_certainty (7.3) — Conversion",
+      "comfort_kills_stagnation (8.0) — Authority"
+    ]
+  }
+}

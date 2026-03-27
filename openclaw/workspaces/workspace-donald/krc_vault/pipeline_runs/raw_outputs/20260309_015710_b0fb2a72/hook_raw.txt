@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "Calling it confirmation does not change what it is, it is a delay loop each cycle makes harder to name.",
+  "overlay_hook_2": "When your team watches you postpone clear direction, they do not see strategy, they see a fear pattern.",
+  "overlay_hook_3": "You do not become ready by waiting longer, you become ready the moment you choose surrender over delay.",
+  "overlay_cta": "read caption"
+}
+```

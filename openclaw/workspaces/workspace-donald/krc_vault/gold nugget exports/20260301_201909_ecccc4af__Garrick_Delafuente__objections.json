@@ -1,0 +1,17 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260301_201909_ecccc4af",
+  "source_id": "FATHOM: Garrick Delafuente",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "obj_insurmountable_debt",
+      "objection_text": "The debt and legal bills are so large ($900k+) that they feel insurmountable to even budget for.",
+      "underlying_belief": "Recovery is impossible if the hole is too deep; financial math dictates spiritual outcome.",
+      "underlying_fear": "Confession of judgment/bankruptcy and loss of previous status forever.",
+      "counter_truth_angle": "Dismantling the mountain in 5% pieces removes the overwhelm. God's grace resides in the piecework, not the insurmountable sum.",
+      "transcript_proof_quote_redacted": "When you look at it all, it's just so insurmountable that it just feels like impossible. But if it's just piecework... then I know and trust that in the end it'll be okay.",
+      "proof_location": "ts: 01:07:17"
+    }
+  ]
+}

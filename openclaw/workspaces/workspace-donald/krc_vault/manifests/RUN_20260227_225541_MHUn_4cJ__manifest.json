@@ -1,0 +1,29 @@
+{
+  "run_id": "RUN_20260227_225541_MHUn_4cJ",
+  "timestamp": "2026-02-27T22:55:41Z",
+  "status": "content_ready",
+  "files": {
+    "gold_nugget_export": "krc_vault/gold nugget exports/RUN_20260227_225541_MHUn_4cJ__nuggets.json",
+    "finished_content": "krc_vault/finished content for posting/RUN_20260227_225541_MHUn_4cJ__finished_content.md"
+  },
+  "drive": {
+    "file_id": "134KAnSszQJEgUzZ464Fe0LzK0aV1ijvd5WvOetVLIOM",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/134KAnSszQJEgUzZ464Fe0LzK0aV1ijvd5WvOetVLIOM/edit?usp=drivesdk",
+    "uploaded_at": "2026-02-28T05:06:06Z",
+    "format": "google_doc"
+  },
+  "content_summary": {
+    "posts_generated": 2,
+    "hooks_per_post": 3,
+    "nuggets_used": [
+      "symptom_vs_problem_012 (9.7)",
+      "training_vs_miracle_013 (9.4)"
+    ]
+  },
+  "metadata": {
+    "client": "Austin",
+    "call_type": "Coaching / Business Strategy / Spiritual Alignment",
+    "call_date": "2026-02-27"
+  }
+}

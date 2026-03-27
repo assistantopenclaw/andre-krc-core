@@ -1,0 +1,15 @@
+{
+  "run_id": "RUN_20260227_183601_3GEaevca",
+  "date": "2026-02-27",
+  "status": "complete",
+  "nugget_export": "gold nugget exports/RUN_20260227_183601_3GEaevca__nuggets.json",
+  "finished_content": "finished content for posting/RUN_20260227_183601_3GEaevca__finished_content.md",
+  "drive_file_id": "16hhaQMVbHvFldLV4ky9aWMDtgava7Ttx",
+  "drive_link": "https://drive.google.com/file/d/16hhaQMVbHvFldLV4ky9aWMDtgava7Ttx/view?usp=drivesdk",
+  "posts_generated": [
+    "spiritual_gym_buff_vs_skinny_005",
+    "identity_vs_counting_001",
+    "biochemical_warfare_2501"
+  ],
+  "hooks_per_post": 3
+}

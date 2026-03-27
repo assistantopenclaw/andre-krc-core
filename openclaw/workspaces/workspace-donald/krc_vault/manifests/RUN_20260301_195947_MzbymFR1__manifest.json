@@ -1,0 +1,8 @@
+{
+  "run_id": "RUN_20260301_195947_MzbymFR1",
+  "source_url": "https://fathom.video/share/MzbymFR1dEsr_saxvT3W5tRQrGTTWkMw",
+  "status": "success",
+  "title": "Justin Henson and Andre Panet-Raymond - V4",
+  "raw_transcript_file": "krc_vault/raw call transcripts/${RUN_ID}__${TITLE}.txt",
+  "nugget_export_file": "krc_vault/gold nugget exports/${RUN_ID}__Justin_Henson_V4.json"
+}

@@ -1,0 +1,74 @@
+[2026-02-28 22:21 CST] RUN_ID=20260228_222124_72b3ac2a | Austin Foster Call 2 #2
+  - symptom_vs_problem_v2 → duplicate of POST_RUN_20260227_MHUn4cJ_001
+  - training_vs_miracle_v2 → duplicate of POST_RUN_20260227_MHUn4cJ_002
+  - Status: HELD pending Andre decision
+[2026-02-28 22:43 CST] RUN_ID=20260228_223357_c34df58a | Augusto Leal Call - V3
+  - apple_picking_factory_021_v3 → duplicate of POST_20260227_c34df58a_001 and POST_20260228_c34df58a_001
+  - Same proof quote: 01:52:34 (5th export on this nugget)
+  - Status: HELD pending Andre decision
+[2026-02-28 22:44 CST] RUN_ID=20260228_223358_0ff4924f | JP Williams Call - V3
+  - bribery_vs_surrender_022_v3 → duplicate of POST_RUN_20260228_h9ggTKdP_001 (Bribing God Trap)
+  - Same proof quote: 00:52:25
+  - Status: HELD pending Andre decision
+[2026-02-28 22:45 CST] RUN_ID=20260228_223359_72b3ac2a | Austin Foster Call 2 - V3
+  - symptom_vs_problem_023_v3 → duplicate of POST_RUN_20260227_MHUn4cJ_001
+  - Same proof quote: 00:06:06 (3rd export on this nugget)
+  - Status: HELD pending Andre decision
+[2026-02-28 22:45 CST] RUN_ID=20260228_223402_dbd3ef0b | Justin Henson Call - V3
+  - financial_security_idol_025_v3 → FRESH nugget (9.4) but MISSING proof quote + timestamp
+  - Status: HELD — needs proof quote from Donald before writing
+[2026-02-28 22:46 CST] RUN_ID=20260228_223403_0079aec5 | Isaac Martin Call - V3
+  - monogamy_to_god_026_v3 → duplicate of POST_RUN_20260227_QVx6AnB_001
+  - Same proof quote: 00:55:32
+  - Status: HELD pending Andre decision
+[2026-02-28 22:46 CST] RUN_ID=20260228_223403_64922e48 | Dakota Webb Call - V3
+  - screen_time_prison_027_v3 → duplicate of POST_20260228_64922e48_001
+  - Same proof quote / 4.5 months / 136 days nugget
+  - Status: HELD pending Andre decision
+
+=== V4 BATCH ASSESSMENT [2026-03-01 20:00 CST] ===
+All 9 V4 exports reviewed.
+
+DUPLICATES (added to hold):
+- 20260301_195907_97e91a95 | Austin Foster V4 | specificity_of_prayer (3rd dup)
+- 20260301_195910_64922e48 | Dakota Webb V4 | screen_time_prison (3rd dup)
+- 20260301_195915_0079aec5 | Isaac Martin V4 | monogamy_to_god (3rd dup)
+- 20260301_195909_72b3ac2a | Austin Foster Call 2 V4 | symptom_vs_problem (3rd dup)
+- 20260301_195913_0ff4924f | JP Williams V4 | bribery_vs_surrender (2nd dup)
+- 20260301_195906_c34df58a | Augusto Leal V4 | garden_of_eden (6th dup)
+- 20260301_195911_2154e61f | Arno Marx V4 | identity_vs_counting + spiritual_gym (both already covered)
+
+STILL INCOMPLETE (no proof quotes):
+- RUN_20260301_195947_MzbymFR1 | Justin Henson V4 | financial_idol_033_v4
+- RUN_20260301_195942_HLF5ax4m | Stefania Schenetti V4 | joy_discipline_032_v4
+
+Total holds: 16 duplicate + 2 incomplete = 18 held runs
+[2026-03-03 06:30 CST] RUN_ID=20260303_063021_5f240287 | Augusto Leal — minimal fallback export
+  - nuggets: [] (zero nuggets, deterministic fallback)
+  - raw transcript present: krc_vault/raw call transcripts/20260303_063021_5f240287__Augusto_Leal_and_Andre_Panet-Raymond.txt
+  - Status: HELD — needs full Donald extraction pass
+[2026-03-04 06:30 CST] RUN_ID=20260304_063002_294a9edc | Augusto Leal — minimal fallback export
+  - nuggets: [] (zero nuggets, deterministic fallback)
+  - raw transcript present: krc_vault/raw call transcripts/20260304_063002_294a9edc__Augusto_Leal_and_Andre_Panet-Raymond.txt
+  - Status: HELD — needs full Donald extraction pass
+[2026-03-04 06:30 CST] RUN_ID=20260304_063011_b292147e | Augusto Leal — minimal fallback export
+  - nuggets: [] (zero nuggets, deterministic fallback)
+  - raw transcript present: krc_vault/raw call transcripts/20260304_063011_b292147e__Augusto_Leal_and_Andre_Panet-Raymond.txt
+  - Status: HELD — needs full Donald extraction pass
+[2026-03-08 06:30 CST] RUN_ID=20260308_063002_c34df58a | Augusto Leal — minimal fallback export (duplicate submission x2)
+  - nuggets: [] (zero nuggets, deterministic fallback)
+  - raw transcript present: krc_vault/raw call transcripts/20260227_203237_c34df58a__Augusto_Leal_and_Andre_Panet-Raymond.txt
+  - Status: HELD — needs full Donald extraction pass
+[2026-03-08 06:30 CST] RUN_ID=20260308_063002_97e91a95 | Austin Foster — minimal fallback export (duplicate submission x2)
+  - nuggets: [] (zero nuggets, deterministic fallback)
+  - raw transcript present: krc_vault/raw call transcripts/20260228_222033_97e91a95__Austin_Foster_and_Andre_Panet-Raymond.txt
+  - Status: HELD — needs full Donald extraction pass
+[2026-03-08 06:30 CST] RUN_ID=20260308_063002_6c5da4b5 | Barbara Miller-Brandyberry — minimal fallback export (duplicate submission x2)
+  - nuggets: [] (zero nuggets, deterministic fallback)
+  - raw transcript present: krc_vault/raw call transcripts/20260308_063002_6c5da4b5__Barbara_Miller-Brandyberry_and_Andre_Panet-Raymond.txt
+  - Status: HELD — needs full Donald extraction pass
+[2026-03-09 21:28 CDT] RUN_ID=20260309_212834_0b62a956 | Unknown client — placeholder export (transcriptscraper agent)
+  - File: 20260309_040238_0b62a956__gold_nugget_export.md
+  - Content: placeholder only, no nuggets extracted
+  - Note: duplicate submission (same message sent twice)
+  - Status: HELD — needs full extraction pass

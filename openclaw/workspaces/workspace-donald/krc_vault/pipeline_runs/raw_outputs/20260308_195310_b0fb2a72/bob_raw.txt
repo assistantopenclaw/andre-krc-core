@@ -1,0 +1,3 @@
+Looking at the requirements, I need to return a JSON with `final_caption_lines` as an array of strings, not a single string. The body text needs to be preserved exactly and the CTA appended as the final line.
+
+Let me process the body text and create the required array format:

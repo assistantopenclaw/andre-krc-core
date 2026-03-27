@@ -1,0 +1,69 @@
+{
+  "call_digest": {
+    "run_id": "RUN_20260228_223356_d462511e",
+    "call_type": "Introductory Deep-Dive / Alignment (V3 Reprocessed)",
+    "main_themes": [
+      "The Trauma-Bond Loop: 8 months post-divorce and still reliving the cycle daily.",
+      "The 'Wolf in Sheep's Clothing': Navigating a partner who uses church and scripture for control/manipulation.",
+      "Mind Control as a Skill: Reclaiming authority over thoughts.",
+      "Idolatry vs. Faith: Misplaced hope in a person's redemption.",
+      "Generational impact: Watching the cycle repeat in children."
+    ],
+    "emotional_peaks": [
+      "Bradley's shaking nervous system when seeing his ex.",
+      "The revelation of her double life after a Cancun 'marriage retreat.'",
+      "The 'Football Reframe' moment: Bradley realizing he can control his focus."
+    ]
+  },
+  "nuggets": [
+    {
+      "nugget_id": "trauma_bond_math_018_v3",
+      "category": "truth_flip",
+      "idea_one_liner": "Your '10-year recovery' plan is a demonic lie designed to keep you stuck in the desert.",
+      "proof_quote": "I was in that relationship for 10 years... they say it almost takes that long to get over it. ... I think that is demonic, honestly. ... It takes as long as you decide it's going to take.",
+      "proof_location": "01:47:26 / 01:49:33",
+      "micro_tags": { "hookable": true, "tension": true, "flip": true, "pattern_interrupt": true, "payoff": true },
+      "value_equation": {
+        "dream_outcome": "Immediate healing and freedom from the '10-year' prison sentence.",
+        "perceived_likelihood": "High.",
+        "time_delay": "Instant reframe.",
+        "effort_sacrifice": "Low.",
+        "value_score_overall": 9.8
+      }
+    },
+    {
+      "nugget_id": "second_commandment_mask_020_v3",
+      "category": "revelation",
+      "idea_one_liner": "Taking the Lord's name in vain isn't about cussing; it's about using God to mask a toxic agenda.",
+      "proof_quote": "Thou shalt not take the name of the Lord in vain. ... It's actually about taking the holiness... and using it for your own purposes. ... That's what she was doing.",
+      "proof_location": "00:58:47 / 00:59:22",
+      "micro_tags": { "hookable": true, "tension": true, "flip": true, "story": true, "pattern_interrupt": true, "payoff": true },
+      "value_equation": {
+        "dream_outcome": "Clarity and discernment.",
+        "perceived_likelihood": "High.",
+        "time_delay": "Immediate.",
+        "effort_sacrifice": "Low.",
+        "value_score_overall": 9.5
+      }
+    }
+  ],
+  "objection_bank": [
+    {
+      "objection_id": "heroin_addiction_bond_v3",
+      "objection_text": "A trauma bond is an addiction harder than heroin.",
+      "underlying_belief": "I am a victim of biochemistry and cannot choose my focus while triggered.",
+      "counter_truth_angle": "You didn't have to 'will' yourself out of a football tackle; you just practiced until your body knew what to do. Your brain is a muscle that hasn't been to the gym.",
+      "transcript_proof_quote": "Wait, I just controlled what you were thinking about... if I could do it, you definitely can... it's a skill... repetition... learning."
+    }
+  ],
+  "handoff_packet": {
+    "top_5_nuggets": [
+      { "id": "trauma_bond_math_v3", "one_liner": "Your 10-year healing sentence is a lie from the pit of hell. Move on today." },
+      { "id": "second_commandment_v3", "one_liner": "The Second Commandment has nothing to do with what you say when you stub your toe." }
+    ],
+    "creator_notes": {
+      "preserve_phrases": ["10-year demonic lie", "Defensive end for your brain", "Using God as a mask", "Jesus Prayer laser beam"],
+      "tone": "Blunt, athletic, and strictly biblical. (V3 Reprocessed Output)."
+    }
+  }
+}

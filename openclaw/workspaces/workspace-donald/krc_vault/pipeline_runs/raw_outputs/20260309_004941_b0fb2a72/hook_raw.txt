@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "You forfeit authority not in the moment of failure but in the repeated moment of choosing delay over action.",
+  "overlay_hook_2": "Resistance does not lose its voice over time, it refines its argument until delay sounds like discernment.",
+  "overlay_hook_3": "Impact is not unlocked by better circumstances, it is unlocked the moment you act on what you already know.",
+  "overlay_cta": "read caption"
+}
+```

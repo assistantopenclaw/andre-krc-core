@@ -1,0 +1,22 @@
+[
+  {
+    "objection_id": "20260308_035023_0f4006e6_OBJ_01",
+    "objection_text": "I'm just not a conversational person.",
+    "underlying_belief": "My identity is fixed as 'solitary' or 'overthinking,' so the prompt to speak must be a mistake or doesn't apply to me.",
+    "underlying_fear": "Fear of being judged as 'sharp' or 'the nerd'—or being judged negatively and facing perceived conflict.",
+    "counter_truth_angle": "Being conversational isn't a personality trait; it's the result of obeying the prompt to speak. You're overthinking because you're trying to judge the value of God's word before you even say it.",
+    "transcript_proof_quote_redacted": "[00:28:35] [ISAAC]: if you're a total stranger, I'm like scared of what's right or wrong to say. overthink every little thing.",
+    "proof_location": "ts: 00:28:35",
+    "final": true
+  },
+  {
+    "objection_id": "20260308_035023_0f4006e6_OBJ_02",
+    "objection_text": "It's not worth the potential risk or conflict.",
+    "underlying_belief": "The risk of awkwardness or pushback is greater than the value of the message being sent.",
+    "underlying_fear": "Fear of judgment and rejection, rooted in a childhood where problems were dismissed and 'shutting up' was the primary leadership model.",
+    "counter_truth_angle": "The risk of silence is much higher: it kills your voice and guarantees you stay on a downward spiral of powerlessness. The 'equal and opposite force' of anxiety is the proof that the word IS worth the risk.",
+    "transcript_proof_quote_redacted": "[01:08:16] [ISAAC]: I guess maybe I'm afraid of them not hearing... Or them not liking it... I assume that they're just... not going to like what I have to say.",
+    "proof_location": "ts: 01:08:16",
+    "final": true
+  }
+]

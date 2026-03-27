@@ -1,0 +1,5 @@
+Most leaders describe a repeated delay loop: action is clear, execution is postponed. You tell yourself you're waiting for better timing, more clarity, the right feeling. That's not patience, it's a pattern. Every cycle tightens the grip of avoidance until obedience feels optional.
+This is why visions stall: you've confused discernment with hesitation. Each time you delay what you know to do, you're not being thoughtful, you're being controlled by the very resistance Christ called you to walk through. That resistance doesn't weaken with time, it gets more articulate.
+Has delay become your default strategy or fear in disguise?
+You must realize: obedience doesn't require perfect conditions, it requires surrender. When you stop negotiating with delay and start moving on what you already know, you create a pattern where obedience becomes your default reflex, not your exceptional act of courage.
+Today: Take one avoided action before noon, feel the resistance, and move anyway.

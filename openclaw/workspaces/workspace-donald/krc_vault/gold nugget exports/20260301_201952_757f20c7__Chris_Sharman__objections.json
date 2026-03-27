@@ -1,0 +1,17 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260301_201952_757f20c7",
+  "source_id": "FATHOM: Chris Sharman",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "obj_savings_drain",
+      "objection_text": "I'm spending savings monthly just to survive my deficit (€1100 month).",
+      "underlying_belief": "Safety is found in the current bank balance rather than in the future capacity to serve the marketplace.",
+      "underlying_fear": "Running out of money before the 'New Phase' begins; total financial ruin as a father.",
+      "counter_truth_angle": "Deficit is a signal to improve your 'Offer' to the marketplace, not a signal to hoard remaining resources. Investment in clarity (coaching) fixes the root of the deficit.",
+      "transcript_proof_quote_redacted": "I am paying half her mortgage, my full rent... I'm having to spend about €3,600 a month... I'm pulling out savings every single month. Just to survive.",
+      "proof_location": "ts: 01:17:34"
+    }
+  ]
+}

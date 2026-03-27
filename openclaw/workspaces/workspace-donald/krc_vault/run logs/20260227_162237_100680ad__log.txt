@@ -1,0 +1,5 @@
+START run_id=20260227_162237_100680ad url=https://example.com
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260227_162237_100680ad__example.com.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260227_162237_100680ad__gold_nugget_export.md
+JIMMY START export=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260227_162237_100680ad__gold_nugget_export.md
+WROTE finished_content_file=/home/openclaw_agent_1/krc_vault/finished content for posting/20260227_162237_100680ad__finished_content.md

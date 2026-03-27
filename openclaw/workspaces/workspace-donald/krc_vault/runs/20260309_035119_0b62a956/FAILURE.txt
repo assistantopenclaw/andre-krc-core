@@ -1,0 +1,1 @@
+stage=bob reason=bob_extra_or_missing_keys paths=/home/openclaw_agent_1/krc_vault/runs/20260309_035119_0b62a956/03_bob/raw/bob_raw_1.txt

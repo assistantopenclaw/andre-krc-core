@@ -1,0 +1,17 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260301_201604_72b3ac2a",
+  "source_id": "FATHOM: Austin Foster",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "obj_credit_shame",
+      "objection_text": "I'm 29, living at home, with ruined credit and no money to move out.",
+      "underlying_belief": "My value and attractiveness as a man are tied to my current financial standing and independent living situation.",
+      "underlying_fear": "No quality woman will want me, and I am a failure compared to other men.",
+      "counter_truth_angle": "Seeking God first (Matt 6:33) aligns your character, and the external fruits (finances/relationships) follow as a byproduct of that alignment, not vice versa.",
+      "transcript_proof_quote_redacted": "I'm in my parents' extra building right now... who wants to be with a guy that lives at his parents' house, you know?... she ruined my credit, pretty much.",
+      "proof_location": "ts: 01:04:44"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sources": {
+    "reddit_openclaw": { "tier": 1, "hits": 0, "misses": 0, "trend": "new", "url": "https://reddit.com/r/openclaw", "notes": "Primary community hub" },
+    "reddit_ai_agents": { "tier": 1, "hits": 0, "misses": 0, "trend": "new", "url": "https://reddit.com/r/AI_Agents", "notes": "Agent ecosystem trends" },
+    "clawhub": { "tier": 1, "hits": 0, "misses": 0, "trend": "new", "url": "https://clawhub.com", "notes": "Skill marketplace" },
+    "youtube_openclaw": { "tier": 1, "hits": 0, "misses": 0, "trend": "new", "notes": "Tutorials and demos" },
+    "gemini": { "tier": 2, "hits": 0, "misses": 0, "trend": "new", "notes": "Quick research queries" },
+    "github_openclaw": { "tier": 2, "hits": 0, "misses": 0, "trend": "new", "url": "https://github.com/openclaw/openclaw", "notes": "Releases and PRs" },
+    "reddit_localllama": { "tier": 2, "hits": 0, "misses": 0, "trend": "new", "url": "https://reddit.com/r/LocalLLaMA", "notes": "Adjacent AI community" },
+    "discord_openclaw": { "tier": 3, "hits": 0, "misses": 0, "trend": "new", "url": "https://discord.com/invite/clawd", "notes": "Community showcase" },
+    "hackernews": { "tier": 3, "hits": 0, "misses": 0, "trend": "new", "url": "https://news.ycombinator.com", "notes": "AI/automation posts" },
+    "twitter_openclaw": { "tier": 3, "hits": 0, "misses": 0, "trend": "new", "notes": "OpenClaw mentions" }
+  },
+  "lastUpdated": "2026-02-25",
+  "nextWeeklyReview": "2026-03-04"
+}

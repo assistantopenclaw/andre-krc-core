@@ -1,0 +1,126 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260303_063016_c05fc674",
+  "source_id": "FATHOM:7yfj1v8RCe6tNGfsrhLedy8sD9JbpPte",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "NUG_003_FORGIVENESS_PHOBIA",
+      "category": "truth_flip",
+      "idea_one_liner": "You don't have a commitment phobia; you have a forgiveness phobia.",
+      "why_it_hits": "Reframes 'avoidant' behavior as a lack of skills in reconciliation rather than a lack of desire for love.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Avoidant men or those struggling to stay in long-term relationships.",
+      "caption_fit": "normal",
+      "value_score_overall": 10,
+      "value_equation": {
+        "dream_outcome": "Capacity for long-term marriage and commitment.",
+        "perceived_likelihood": "High, because it provides a specific skill (forgiveness) to focus on.",
+        "time_delay": "immediate",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Directly names the false foundation (fear of being hurt)."],
+        "denominator_notes": ["Requires admitting one's own inability to forgive."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 2,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "I realized like, oh, my gosh, like me forgiving [NAME] opens my heart out for me to forgive myself... it's not that I'm scared of commitment. I've always been scared to forgive.",
+      "proof_location": "ts: 00:30:49",
+      "proof_anchor_lines": [
+        "Commitment is a guarantee you will be hurt.",
+        "If you can't forgive, you can't commit."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "The real reason you keep running from good women isn't your 'freedom'—it's your fear of the work of forgiveness.",
+      "hook_angle_2_identity": "Stop calling yourself 'avoidant.' You're just a man with a forgiveness problem.",
+      "hook_angle_3_mechanism": "Why learning to wipe the 'accounts receivable' in your heart is the only way to stay married 40 years.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "The Commitment Phobia Lie",
+      "enemy_frame_proof_redacted": "I've always been scared to forgive. Because if I get married... you bet... we're going to hurt each other.",
+      "first_step_seed": "Write a list of 'accounts receivable'—the things you feel people still owe you for hurting you. Then pray for the strength to cancel the debt.",
+      "cta_runway_fit": "medium",
+      "sensitivity_flag": "none",
+      "redaction_notes": "Redacted 'Lydia' to generalize.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 9,
+        "hold_power": 10,
+        "payoff_power": 10,
+        "overall": 10
+      },
+      "must_not_claim": ["That forgiveness makes the pain go away instantly."]
+    },
+    {
+      "nugget_id": "NUG_004_MODEL_VS_REALITY",
+      "category": "framework",
+      "idea_one_liner": "You're in love with a mental model, not a human being. God lives in the reality, not the model.",
+      "why_it_hits": "Explains why finding out about 'baggage' feels like a betrayal of the relationship.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Men who 'idealize' partners and then crash when they see human flaws.",
+      "caption_fit": "normal",
+      "value_score_overall": 8,
+      "value_equation": {
+        "dream_outcome": "Authentic intimacy with a real person.",
+        "perceived_likelihood": "Medium, as it requires constant reality-testing.",
+        "time_delay": "short",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Exposes the snare of loving an idea over a person."],
+        "denominator_notes": ["Grieving the loss of the 'perfect' image."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 3,
+          "mechanism_B": 2,
+          "speed_C": 1,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "The models and the actual person are very different... truth is so important... finding out about the baggage feels almost like disrespectful to the model... You have to forgive them for who they're not.",
+      "proof_location": "ts: 00:35:30",
+      "proof_anchor_lines": [
+        "Models are snares; reality is God.",
+        "You have to forgive them for who they are not."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "You think she changed, but really you just stopped being able to maintain the lie of who you thought she was.",
+      "hook_angle_2_identity": "Intimacy dies in the gap between your mental model and her human reality.",
+      "hook_angle_3_mechanism": "How to 'forgive them for who they are not' so you can finally love who they are.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "The Idealization Snare",
+      "enemy_frame_proof_redacted": "finding out about the baggage feels almost like disrespectful to the model",
+      "first_step_seed": "Identify one 'expectation' you have for your partner that isn't true to their history, and 'forgive' them for not being that person.",
+      "cta_runway_fit": "weak",
+      "sensitivity_flag": "none",
+      "redaction_notes": "Conceptual framework.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 8,
+        "hold_power": 8,
+        "payoff_power": 8,
+        "overall": 8
+      },
+      "must_not_claim": ["That ignoring red flags is the same as accepting reality."]
+    }
+  ]
+}

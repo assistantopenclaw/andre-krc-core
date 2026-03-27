@@ -1,0 +1,126 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260303_063003_11572454",
+  "source_id": "FATHOM:LP1ED5F9dnz9PwaLHnM_ys9xAxLVZz_8",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "NUG_001_BORROWED_STRENGTH",
+      "category": "identity_shift",
+      "idea_one_liner": "Strength isn't yours to own; it's borrowed from God to overcome the battle He chose for you.",
+      "why_it_hits": "Challenges the ego's need for self-reliance and reframes suffering as a deliberate training ground.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Men feeling overwhelmed by spiritual or emotional battles.",
+      "caption_fit": "normal",
+      "value_score_overall": 8,
+      "value_equation": {
+        "dream_outcome": "Stable leadership through God-sourced strength.",
+        "perceived_likelihood": "High, due to the shift from fragile self-will to infinite source.",
+        "time_delay": "immediate",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Exposes the false foundation of self-reliance."],
+        "denominator_notes": ["Requires ego death to admit borrowing strength."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 3,
+          "mechanism_B": 2,
+          "speed_C": 2,
+          "effort_clarity_D": 1
+        }
+      },
+      "proof_quote_redacted": "Well, it's not my strength. I'm borrowing it from God... I'm realizing that God has sent these dark [REDACTED] because he wants me to see how strong I can be in overcoming them.",
+      "proof_location": "ts: 00:07:05",
+      "proof_anchor_lines": [
+        "Strength is not mine to own; it is borrowed.",
+        "God sends challenges to reveal the strength He provides."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "You think you're failing because you're weak, but you're actually failing because you're trying to use your own strength.",
+      "hook_angle_2_identity": "The man who borrows his strength from the Creator is untouchable in the valley.",
+      "hook_angle_3_mechanism": "How to stop 'muscling' through your problems and start using borrowed power.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "Self-Reliance Delusion",
+      "enemy_frame_proof_redacted": "it's not my strength. I'm borrowing it from God",
+      "first_step_seed": "In your next moment of panic, stop and explicitly state: 'Lord, I have no strength for this. I am borrowing yours right now.'",
+      "cta_runway_fit": "medium",
+      "sensitivity_flag": "none",
+      "redaction_notes": "Redacted 'angels' context to generalized struggle.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 7,
+        "hold_power": 8,
+        "payoff_power": 9,
+        "overall": 8
+      },
+      "must_not_claim": ["Guaranteed instant removal of all struggle."]
+    },
+    {
+      "nugget_id": "NUG_002_CONTRAST_TESTIMONY",
+      "category": "revelation",
+      "idea_one_liner": "Your past sexual history doesn't disqualify you from a holy calling; it creates the contrast that proves God's power.",
+      "why_it_hits": "Addresses the 'phony' feeling men have about their past and uses the 'M&M / 8 Mile' strategy for vulnerability.",
+      "post_class_recommendation": "Conversion",
+      "conversion_angle": "heartbreak",
+      "audience_fit": "Men with 'messy' pasts who feel called to lead but are paralyzed by shame.",
+      "caption_fit": "long",
+      "value_score_overall": 9,
+      "value_equation": {
+        "dream_outcome": "Redemption of past shame into public authority.",
+        "perceived_likelihood": "High, once the secret is out, the power of shame is broken.",
+        "time_delay": "short",
+        "effort_sacrifice": "high",
+        "numerator_notes": ["Exposes the lie that past sin limits future service."],
+        "denominator_notes": ["High emotional effort to be that vulnerable."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 1,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "I slept with [NUMBER] people and went to go look at becoming a [RELIGIOUS_ROLE]... there's a contrast there that creates curiosity... God uses all things for good.",
+      "proof_location": "ts: 01:21:00",
+      "proof_anchor_lines": [
+        "The distance between who you were and who you are now is the proof.",
+        "Don't hide the 8-mile past; lead with it."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": false,
+        "story": true,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "If people knew my real number of partners, they'd never listen to me talk about God. Here's why that's a lie.",
+      "hook_angle_2_identity": "From 100 partners to a monastery: The power of a 180-degree turn.",
+      "hook_angle_3_mechanism": "The 'Mismatch Strategy': Why your darkest regrets are actually your strongest marketing.",
+      "enemy_frame_type": "emotional",
+      "enemy_frame_label": "The Imposter Trap",
+      "enemy_frame_proof_redacted": "I feel a little bit of like a phony talking about self-improvement, God, publicly",
+      "first_step_seed": "Write down the top 3 'shameful' facts about your past and ask how they prove God's grace today.",
+      "cta_runway_fit": "strong",
+      "sensitivity_flag": "sexual",
+      "redaction_notes": "Redacted 'number' and 'priest' for general use.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 10,
+        "hold_power": 9,
+        "payoff_power": 8,
+        "overall": 9
+      },
+      "must_not_claim": ["That sin doesn't have consequences."]
+    }
+  ]
+}

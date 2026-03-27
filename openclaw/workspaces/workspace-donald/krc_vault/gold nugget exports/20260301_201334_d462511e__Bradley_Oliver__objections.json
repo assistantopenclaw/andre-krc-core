@@ -1,0 +1,17 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260301_201334_d462511e",
+  "source_id": "FATHOM: Bradley Oliver",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "obj_finance",
+      "objection_text": "Financial constraint due to child support and divorce costs.",
+      "underlying_belief": "Safety is found in hoarding remaining resources rather than investing in spiritual health.",
+      "underlying_fear": "Running out of money and failing kids further.",
+      "counter_truth_angle": "The cost of staying stuck (idolatry) is higher than the financial investment in freedom.",
+      "transcript_proof_quote_redacted": "Let me look at my finances and see, you know, how I can fit that in, if I can move some things around. I pay child support... that's going to put me in a bind.",
+      "proof_location": "ts: 02:20:20"
+    }
+  ]
+}

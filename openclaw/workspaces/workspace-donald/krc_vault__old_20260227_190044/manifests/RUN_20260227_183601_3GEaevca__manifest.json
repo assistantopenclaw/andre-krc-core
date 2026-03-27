@@ -1,0 +1,16 @@
+{
+  "run_id": "RUN_20260227_183601_3GEaevca",
+  "timestamp": "2026-02-27T18:40:00Z",
+  "status": "success",
+  "source_url": "https://fathom.video/share/3GEaevcaSE9zWx7VoUrrQ3BxGKtH1Wab",
+  "files": {
+    "raw_transcript": "krc_vault/raw call transcripts/RUN_20260227_183601_3GEaevca__Arno_Marx_Spiritual_Warfare.txt",
+    "gold_nugget_export": "krc_vault/gold nugget exports/RUN_20260227_183601_3GEaevca__nuggets.json",
+    "run_log": "krc_vault/run logs/RUN_20260227_183601_3GEaevca__run.log"
+  },
+  "metadata": {
+    "client": "Arno Marx",
+    "call_date": "February 12",
+    "duration": "29 mins (partial excerpt processed)"
+  }
+}

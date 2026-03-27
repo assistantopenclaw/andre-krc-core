@@ -1,0 +1,3 @@
+time=2026-03-01T12:37:16.863-06:00 level=DEBUG msg="creating client options with custom scopes" serviceLabel=drive email=assistant@kingdomrelationshipcoaching.com
+time=2026-03-01T12:37:16.868-06:00 level=DEBUG msg="client options with custom scopes created successfully" serviceLabel=drive email=assistant@kingdomrelationshipcoaching.com
+Google API error (400 badRequest): Bad Request

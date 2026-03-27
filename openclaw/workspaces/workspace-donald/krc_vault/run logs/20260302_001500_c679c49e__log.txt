@@ -1,0 +1,4 @@
+START run_id=20260302_001500_c679c49e url=https://fathom.video/share/7Wcj1kuB9aC-N4u9y99mNXFQ2VBytuHw
+FETCH source=fathom_api status=ok
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260302_001500_c679c49e__Agacy_Goul_and_Andre_Panet-Raymond.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260302_001500_c679c49e__gold_nugget_export.md

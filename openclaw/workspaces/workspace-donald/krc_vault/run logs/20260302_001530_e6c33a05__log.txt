@@ -1,0 +1,4 @@
+START run_id=20260302_001530_e6c33a05 url=https://fathom.video/share/eM7ewxCHgTi4C62nW1fvA3_p7EqNhS_d
+FETCH source=fathom_api status=ok
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260302_001530_e6c33a05__Angela_Walker_and_Andre_Panet-Raymond.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260302_001530_e6c33a05__gold_nugget_export.md

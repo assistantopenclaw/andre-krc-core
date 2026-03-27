@@ -1,0 +1,17 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260303_063016_c05fc674",
+  "source_id": "FATHOM:7yfj1v8RCe6tNGfsrhLedy8sD9JbpPte",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "OBJ_PRIDE_TRAP",
+      "objection_text": "Is this public sharing just my ego/devil trying to make me prideful?",
+      "underlying_belief": "Vulnerability and sharing are dangerous to my spiritual health.",
+      "underlying_fear": "Becoming an 'influencer' for the wrong reasons.",
+      "counter_truth_angle": "God will help you see if you're doing it out of pride later; right now, the mission requires your voice. Don't let the fear of pride paralyze the duty of evangelism.",
+      "transcript_proof_quote_redacted": "Oh, is this the devil kind of like trying to be prideful? ... I will say that that can be handled later. Like, God will help you see if you're doing it out of pride and help you overcome that",
+      "proof_location": "ts: 00:48:00"
+    }
+  ]
+}

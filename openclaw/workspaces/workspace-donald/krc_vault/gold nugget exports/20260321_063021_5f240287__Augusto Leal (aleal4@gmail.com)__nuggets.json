@@ -1,0 +1,126 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260321_063021_5f240287",
+  "source_id": "FATHOM:xeXtgYksG6RqyP9Qvt9xR3z7S_TuEnH2",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "NUG_005_RESISTANCE_COMPASS",
+      "category": "revelation",
+      "idea_one_liner": "The place where you are 'kicking and screaming' is exactly where God is waiting for you.",
+      "why_it_hits": "Provides an immediate emotional filter for identifying the next step in one's journey.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Individuals paralyzed by procrastination or 'spiritual' excuses for avoiding hard work.",
+      "caption_fit": "tight",
+      "value_score_overall": 9,
+      "value_equation": {
+        "dream_outcome": "Clear direction and movement through resistance.",
+        "perceived_likelihood": "High, as resistance is a tangible feeling to follow.",
+        "time_delay": "immediate",
+        "effort_sacrifice": "high",
+        "numerator_notes": ["Exposes the lie that God only calls us to 'comfortable' peace."],
+        "denominator_notes": ["Requires diving into the thing you fear most."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 1,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "especially in places where I am kicking and screaming, that is exactly where God is waiting for me... whatever is my biggest resistance is actually like... my biggest spiritual lesson.",
+      "proof_location": "ts: 00:49:45",
+      "proof_anchor_lines": [
+        "Your resistance is your compass.",
+        "Stop waiting for 'peace' and look for where you're kicking and screaming."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "The 'peace' you're waiting for before you take action is actually a demonic delay tactic. Here's what to look for instead.",
+      "hook_angle_2_identity": "Are you a man who follows his feelings or a man who follows the Resistance?",
+      "hook_angle_3_mechanism": "The 'Kicking and Screaming' heuristic: How to find your next mission in 5 seconds.",
+      "enemy_frame_type": "emotional",
+      "enemy_frame_label": "The Fake Peace Trap",
+      "enemy_frame_proof_redacted": "I'm just kind of like not really feeling particularly inspired by it and kind of being getting frustrated with it",
+      "first_step_seed": "Find the task on your list that makes you feel most 'scrambled' or 'frustrated' and commit 15 minutes to it right now as an offering to God.",
+      "cta_runway_fit": "medium",
+      "sensitivity_flag": "none",
+      "redaction_notes": "Redacted 'Lydia' and 'tech' for general heuristic use.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 9,
+        "hold_power": 9,
+        "payoff_power": 9,
+        "overall": 9
+      },
+      "must_not_claim": ["That doing the hard thing will instantly feel good."]
+    },
+    {
+      "nugget_id": "NUG_006_GOD_IN_THE_VOID",
+      "category": "truth_flip",
+      "idea_one_liner": "If you can't find God in your technical work, it's not because He's missing—it's because you're refusing to look.",
+      "why_it_hits": "Challenges the 'secular/sacred' divide that causes men to feel spiritually disconnected for 40+ hours a week.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Corporate professionals feeling 'spiritually dead' in their day jobs.",
+      "caption_fit": "normal",
+      "value_score_overall": 8,
+      "value_equation": {
+        "dream_outcome": "Seamless integration of work and faith.",
+        "perceived_likelihood": "High, once the narrative shift occurs.",
+        "time_delay": "short",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Exposes the false foundation that God is only in the 'wilderness' or 'church.'"],
+        "denominator_notes": ["Requires a major shift in focus during mundane tasks."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 3,
+          "mechanism_B": 2,
+          "speed_C": 1,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "I think God is asking me to find it in, like, even technology. He's like, I'm here. It's a matter of you finding me... I need to find God in places where I've trained myself not to look.",
+      "proof_location": "ts: 00:37:44",
+      "proof_anchor_lines": [
+        "God is in the spreadsheets if you bother to seek Him.",
+        "Stop segregating your soul from your salary."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "You're spending 40 hours a week in a spiritual desert of your own making.",
+      "hook_angle_2_identity": "The man who finds God in the code is more stable than the man who only finds Him in the pew.",
+      "hook_angle_3_mechanism": "How to 'offer' your mundane technical work as a sacrifice of praise.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "The Sacred/Secular Divide",
+      "enemy_frame_proof_redacted": "Finding God in technology is like trying to find him in a [REDACTED] or a brothel.",
+      "first_step_seed": "Before your next technical meeting, pray: 'Lord, reveal yourself to me in this chaos.'",
+      "cta_runway_fit": "weak",
+      "sensitivity_flag": "none",
+      "redaction_notes": "Redacted 'crack house' for cleaner presentation.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 7,
+        "hold_power": 8,
+        "payoff_power": 8,
+        "overall": 8
+      },
+      "must_not_claim": ["That your job will become 'easy' if you find God there."]
+    }
+  ]
+}

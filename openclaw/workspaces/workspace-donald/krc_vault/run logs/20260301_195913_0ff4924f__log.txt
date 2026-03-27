@@ -1,0 +1,4 @@
+START run_id=20260301_195913_0ff4924f url=https://fathom.video/share/h9ggTKdP42bCQqqx9rk9qSg-DX1BpCxY
+FETCH source=fathom_api status=ok
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260301_195913_0ff4924f__JP_and_Andre_Panet-Raymond.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260301_195913_0ff4924f__gold_nugget_export.md

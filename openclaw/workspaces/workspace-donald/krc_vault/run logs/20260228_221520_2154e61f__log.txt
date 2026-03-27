@@ -1,0 +1,4 @@
+START run_id=20260228_221520_2154e61f url=https://fathom.video/share/3GEaevcaSE9zWx7VoUrrQ3BxGKtH1Wab
+FETCH source=fathom_api status=ok
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260228_221520_2154e61f__Arno_Marx_Spiritual_Warfare_Strategy_Call.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260228_221520_2154e61f__gold_nugget_export.md

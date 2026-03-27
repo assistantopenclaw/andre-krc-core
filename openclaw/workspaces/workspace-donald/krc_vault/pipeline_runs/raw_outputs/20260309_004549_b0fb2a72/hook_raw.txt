@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "When you normalize delay as a leader, your organization does not pause with you, it drifts without you.",
+  "overlay_hook_2": "Each time resistance disguises itself as a need for more prayer, it is strengthening your avoidance reflex.",
+  "overlay_hook_3": "Transforming culture does not require perfect circumstances, it requires acting on what you already know.",
+  "overlay_cta": "read caption"
+}
+```

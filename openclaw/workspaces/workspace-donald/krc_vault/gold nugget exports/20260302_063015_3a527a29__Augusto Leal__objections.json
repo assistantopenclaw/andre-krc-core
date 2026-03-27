@@ -1,0 +1,26 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260302_063015_3a527a29",
+  "source_id": "FATHOM:jTk4dTr2uxioK7AzQjVUzkxfo_x61hGb",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "obj_001",
+      "objection_text": "I can't expect loyalty because I wasn't loyal in the past.",
+      "underlying_belief": "My value is fixed by my worst mistakes, and I must accept 'punishment' in my current relationship the rest of my life.",
+      "underlying_fear": "Being a hypocrite; the shame of one's past catching up to them.",
+      "counter_truth_angle": "Forgiveness means you are a new creation. Demanding holiness in your partner is a duty of love, not a double standard.",
+      "transcript_proof_quote_redacted": "if Satan's trying to bring up, 'well, I did this, so I should allow and permit this,' then that's regression. That's making excuses for sin.",
+      "proof_location": "ts: 01:19:00"
+    },
+    {
+      "objection_id": "obj_002",
+      "objection_text": "I'm afraid I'll never find another woman who understands me like she does.",
+      "underlying_belief": "God's provision is limited; there is only one person who can 'save' me from loneliness.",
+      "underlying_fear": "Ending up alone; missing the 'only chance' at biological children.",
+      "counter_truth_angle": "God's abundance is far greater than your limited vision. Trusting the 'void' is the only way to find what He actually has for you.",
+      "transcript_proof_quote_redacted": "There's like this demonic fear that that woman doesn't exist... trusting, not being afraid of the void. I think it's a big one. It's the most important one.",
+      "proof_location": "ts: 01:21:05"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "run_id": "20260309_035547_0b62a956",
+  "source_id": "20260309_035547_0b62a956__manifest.json",
+  "route": "Authority",
+  "conversion_angle": "none",
+  "idea_one_liner": "",
+  "proof_anchor_lines": [
+    "Client described repeated delay loop.",
+    "Action was clear, execution was postponed."
+  ],
+  "first_step_seed": "Today: Take one avoided action before noon."
+}

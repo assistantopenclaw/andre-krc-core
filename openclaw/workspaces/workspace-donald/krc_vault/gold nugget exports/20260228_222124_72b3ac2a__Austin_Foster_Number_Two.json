@@ -1,0 +1,52 @@
+{
+  "call_digest": {
+    "call_type": "Coaching / Business Strategy / Spiritual Alignment - Number Two",
+    "main_themes": [
+      "Symptom vs. Problem: Thought loops are a symptom of misplaced worship.",
+      "The 'Pitcher' Analogy: Training the mind requires practice repetition.",
+      "Sales as Service: Alignment-based communication.",
+      "Repentance vs. Willpower: Turning away from habit-loops."
+    ],
+    "emotional_peaks": [
+      "Austin's frustration with ADHD-fueled thought loops.",
+      "The Handshake Deal: Committing to coaching despite struggle.",
+      "Andre's challenge on sales approach."
+    ],
+    "top_objections": [
+      "The Miracle Trap (asking for a snap of the fingers)",
+      "The Financial Bottleneck (debt/bills vs wisdom investment)"
+    ],
+    "top_truth_flips": [
+      "Solving the idolatry stops the symptom (thoughts) automatically.",
+      "God is training you to throw a curveball, not giving you a miracle.",
+      "Sales is helping others make correct decisions based on alignment."
+    ]
+  },
+  "nuggets": [
+    {
+      "nugget_id": "symptom_vs_problem_v2",
+      "category": "framework",
+      "idea_one_liner": "Stop trying to kill the thoughts; kill the idolatry and the thoughts will starve to death.",
+      "proof_quote": "You've been trying to stop the symptom... solving the problem would then stop the symptom as a byproduct.",
+      "proof_location": "00:06:06",
+      "score": { "overall": 9.7 }
+    },
+    {
+      "nugget_id": "training_vs_miracle_v2",
+      "category": "truth_flip",
+      "idea_one_liner": "God isn't raising the dead because He's too busy training you to throw a curveball.",
+      "proof_quote": "Repetition of practice. ... He's teaching you to move your mind the same way you've trained yourself to move your hands.",
+      "proof_location": "00:08:30 / 00:23:16",
+      "score": { "overall": 9.4 }
+    }
+  ],
+  "handoff_packet": {
+    "top_5_nuggets": [
+      { "id": "symptom_vs_problem_v2", "one_liner": "Cut the power at the idol, and the thought loop dies." }
+    ],
+    "creator_notes": {
+      "preserve_phrases": ["Throwing a curveball", "Symptom vs Problem"],
+      "tone": "Strategic and athletic. (Reprocessed Run Number Two)."
+    }
+  }
+}

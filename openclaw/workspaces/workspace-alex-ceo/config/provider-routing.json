@@ -1,0 +1,5 @@
+{
+  "provider": "openrouter",
+  "auth_profile": "openrouter:manual",
+  "explicit_model_per_request": "moonshotai/kimi-k2-thinking"
+}

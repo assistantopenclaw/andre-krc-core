@@ -1,0 +1,244 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260305_063002_72b3ac2a",
+  "source_id": "FATHOM:MHUn-4cJvKYL2J7gMTmmTXEi86a9hKYz",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "nugget_001_symptom_vs_problem",
+      "category": "truth_flip",
+      "idea_one_liner": "Your obsessive thoughts aren't the problem; they're the symptom of a deeper disconnection.",
+      "why_it_hits": "Flips the script from fighting thoughts to addressing the source, reducing the shame of 'failing' to stop thinking about an ex.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Men struggling with breakup loops",
+      "caption_fit": "normal",
+      "value_score_overall": 8,
+      "value_equation": {
+        "dream_outcome": "Relief from obsessive thought loops",
+        "perceived_likelihood": "High, by identifying a solvable root cause",
+        "time_delay": "immediate",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Directly addresses the 'stuck' feeling", "Names the invisible mechanism"],
+        "denominator_notes": ["Requires admitting the current strategy is failing"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 3,
+          "mechanism_B": 2,
+          "speed_C": 2,
+          "effort_clarity_D": 1
+        }
+      },
+      "proof_quote_redacted": "I'm saying that the thoughts... or the symptom of the problem. And the problem is something else. You've been trying to stop the symptom, which means that the problem is still pouring out the symptom.",
+      "proof_location": "ts: 00:06:00",
+      "proof_anchor_lines": [
+        "The thoughts are the symptom, not the problem.",
+        "Stopping the symptom while the problem remains keeps the cycle running."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "Why praying for the thoughts to stop isn't working.",
+      "hook_angle_2_identity": "For the man who can't get her out of his head.",
+      "hook_angle_3_mechanism": "The 'Symptom Trap' that keeps you stuck in heartbreak.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "The Symptom Trap",
+      "enemy_frame_proof_redacted": "You've been trying to stop the symptom, which means that the problem is still pouring out the symptom.",
+      "first_step_seed": "Write down 'The thoughts are not the problem' and ask God to show you the real issue.",
+      "cta_runway_fit": "medium",
+      "sensitivity_flag": "none",
+      "redaction_notes": "None needed.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 8,
+        "hold_power": 7,
+        "payoff_power": 8,
+        "overall": 7.7
+      },
+      "must_not_claim": ["Guaranteed instant removal of thoughts"]
+    },
+    {
+      "nugget_id": "nugget_002_training_process",
+      "category": "framework",
+      "idea_one_liner": "Spiritual focus is a trained skill, not a magic switch.",
+      "why_it_hits": "Uses a sports analogy (baseball) to make spiritual discipline tangible and reduce expectation of instant 'miracle' fixes without practice.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Athletic or goal-oriented men",
+      "caption_fit": "normal",
+      "value_score_overall": 7,
+      "value_equation": {
+        "dream_outcome": "Consistency in turning to God during triggers",
+        "perceived_likelihood": "High, based on training analogy",
+        "time_delay": "long",
+        "effort_sacrifice": "high",
+        "numerator_notes": ["Removes the 'I'm not spiritual enough' shame", "Provides a clear training path"],
+        "denominator_notes": ["Requires patience and repetitive effort"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 2,
+          "mechanism_B": 2,
+          "speed_C": 1,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "How do you get that? Repetition of practice... It's cool to have a thought of her in the middle of turn to God. But that doesn't mean that you're going to do it by default... It's a training process.",
+      "proof_location": "ts: 00:08:32",
+      "proof_anchor_lines": [
+        "Spiritual focus requires repetition of practice.",
+        "You won't do it by default; it's a training process."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": false,
+        "flip": true,
+        "mechanism": true,
+        "story": true,
+        "pattern_interrupt": false,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "Your spiritual life won't change until you treat it like training.",
+      "hook_angle_2_identity": "The veteran athlete who can't master his own mind.",
+      "hook_angle_3_mechanism": "The 'Pitcher's Grip' for spiritual focus.",
+      "enemy_frame_type": "emotional",
+      "enemy_frame_label": "The Magic Switch Delusion",
+      "enemy_frame_proof_redacted": "I'm just praying for a miracle, like it's just going to snap out of it.",
+      "first_step_seed": "The next time a thought hits, don't just pray for it to go; practice the 'reps' of turning to a specific truth about God.",
+      "cta_runway_fit": "weak",
+      "sensitivity_flag": "none",
+      "redaction_notes": "None needed.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 6,
+        "hold_power": 8,
+        "payoff_power": 7,
+        "overall": 7.0
+      },
+      "must_not_claim": ["Instant results", "No more hard thoughts"]
+    },
+    {
+      "nugget_id": "nugget_003_god_in_the_past_and_future",
+      "category": "revelation",
+      "idea_one_liner": "God is not just watching your timeline; He is present in every part of it simultaneously.",
+      "why_it_hits": "Expands the view of God's sovereignty to provide comfort that the past and future are already covered by His presence.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Men anxious about their future or regretful of the past",
+      "caption_fit": "normal",
+      "value_score_overall": 9,
+      "value_equation": {
+        "dream_outcome": "Absolute security in any life stage",
+        "perceived_likelihood": "High, based on God's omnipresence",
+        "time_delay": "immediate",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Massive perspective shift on God's nature", "Removes the 'God forgot about my future' fear"],
+        "denominator_notes": ["A hard theological concept to grasp initially"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 1,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "God knows our past, he knows our present, he knows our future, not because he's writing it in a book, but because he's present in the future. And he's present in the present and he's present in the past because he's everywhere at the same time.",
+      "proof_location": "ts: 00:23:00",
+      "proof_anchor_lines": [
+        "God is present in the future and the past simultaneously.",
+        "He isn't just reading a book of your life; He is living in every moment of it now."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": false,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "Why you don't need to worry about tomorrow (He's already there).",
+      "hook_angle_2_identity": "For the man who feels he's running out of time.",
+      "hook_angle_3_mechanism": "The 'Lateral Presence' of God.",
+      "enemy_frame_type": "spiritual",
+      "enemy_frame_label": "The Linear God Lie",
+      "enemy_frame_proof_redacted": "Not because he's writing it in a book...",
+      "first_step_seed": "Close your eyes and thank God for being present in your most difficult future fear right now.",
+      "cta_runway_fit": "medium",
+      "sensitivity_flag": "none",
+      "redaction_notes": "None needed.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 9,
+        "hold_power": 8,
+        "payoff_power": 9,
+        "overall": 8.7
+      },
+      "must_not_claim": ["That this makes life easy", "That pain will disappear"]
+    },
+    {
+      "nugget_id": "nugget_004_alignment_is_the_close",
+      "category": "framework",
+      "idea_one_liner": "Sales isn't a trick; it's the byproduct of finding alignment in service.",
+      "why_it_hits": "Redefines sales for men who hate 'selling' by framing it as clarity and alignment rather than persuasion.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Entrepreneurs and business owners",
+      "caption_fit": "normal",
+      "value_score_overall": 7,
+      "value_equation": {
+        "dream_outcome": "Closing deals with integrity",
+        "perceived_likelihood": "High, based on service-first approach",
+        "time_delay": "short",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Removes the 'scammy salesman' fear", "Simplifies the closing process"],
+        "denominator_notes": ["Requires learning a new communication skill"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 2,
+          "mechanism_B": 2,
+          "speed_C": 1,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "Let's find alignment and get clarity on if there's alignment or not. If there is, the clothes should be a byproduct of the alignment.",
+      "proof_location": "ts: 00:50:00",
+      "proof_anchor_lines": [
+        "Find alignment first; the close is a byproduct.",
+        "Sales is getting clarity on whether you can actually serve the need."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": false,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "Stop 'closing' people and start serving them.",
+      "hook_angle_2_identity": "The business owner who hates selling.",
+      "hook_angle_3_mechanism": "The 'Alignment Filter' for sales.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "The Used Car Lot Mentality",
+      "enemy_frame_proof_redacted": "I'm not talking about scammy used car dealership sales.",
+      "first_step_seed": "In your next call, focus entirely on finding where your service aligns with their actual pain.",
+      "cta_runway_fit": "medium",
+      "sensitivity_flag": "none",
+      "redaction_notes": "None needed.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 7,
+        "hold_power": 7,
+        "payoff_power": 7,
+        "overall": 7.0
+      },
+      "must_not_claim": ["Instant sales success", "Zero rejection"]
+    }
+  ]
+}

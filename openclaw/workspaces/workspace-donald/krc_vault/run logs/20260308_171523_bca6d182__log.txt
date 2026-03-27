@@ -1,0 +1,3 @@
+START run_id=20260308_171523_bca6d182 url=https://example.com/not-fathom
+FETCH source=fathom_api status=fail error=Not a Fathom share URL
+Fetch failed: Command '['curl', '-fsSL', '--max-time', '45', 'https://example.com/not-fathom']' returned non-zero exit status 22.

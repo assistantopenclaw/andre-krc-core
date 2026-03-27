@@ -1,0 +1,45 @@
++ set -euo pipefail
++ export TZ=America/Chicago
++ TZ=America/Chicago
++ TOKEN_FILE=/home/openclaw_agent_1/.openclaw/credentials/meta/system_user_token.txt
++ [[ -z '' ]]
++ [[ -f /home/openclaw_agent_1/.openclaw/credentials/meta/system_user_token.txt ]]
+++ cat /home/openclaw_agent_1/.openclaw/credentials/meta/system_user_token.txt
+++ tr -d '\r'
+++ tr -d '\n'
++ export META_SYSTEM_USER_TOKEN=EAAM8BxU4WFQBQ2H6I0592pZAkdbGkGFZCuQu8dnATa2Skd3xr0kGMbSIH389fifFh37jZAtnvKCsYL6xZABBGelDbTCpc5dbrH60ZBiAkcEu72gWZCG3rFURo9oYJMd5H5yOXq41SjFognb5Kp9LJQU96AEglChlKFNgdAqF5gRgon5hFCCZAT8W1r3VFYUQwZDZD
++ META_SYSTEM_USER_TOKEN=EAAM8BxU4WFQBQ2H6I0592pZAkdbGkGFZCuQu8dnATa2Skd3xr0kGMbSIH389fifFh37jZAtnvKCsYL6xZABBGelDbTCpc5dbrH60ZBiAkcEu72gWZCG3rFURo9oYJMd5H5yOXq41SjFognb5Kp9LJQU96AEglChlKFNgdAqF5gRgon5hFCCZAT8W1r3VFYUQwZDZD
++ : EAAM8BxU4WFQBQ2H6I0592pZAkdbGkGFZCuQu8dnATa2Skd3xr0kGMbSIH389fifFh37jZAtnvKCsYL6xZABBGelDbTCpc5dbrH60ZBiAkcEu72gWZCG3rFURo9oYJMd5H5yOXq41SjFognb5Kp9LJQU96AEglChlKFNgdAqF5gRgon5hFCCZAT8W1r3VFYUQwZDZD
++ export GDRIVE_CONTENT_ANALYTICS_FOLDER_ID=17vjnPR3hiwYu5dd0OMQiugZ9IAV-XiGE
++ GDRIVE_CONTENT_ANALYTICS_FOLDER_ID=17vjnPR3hiwYu5dd0OMQiugZ9IAV-XiGE
++ SCRIPT_DIR=/home/openclaw_agent_1/.openclaw/workspace-tommy/meta_analytics/bin
++ OUT_JSON=/home/openclaw_agent_1/.openclaw/workspace-tommy/meta_analytics/bin/.last_run.json
++ ERR_TXT=/home/openclaw_agent_1/.openclaw/workspace-tommy/meta_analytics/bin/.last_run.err
++ set +e
++ python3 /home/openclaw_agent_1/.openclaw/workspace-tommy/meta_analytics/bin/meta_analytics_run.py
++ CODE=2
++ set -e
++ [[ 2 -eq 0 ]]
+++ TZ=America/Chicago
+++ date '+%B %-d, %Y %-I:%M %p CT'
++ NOW_CT_HUMAN='March 1, 2026 12:38 PM CT'
+++ TZ=America/Chicago
+++ date +%Y-%m-%d_%H%M_CT
++ NOW_CT_SAFE=2026-03-01_1238_CT
++ TITLE=MetaFailure_2026-03-01_1238_CT
+++ mktemp
++ TMP_MD=/tmp/tmp.MKamBODTTV
++ echo '# Meta Analytics Sweep Failure - March 1, 2026 12:38 PM CT'
++ echo
++ echo '## Error (raw)'
++ echo '```json'
++ cat /home/openclaw_agent_1/.openclaw/workspace-tommy/meta_analytics/bin/.last_run.json
++ echo
++ echo '```'
++ [[ -s /home/openclaw_agent_1/.openclaw/workspace-tommy/meta_analytics/bin/.last_run.err ]]
++ echo
++ echo '## What to do'
++ echo '- If this error contains: OAuthException / API access blocked => regenerate Meta System User token and replace the token file.'
+++ gog drive upload /tmp/tmp.MKamBODTTV --convert-to doc --parent 17vjnPR3hiwYu5dd0OMQiugZ9IAV-XiGE --name MetaFailure_2026-03-01_1238_CT --json --results-only
+Google API error (400 badRequest): Bad Request
++ UPLOAD_JSON=

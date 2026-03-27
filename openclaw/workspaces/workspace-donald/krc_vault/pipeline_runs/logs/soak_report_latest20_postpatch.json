@@ -1,0 +1,195 @@
+{
+  "window": "latest_20_completed",
+  "counts": {
+    "ok": 12,
+    "schema_fail": 7,
+    "infra_session_lock_fail": 1
+  },
+  "by_stage": {
+    "jimmy": {
+      "ok": 12
+    },
+    "bob": {
+      "schema_fail": 7,
+      "infra_session_lock_fail": 1
+    }
+  },
+  "pass_run": {
+    "run_id": "20260309_023644_b0fb2a72",
+    "kind": "archive",
+    "stage": "jimmy",
+    "code": "ok",
+    "error": "ok",
+    "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_023644_b0fb2a72/manifest.json"
+  },
+  "fail_run": {
+    "run_id": "20260309_020412_b0fb2a72",
+    "kind": "quarantine",
+    "stage": "bob",
+    "code": "schema_fail",
+    "error": "schema_fail:missing_final_caption_lines",
+    "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/quarantine/20260309_020412_b0fb2a72/manifest.json"
+  },
+  "rows": [
+    {
+      "run_id": "20260309_023644_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_023644_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_022206_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_022206_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_022809_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_022809_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_020412_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "code": "schema_fail",
+      "error": "schema_fail:missing_final_caption_lines",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/quarantine/20260309_020412_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_021519_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "code": "schema_fail",
+      "error": "schema_fail:missing_final_caption_lines",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/quarantine/20260309_021519_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_021329_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "code": "schema_fail",
+      "error": "schema_fail:missing_final_caption_lines",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/quarantine/20260309_021329_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_020835_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "code": "schema_fail",
+      "error": "schema_fail:missing_final_caption_lines",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/quarantine/20260309_020835_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_014611_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_014611_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_015710_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_015710_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_015034_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "code": "schema_fail",
+      "error": "schema_fail:missing_final_caption_lines",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/quarantine/20260309_015034_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_014844_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_014844_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_013940_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_013940_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_014325_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_014325_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_013725_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "code": "infra_session_lock_fail",
+      "error": "agent_call_failed agent=bob rc=1 err=outer/deepseek/deepseek-chat-v3-0324: session file locked (timeout 10000ms): pid=53703 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/quarantine/20260309_013725_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_012939_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "code": "schema_fail",
+      "error": "schema_fail:missing_final_caption_lines",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/quarantine/20260309_012939_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_012751_b0fb2a72",
+      "kind": "quarantine",
+      "stage": "bob",
+      "code": "schema_fail",
+      "error": "schema_fail:missing_final_caption_lines",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/quarantine/20260309_012751_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_012552_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_012552_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_012459_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_012459_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_012241_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_012241_b0fb2a72/manifest.json"
+    },
+    {
+      "run_id": "20260309_012140_b0fb2a72",
+      "kind": "archive",
+      "stage": "jimmy",
+      "code": "ok",
+      "error": "ok",
+      "manifest": "/home/openclaw_agent_1/krc_vault/pipeline_runs/archive/20260309_012140_b0fb2a72/manifest.json"
+    }
+  ]
+}

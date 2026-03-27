@@ -1,0 +1,26 @@
+{
+  "run_id": "20260301_195911_2154e61f",
+  "timestamp": "2026-03-01T20:09:00Z",
+  "status": "content_ready",
+  "title": "Arno Marx Spiritual Warfare - V4",
+  "pass": "V4_Refresh",
+  "files": {
+    "gold_nugget_export": "krc_vault/gold nugget exports/20260301_195911_2154e61f__Arno_Marx_Spiritual_Warfare_V4.json",
+    "finished_content": "krc_vault/finished content for posting/20260301_195911_2154e61f__finished_content_V4.md"
+  },
+  "drive": {
+    "file_id": "1uMKHM4W5KNVQ5aHIlnKyRH9bY05NGkaSugYFTeSIHzI",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1uMKHM4W5KNVQ5aHIlnKyRH9bY05NGkaSugYFTeSIHzI/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-03-01T20:10:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 2,
+    "nuggets_used": [
+      "identity_vs_counting_028_v4 (9.2)",
+      "spiritual_gym_buff_vs_skinny_005_v4 (9.6)"
+    ],
+    "refresh_note": "V4 pass \u2014 fresh angles on previously covered nuggets per Andre request"
+  }
+}

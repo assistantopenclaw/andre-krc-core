@@ -1,0 +1,24 @@
+{
+  "run_id": "20260309_011305_b0fb2a72",
+  "source_id": "fathom_b0fb2a72fa14926e",
+  "route": "Authority",
+  "conversion_angle": "none",
+  "nugget": {
+    "nugget_id": "N_FALLBACK_1",
+    "post_class_recommendation": "Authority",
+    "conversion_angle": "none",
+    "idea_one_liner": "00:01] Andre Panet-Raymond: Hello, hello. 00:03] Adam Moldovan: Hey, Andre. 00:03] Adam Moldovan: How are you? 00:04] Andre Panet-Raymond: I'm doing good, Adam. 00:05] Andre Panet-Raymond: How are you doing? 00:06] Adam Moldovan: I'm doing very well. 00:08] Ad...",
+    "proof_anchor_lines": [
+      "Client described repeated delay loop.",
+      "Action was clear, execution was postponed."
+    ],
+    "first_step_seed": "Today: Take one avoided action before noon.",
+    "eligible_for_content": true,
+    "fallback_generated": true
+  },
+  "donald_artifacts": {
+    "donald_run_id": "20260309_011305_0b62a956",
+    "donald_manifest": "/home/openclaw_agent_1/krc_vault/manifests/20260309_011305_0b62a956__manifest.json",
+    "nuggets_json": "/home/openclaw_agent_1/krc_vault/gold nugget exports/20260309_011305_0b62a956__Unknown__nuggets.json"
+  }
+}

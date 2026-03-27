@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "Calling a delay loop a strategy does not make it wisdom, it makes it a more sophisticated form of fear.",
+  "overlay_hook_2": "Each cycle you postpone a clear action, you are not being careful, you are being controlled by resistance.",
+  "overlay_hook_3": "The leaders who manifest vision are not those with better timing, they are those who surrendered sooner.",
+  "overlay_cta": "read caption"
+}
+```

@@ -1,0 +1,4 @@
+START run_id=20260228_221942_c34df58a url=https://fathom.video/share/kgLpjMboKQuyJo8s9yQJnDCUjPV9B8aS
+FETCH source=fathom_api status=ok
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260228_221942_c34df58a__Augusto_Leal_and_Andre_Panet-Raymond.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260228_221942_c34df58a__gold_nugget_export.md

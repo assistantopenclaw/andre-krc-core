@@ -1,0 +1,5 @@
+START run_id=20260302_002357_96a66d9d url=https://fathom.video/share/xYALcSdZzKCszKViyBA3Vwbj2oxaLR3k
+FETCH source=fathom_api status=fail error=HTTP Error 429: Too Many Requests
+FETCH source=curl_fallback status=ok
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260302_002357_96a66d9d__fathom.video_share_xYALcSdZzKCszKViyBA3Vwbj2oxaLR3k.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260302_002357_96a66d9d__gold_nugget_export.md

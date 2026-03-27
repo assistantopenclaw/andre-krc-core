@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "profiles": {
+    "openrouter:default": {
+      "type": "api_key",
+      "provider": "openrouter",
+      "key": "{{AGENTS_MANAGER_AUTH_PROFILES_PROFILES_OPENROUTER_DEFAULT_KEY}}"
+    },
+    "openrouter:manual": {
+      "type": "token",
+      "provider": "openrouter",
+      "token": "{{OPENROUTER_TOKEN}}"
+    }
+  },
+  "lastGood": {
+    "openrouter": "openrouter:manual"
+  },
+  "usageStats": {
+    "openrouter:default": {
+      "lastUsed": 1773116273937,
+      "errorCount": 0
+    },
+    "openrouter:manual": {
+      "lastUsed": 1773357323770,
+      "errorCount": 0
+    }
+  }
+}

@@ -1,0 +1,3 @@
+{"ok": true, "run_id": "20260309_034738_0b62a956", "nuggets": "/home/openclaw_agent_1/krc_vault/gold nugget exports/20260309_034738_0b62a956__Unknown__nuggets.json", "objections": "/home/openclaw_agent_1/krc_vault/gold nugget exports/20260309_034738_0b62a956__Unknown__objections.json"}
+
+[stderr]

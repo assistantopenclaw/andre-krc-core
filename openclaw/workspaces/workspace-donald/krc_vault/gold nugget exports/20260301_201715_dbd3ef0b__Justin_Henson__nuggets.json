@@ -1,0 +1,51 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260301_201715_dbd3ef0b",
+  "source_id": "FATHOM: Justin Henson",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "justin_001",
+      "category": "story",
+      "idea_one_liner": "True leadership responds to life's explosions with grace rather than judgment.",
+      "why_it_hits": "Highlights the human/spiritual aspect of coaching—prioritizing the client's family crisis over the coach's schedule.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Men in high-conflict divorces",
+      "caption_fit": "tight",
+      "value_score_overall": 6,
+      "value_equation": {
+        "dream_outcome": "Stability during crisis",
+        "perceived_likelihood": "Supportive relationship",
+        "time_delay": "immediate",
+        "effort_sacrifice": "low",
+        "numerator_notes": ["Relief from guilt about cancellation"],
+        "denominator_notes": ["Requires picking up the pieces later"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 1,
+          "mechanism_B": 1,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "I have grace for what you're going through... Take care of your family, man, and when you're, when you're ready to... take care of yourself, shoot me a text.",
+      "proof_location": "ts: 00:01:21",
+      "proof_anchor_lines": ["Coach offering grace during a family emergency", "Putting family safety before the schedule"],
+      "micro_tags": {"hookable": false, "tension": true, "flip": false, "mechanism": false, "story": true, "pattern_interrupt": false, "payoff": true},
+      "hook_angle_1_stakes": "When your life explodes, who's in your corner?",
+      "hook_angle_2_identity": "The man who handles the storm for his kids.",
+      "hook_angle_3_mechanism": "The grace-first approach to mentorship.",
+      "enemy_frame_type": "none",
+      "enemy_frame_label": "none",
+      "enemy_frame_proof_redacted": "",
+      "first_step_seed": "If you're in a crisis, step one is safety. Handle your family first, then seek God's grace for yourself.",
+      "cta_runway_fit": "weak",
+      "sensitivity_flag": "none",
+      "redaction_notes": "",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {"stop_power": 6, "hold_power": 5, "payoff_power": 6, "overall": 6},
+      "must_not_claim": []
+    }
+  ]
+}

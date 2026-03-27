@@ -1,0 +1,126 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260302_063015_3a527a29",
+  "source_id": "FATHOM:jTk4dTr2uxioK7AzQjVUzkxfo_x61hGb",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "nugget_001",
+      "category": "identity_shift",
+      "idea_one_liner": "When an idol breaks, the resulting anxiety is proof that you weren't trusting God.",
+      "why_it_hits": "Exposes the 'Savior Complex' and the fragility of placing identity in a person rather than Christ.",
+      "post_class_recommendation": "Conversion",
+      "conversion_angle": "heartbreak",
+      "audience_fit": "men dealing with relationship betrayal",
+      "caption_fit": "normal",
+      "value_score_overall": 9,
+      "value_equation": {
+        "dream_outcome": "Unshakeable peace regardless of others' actions.",
+        "perceived_likelihood": "High, anchored in the necessity of God as the only true North Star.",
+        "time_delay": "immediate",
+        "effort_sacrifice": "high",
+        "numerator_notes": ["Direct hit on the 'Savior Complex'.", "Identifies the source of relationship anxiety as a misplaced idol."],
+        "denominator_notes": ["Demands the ego death of admitting pride in 'saving' someone."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 1,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "I do feel like my spirit is down when I'm... when I put her as my source of idolatry... And anxiety instead of peace comes in there because you recognize the vulnerability of that idol... I guess I'm trying to be like the savior. But really what I need to be focused on is continuing sprinting up the hill and find someone that's equally sprinting.",
+      "proof_location": "ts: 01:06:52",
+      "proof_anchor_lines": [
+        "Anxiety comes when your idol is vulnerable.",
+        "Stop trying to save her and focus on the One who saves you."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "Your 'heartbreak' is actually an idolatry problem. Here's why you can't find peace.",
+      "hook_angle_2_identity": "Are you her Savior or are you a son of the Savior? Your anxiety tells the truth.",
+      "hook_angle_3_mechanism": "The 'Vulnerable Idol' mechanism: Why people-pleasing leads to spiritual burnout.",
+      "enemy_frame_type": "spiritual",
+      "enemy_frame_label": "Savior Complex",
+      "enemy_frame_proof_redacted": "I guess I'm trying to be like the savior",
+      "first_step_seed": "Name the person you've placed on a pedestal and ask God to take their place.",
+      "cta_runway_fit": "strong",
+      "sensitivity_flag": "trauma",
+      "redaction_notes": "Deeply personal sharing about betrayal; treat with high respect.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 9,
+        "hold_power": 8,
+        "payoff_power": 9,
+        "overall": 9
+      },
+      "must_not_claim": ["Instant healing of all pain", "That the other person didn't do something wrong"]
+    },
+    {
+      "nugget_id": "nugget_002",
+      "category": "truth_flip",
+      "idea_one_liner": "Your past sins aren't a reason to permit sin today—that's a 'regression' trap.",
+      "why_it_hits": "Destroys the 'double standard' excuse that keeps men stuck in subpar relationships.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "men making excuses for staying in bad dynamics",
+      "caption_fit": "tight",
+      "value_score_overall": 8,
+      "value_equation": {
+        "dream_outcome": "Freedom to set high standards despite a messy past.",
+        "perceived_likelihood": "High, centered on the new creation in Christ.",
+        "time_delay": "immediate",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Calls out a specific 'Satanic' logic: 'I was bad, so I have to let her be bad'.", "Validates the transformation of the individual."],
+        "denominator_notes": ["Requires rejecting the feeling of 'unworthiness' that feels like humility but is actually pride."],
+        "rubric_breakdown": {
+          "foundation_shift_A": 3,
+          "mechanism_B": 1,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "It also doesn't seem that she was asking for forgiveness, though... if Satan's trying to bring up, 'well, I did this, so I should allow and permit this,' then that's regression. That's making excuses for sin.",
+      "proof_location": "ts: 01:16:14",
+      "proof_anchor_lines": [
+        "Using your past to justify current sin is a trap.",
+        "You're a different man now. Act like it."
+      ],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": false,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "The dangerous 'Double Standard' trap that keeps good men in bad marriages.",
+      "hook_angle_2_identity": "Stop identifying with the man you used to be. You're a new creation.",
+      "hook_angle_3_mechanism": "How to set standards when you have a 'messy' track record.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "False Humility / Shame",
+      "enemy_frame_proof_redacted": "it feels like a double standard because I was doing the same thing",
+      "first_step_seed": "Write down the standards of the man you are *becoming*, not the one you *were*.",
+      "cta_runway_fit": "medium",
+      "sensitivity_flag": "none",
+      "redaction_notes": "",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 8,
+        "hold_power": 8,
+        "payoff_power": 8,
+        "overall": 8
+      },
+      "must_not_claim": []
+    }
+  ]
+}

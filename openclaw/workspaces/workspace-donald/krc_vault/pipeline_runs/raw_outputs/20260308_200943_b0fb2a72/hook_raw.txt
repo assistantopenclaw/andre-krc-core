@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "Leadership authority does not dissolve from bad decisions, it dissolves from the delays you normalize.",
+  "overlay_hook_2": "Resistance does not weaken the longer you wait, it gets more convincing and harder to call fear.",
+  "overlay_hook_3": "The leaders who transform culture act on the clarity they already have and trust God with the outcome.",
+  "overlay_cta": "read caption"
+}
+```

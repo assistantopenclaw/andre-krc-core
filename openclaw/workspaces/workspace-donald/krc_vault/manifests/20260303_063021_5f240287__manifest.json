@@ -1,0 +1,20 @@
+{
+  "run_id": "20260303_063021_5f240287",
+  "source_url": "https://fathom.video/share/xeXtgYksG6RqyP9Qvt9xR3z7S_TuEnH2",
+  "url_hash": "5f240287e4b5232bfb752706fd3d84eda50b5d6999d5d11a14225640352c55a4",
+  "status": "success",
+  "raw_transcript_file": "/home/openclaw_agent_1/krc_vault/raw call transcripts/20260303_063021_5f240287__Augusto_Leal_and_Andre_Panet-Raymond.txt",
+  "nugget_export_file": "/home/openclaw_agent_1/krc_vault/gold nugget exports/20260303_063021_5f240287__gold_nugget_export.md",
+  "finished_content_file(s)": [
+    "/home/openclaw_agent_1/krc_vault/finished content for posting/20260303_063021_5f240287__finished_content.md"
+  ],
+  "created_at": null,
+  "updated_at": "2026-03-03T12:30:36.746496+00:00",
+  "error_message": null,
+  "drive": {
+    "file_id": "1-GL-s6cXxHH2sBR2XRn-N94PxQDkLaGPDYBHmEVjzSo",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1-GL-s6cXxHH2sBR2XRn-N94PxQDkLaGPDYBHmEVjzSo/edit?usp=drivesdk",
+    "format": "google_doc"
+  }
+}

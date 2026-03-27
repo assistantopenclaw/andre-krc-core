@@ -1,0 +1,11 @@
+{
+  "id": "20260228-002737-live-test-remember-item",
+  "title": "Live test remember item",
+  "description": "Test end-to-end remember/close flow",
+  "status": "closed",
+  "created_at": "2026-02-28T00:27:37-06:00",
+  "updated_at": "2026-02-28T00:47:18-06:00",
+  "full_idea": "Live test remember: remember this flow end-to-end; test close flow.",
+  "source_text": "Live test remember: remember this flow end-to-end; test close flow.",
+  "closed_at": "2026-02-28T00:47:18-06:00"
+}

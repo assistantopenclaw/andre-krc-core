@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "description": "Daily: The number of people who had any content from your Page or about your Page enter their screen. This includes posts, check-ins, ads, social information from people who interact with your Page and more. (Unique Users)",
+      "id": "1456426071133798/insights/page_impressions_unique/day",
+      "name": "page_impressions_unique",
+      "period": "day",
+      "title": "Daily Total Reach",
+      "values": [
+        {
+          "end_time": "2026-02-23T08:00:00+0000",
+          "value": 8046
+        },
+        {
+          "end_time": "2026-02-24T08:00:00+0000",
+          "value": 4655
+        },
+        {
+          "end_time": "2026-02-25T08:00:00+0000",
+          "value": 5979
+        },
+        {
+          "end_time": "2026-02-26T08:00:00+0000",
+          "value": 14358
+        },
+        {
+          "end_time": "2026-02-27T08:00:00+0000",
+          "value": 3402
+        },
+        {
+          "end_time": "2026-02-28T08:00:00+0000",
+          "value": 4443
+        },
+        {
+          "end_time": "2026-03-01T08:00:00+0000",
+          "value": 34234
+        }
+      ]
+    },
+    {
+      "description": "Daily: The number of times people have engaged with your posts through like, comments and shares and more.",
+      "id": "1456426071133798/insights/page_post_engagements/day",
+      "name": "page_post_engagements",
+      "period": "day",
+      "title": "Daily Post Engagements",
+      "values": [
+        {
+          "end_time": "2026-02-23T08:00:00+0000",
+          "value": 487
+        },
+        {
+          "end_time": "2026-02-24T08:00:00+0000",
+          "value": 298
+        },
+        {
+          "end_time": "2026-02-25T08:00:00+0000",
+          "value": 236
+        },
+        {
+          "end_time": "2026-02-26T08:00:00+0000",
+          "value": 449
+        },
+        {
+          "end_time": "2026-02-27T08:00:00+0000",
+          "value": 161
+        },
+        {
+          "end_time": "2026-02-28T08:00:00+0000",
+          "value": 176
+        },
+        {
+          "end_time": "2026-03-01T08:00:00+0000",
+          "value": 976
+        }
+      ]
+    },
+    {
+      "description": "Daily: Total views count per Page",
+      "id": "1456426071133798/insights/page_views_total/day",
+      "name": "page_views_total",
+      "period": "day",
+      "title": "Daily Total views count per Page",
+      "values": [
+        {
+          "end_time": "2026-02-23T08:00:00+0000",
+          "value": 89
+        },
+        {
+          "end_time": "2026-02-24T08:00:00+0000",
+          "value": 40
+        },
+        {
+          "end_time": "2026-02-25T08:00:00+0000",
+          "value": 77
+        },
+        {
+          "end_time": "2026-02-26T08:00:00+0000",
+          "value": 137
+        },
+        {
+          "end_time": "2026-02-27T08:00:00+0000",
+          "value": 48
+        },
+        {
+          "end_time": "2026-02-28T08:00:00+0000",
+          "value": 42
+        },
+        {
+          "end_time": "2026-03-01T08:00:00+0000",
+          "value": 319
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "previous": "https://graph.facebook.com/v25.0/1456426071133798/insights?access_token=EAAM8BxU4WFQBQ9RPTSPN9hVIm2FgTDbYwEKyzwGTgOSkElj8byqArYZAJJflioflFveKLZBE2EJAPY3pRES4qTYsOyHECuKObAkxrkJgynCcFImEAsIbZAN8mMK0j9BqlOUc3FCbuliiKF4hKKlUR5tRdcnhpmsOvGDUHGNlUHCSybJibeVVNKKIAInbwniZBShj&since=1771142400&until=1771747200&metric=page_impressions_unique%2Cpage_post_engagements%2Cpage_views_total&period=day"
+  }
+}

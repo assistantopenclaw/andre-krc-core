@@ -1,0 +1,9 @@
+```json
+{
+  "overlay_hook_1": "The action is clear and you keep postponing it, that is not strategy, that is a trained delay loop.",
+  "overlay_hook_2": "Resistance does not weaken the longer you wait, it gets more articulate and harder to name as fear.",
+  "overlay_hook_3": "Obedience does not require perfect conditions, it requires the one avoided action you keep deferring."
+}
+```
+
+> `overlay_cta` omitted. Captain Hook contract: exactly 3 hooks, no extra keys.

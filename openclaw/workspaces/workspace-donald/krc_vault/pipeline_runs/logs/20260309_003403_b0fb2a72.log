@@ -1,0 +1,2 @@
+2026-03-09T05:34:50.989139+00:00 FAIL stage=mark err=agent_call_failed agent=mark rc=1 err=router/moonshotai/kimi-k2-thinking: session file locked (timeout 10000ms): pid=53649 /home/openclaw_agent_1/.openclaw/agents/mark/sessions/c1762b86-9ea3-4b62-bc1b-0b9087b29040.jsonl.lock (timeout) | openrouter/anthropic/claude-sonnet-4.6: session file locked (timeout 10000ms): pid=53649 /home/openclaw_agent_1/.openclaw/agents/mark/sessions/c1762b86-9ea3-4b62-bc1b-0b9087b29040.jsonl.lock (timeout)
+

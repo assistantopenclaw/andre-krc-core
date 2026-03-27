@@ -1,0 +1,14 @@
+{
+  "run_id": "20260227_162237_100680ad",
+  "source_url": "https://example.com",
+  "url_hash": "100680ad546ce6a577f42f52df33b4cfdca756859e664b8d7de329b150d09ce9",
+  "status": "success",
+  "raw_transcript_file": "/home/openclaw_agent_1/krc_vault/raw call transcripts/20260227_162237_100680ad__example.com.txt",
+  "nugget_export_file": "/home/openclaw_agent_1/krc_vault/gold nugget exports/20260227_162237_100680ad__gold_nugget_export.md",
+  "finished_content_file(s)": [
+    "/home/openclaw_agent_1/krc_vault/finished content for posting/20260227_162237_100680ad__finished_content.md"
+  ],
+  "created_at": null,
+  "updated_at": "2026-02-27T22:22:43.731753+00:00",
+  "error_message": null
+}

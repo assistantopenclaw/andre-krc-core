@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "Each time you baptize an excuse as wisdom, you are not growing in discernment, you are growing the loop.",
+  "overlay_hook_2": "Strength in leadership is not built by waiting for the right moment, it is built by surrendering in this one.",
+  "overlay_hook_3": "Vision atrophy is not a spiritual mystery, it is the predictable outcome of choosing delay over obedience.",
+  "overlay_cta": "read caption"
+}
+```

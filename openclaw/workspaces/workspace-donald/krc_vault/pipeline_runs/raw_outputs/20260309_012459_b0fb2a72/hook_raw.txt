@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "You crave authority while normalizing the delay pattern that is the precise cause of its dissolution.",
+  "overlay_hook_2": "Resistance keeps convincing you to wait because every cycle you comply, you become easier to control.",
+  "overlay_hook_3": "Moving on what you already know is not recklessness, it is the act of trust that ends the stagnation.",
+  "overlay_cta": "read caption"
+}
+```

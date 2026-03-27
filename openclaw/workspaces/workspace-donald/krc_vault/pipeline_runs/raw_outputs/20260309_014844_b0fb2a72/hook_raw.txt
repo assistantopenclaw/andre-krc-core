@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "Your team does not see your internal reasoning, they see your pattern, and your pattern is postponement.",
+  "overlay_hook_2": "Resistance gets more convincing with every cycle because every cycle you comply teaches it what works on you.",
+  "overlay_hook_3": "You are not waiting for confirmation from God, you are waiting for fear to finally feel safe enough to act.",
+  "overlay_cta": "read caption"
+}
+```

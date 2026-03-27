@@ -1,0 +1,26 @@
+{
+  "call_digest": {
+    "run_id": "RUN_20260301_195909_72b3ac2a",
+    "call_type": "Coaching / Business / Identity - V4",
+    "main_themes": [
+      "Symptom vs. Problem Framework",
+      "The Pitcher Analogy (Skill Practice)",
+      "Sales as Service"
+    ]
+  },
+  "nuggets": [
+    {
+      "nugget_id": "symptom_vs_problem_031_v4",
+      "idea_one_liner": "Stop trying to kill the thoughts; kill the idolatry and the thoughts will starve to death.",
+      "proof_quote": "Solving the problem would then stop the symptom as a byproduct.",
+      "proof_location": "00:06:06",
+      "value_score_overall": 9.7
+    }
+  ],
+  "handoff_packet": {
+    "creator_notes": {
+      "preserve_phrases": ["Throwing a curveball", "Symptom vs Problem"],
+      "tone": "Strategic and athletic. (V4 Reprocessed Output)."
+    }
+  }
+}

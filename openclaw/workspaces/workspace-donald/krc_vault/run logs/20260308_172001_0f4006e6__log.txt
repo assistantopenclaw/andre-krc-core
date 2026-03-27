@@ -1,0 +1,4 @@
+START run_id=20260308_172001_0f4006e6 url=https://fathom.video/share/Y3MNoV36wzaTGGLXKEpiMZDLgrxWNiz7
+FETCH source=fathom_api status=ok
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260308_172001_0f4006e6__Isaac_martin_and_Andre_Panet-Raymond.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260308_172001_0f4006e6__gold_nugget_export.md

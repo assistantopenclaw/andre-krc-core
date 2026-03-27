@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "You are not postponing a decision, you are building a delay pattern that becomes your leadership identity.",
+  "overlay_hook_2": "The action keeps getting clearer and the excuses keep getting louder, that is the anatomy of a delay loop.",
+  "overlay_hook_3": "Surrender is not the loss of control you fear, it is the transfer of authority that ends your stagnation.",
+  "overlay_cta": "read caption"
+}
+```

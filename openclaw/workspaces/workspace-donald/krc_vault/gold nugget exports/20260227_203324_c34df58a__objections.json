@@ -1,0 +1,42 @@
+[
+  {
+    "objection_id": "CRINGE_FACTOR_OBJ_01",
+    "objection_text": "I feel weird/cringe/awkward about praying or sharing my faith in public.",
+    "underlying_belief": "Religion should be private and speaking of it makes me a 'preachy' or 'strange' person.",
+    "underlying_fear": "Social exclusion, being judged as irrational or fanatical by peers.",
+    "counter_truth_angle": "The cringe is the devil trying to block your peace. Stomp the snake's head.",
+    "transcript_proof_quote": "[01:50:25] He's like, no, I feel weird about praying. I was like, why? [01:56:06] It was almost like the devil being like, ah, no, don't do that..."
+  },
+  {
+    "objection_id": "SINNER_STIGMA_OBJ_02",
+    "objection_text": "My past is too dark for God to use me.",
+    "underlying_belief": "God only works with 'pure' people, and my previous mistakes disqualify me from being an influence for good.",
+    "underlying_fear": "Hypocrisy being exposed, or being truly an 'evil' person at the core.",
+    "counter_truth_angle": "Your darkest skills are what God uses for your biggest mission.",
+    "transcript_proof_quote": "[01:30:41] That skill that I was using for evil, God was giving me a skill so that I was able to..."
+  },
+  {
+    "objection_id": "FEAR_OF_DEATH_OBJ_03",
+    "objection_text": "I'm terrified of dying and it creates constant low-level anxiety.",
+    "underlying_belief": "Death is the 'end' and anything afterwards is uncertain or non-existent.",
+    "underlying_fear": "Ceasing to exist, loss of everything tangible, or facing final judgment.",
+    "counter_truth_angle": "Death is the ultimate adventure. Finding peace with it is the only way to truly live.",
+    "transcript_proof_quote": "[00:32:00] I don't think I've ever had that much peace in accepting a situation... [00:32:46] I'm super excited to die. Not in the title way... I'm going to get to go to heaven?"
+  },
+  {
+    "objection_id": "TOO_HARD_OBJ_04",
+    "objection_text": "I'm not strong enough to carry my own burden (layoffs, breakup, etc.).",
+    "underlying_belief": "I have to be'enough' and have my own strength to get through this.",
+    "underlying_fear": "Failure, collapse, or realizing I'm actually weak and incapable.",
+    "counter_truth_angle": "Admit you're weak. Let God carry the cross.",
+    "transcript_proof_quote": "[00:11:00] When I feel like I can't carry my own cross. I'm like, God, I am not strong enough to carry my own cross, so help me out here."
+  },
+  {
+    "objection_id": "TIME_MANAGEMENT_OBJ_05",
+    "objection_text": "I don't have time for a full spiritual journey right now with work/travel mayhem.",
+    "underlying_belief": "Doing spiritual work is a slow, ponderous process that requires a retreat or hours of study.",
+    "underlying_fear": "That I'll fail at the task, so I shouldn't start until I can do it 'right'.",
+    "counter_truth_angle": "The 20-second hack. Feed the algorithm with raw truth, not analysis.",
+    "transcript_proof_quote": "[00:07:45] For the next two weeks, I have it auto set that it's just scheduled to send out... Our Fathers, Hail Marys... 20-second video."
+  }
+]

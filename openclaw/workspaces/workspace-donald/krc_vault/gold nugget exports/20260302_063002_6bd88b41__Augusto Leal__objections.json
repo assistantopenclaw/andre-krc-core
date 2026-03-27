@@ -1,0 +1,26 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260302_063002_6bd88b41",
+  "source_id": "FATHOM:3sXnwgFgxZQJDT84Aryxay59psZtsXWS",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "obj_001",
+      "objection_text": "Working hard or taking work seriously will pull me away from God.",
+      "underlying_belief": "God and the material world are mutually exclusive; I can't serve two masters.",
+      "underlying_fear": "Loss of spiritual peace; becoming a 'factory worker' or 'obedient employee' instead of a free man.",
+      "counter_truth_angle": "Work is the place where faith is tested and practiced; it is a vehicle for devotion, not an impediment.",
+      "transcript_proof_quote_redacted": "devoting myself to work makes me fearful of just being like this like too obedient little good employee factory worker. And I'm like, that's not what God wants.",
+      "proof_location": "ts: 00:36:26"
+    },
+    {
+      "objection_id": "obj_002",
+      "objection_text": "I can't start my spiritual journey because my life is too messy (I'm in 'sin').",
+      "underlying_belief": "Salvation required me to be perfect first.",
+      "underlying_fear": "Rejection from God; being 'too far gone'.",
+      "counter_truth_angle": "Jesus died precisely because we are imperfect; salvation is about being reborn, not being perfect.",
+      "transcript_proof_quote_redacted": "he knows we're imperfect, but he really just wants us to have pure hearts... dying for our sins means... a way for us to liberate our own hearts.",
+      "proof_location": "ts: 00:09:54"
+    }
+  ]
+}

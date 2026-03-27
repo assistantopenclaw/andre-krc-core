@@ -1,0 +1,2 @@
+2026-03-09T05:04:29.538303+00:00 FAIL stage=bob err=agent_call_failed agent=bob rc=1 err=outer/deepseek/deepseek-chat-v3-0324: session file locked (timeout 10000ms): pid=47557 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout) | openrouter/anthropic/claude-sonnet-4.6: session file locked (timeout 10000ms): pid=47557 /home/openclaw_agent_1/.openclaw/agents/bob/sessions/4458f5ca-0536-482e-9a02-2fd6f3f2594a.jsonl.lock (timeout)
+

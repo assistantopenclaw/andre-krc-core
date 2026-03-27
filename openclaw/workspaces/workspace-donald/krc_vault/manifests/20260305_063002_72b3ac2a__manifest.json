@@ -1,0 +1,30 @@
+{
+  "run_id": "20260305_063002_72b3ac2a",
+  "timestamp": "2026-03-05T06:30:02Z",
+  "status": "content_ready",
+  "client": "Austin Foster",
+  "source_id": "FATHOM:MHUn-4cJvKYL2J7gMTmmTXEi86a9hKYz",
+  "files": {
+    "finished_content": "krc_vault/finished content for posting/20260305_063002_72b3ac2a__finished_content.md"
+  },
+  "drive": {
+    "file_id": "1hjwIELDcYY01mMuxfisAdbzGNZAKxJuz6qCDeGqQk-s",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1hjwIELDcYY01mMuxfisAdbzGNZAKxJuz6qCDeGqQk-s/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-03-05T06:31:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 4,
+    "post_order": "Highest score first",
+    "nuggets_used": [
+      "nugget_003_god_in_the_past_and_future (8.7) — Authority",
+      "nugget_001_symptom_vs_problem (7.7) — Authority",
+      "nugget_002_training_process (7.0) — Authority",
+      "nugget_004_alignment_is_the_close (7.0) — Authority"
+    ]
+  },
+  "finished_content_file(s)": [
+    "/home/openclaw_agent_1/krc_vault/finished content for posting/20260305_063002_72b3ac2a__finished_content.md"
+  ]
+}

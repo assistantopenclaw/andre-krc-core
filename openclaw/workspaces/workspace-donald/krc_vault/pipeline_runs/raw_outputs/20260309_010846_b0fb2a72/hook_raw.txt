@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "Avoidance tightens its grip every cycle until the action you were called to take feels impossible to start.",
+  "overlay_hook_2": "You are being controlled by the exact resistance Christ called you to walk through, not around, not past.",
+  "overlay_hook_3": "When obedience shifts from exceptional act to default reflex, your authority stops being theoretical.",
+  "overlay_cta": "read caption"
+}
+```

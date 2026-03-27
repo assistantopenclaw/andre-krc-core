@@ -1,0 +1,31 @@
+{
+  "run_id": "20260228_221733_64922e48",
+  "timestamp": "2026-02-28T22:17:33Z",
+  "status": "content_ready",
+  "title": "Dakota Webb and Andre - Number Two",
+  "files": {
+    "gold_nugget_export": "krc_vault/gold nugget exports/20260228_221733_64922e48__Dakota_Webb_Number_Two.json",
+    "finished_content": "krc_vault/finished content for posting/20260228_221733_64922e48__finished_content.md"
+  },
+  "drive": {
+    "file_id": "1pl8V7vnEnjbXAZvuFPnjmjqpAAPtwNz0BBoEUKz6bro",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1pl8V7vnEnjbXAZvuFPnjmjqpAAPtwNz0BBoEUKz6bro/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-02-28T22:18:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 3,
+    "hooks_per_post": 3,
+    "nuggets_used": [
+      "screen_time_prison_019 (9.7/10.0)",
+      "who_is_living_through_you_021 (9.5)",
+      "engine_analogy_020 (9.4)"
+    ]
+  },
+  "metadata": {
+    "client": "Dakota Webb",
+    "call_type": "Coaching / Identity / Addiction - Number Two",
+    "call_date": "2026-02-28"
+  }
+}

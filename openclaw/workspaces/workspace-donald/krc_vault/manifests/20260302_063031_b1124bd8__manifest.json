@@ -1,0 +1,27 @@
+{
+  "run_id": "20260302_063031_b1124bd8",
+  "timestamp": "2026-03-02T06:30:31Z",
+  "status": "content_ready",
+  "client": "Augusto Leal",
+  "source_id": "FATHOM:JsmTS3dWxeYqCs--99AqzN-gBRka8ogh",
+  "files": {
+    "finished_content": "krc_vault/finished content for posting/20260302_063031_b1124bd8__finished_content.md"
+  },
+  "drive": {
+    "file_id": "1IUQOv8qGK2Kh0JldnwSPS8iqEslHu77tltDsT03pnmw",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1IUQOv8qGK2Kh0JldnwSPS8iqEslHu77tltDsT03pnmw/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-03-02T06:31:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 2,
+    "nuggets_used": [
+      "nugget_001 — hope deferred / limbo door (9.0) — Conversion/heartbreak",
+      "nugget_002 — salvation audit / detachment framework (8.0) — Authority"
+    ]
+  },
+  "finished_content_file(s)": [
+    "/home/openclaw_agent_1/krc_vault/finished content for posting/20260302_063031_b1124bd8__finished_content.md"
+  ]
+}

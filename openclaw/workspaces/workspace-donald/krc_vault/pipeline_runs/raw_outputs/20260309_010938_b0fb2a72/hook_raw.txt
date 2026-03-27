@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "Your organization does not wait while you delay, it drifts, and every drift is a cost you chose to pay.",
+  "overlay_hook_2": "When the whisper says you need more confirmation before acting, that is resistance dressed as guidance.",
+  "overlay_hook_3": "The gap between postponed vision and manifested impact is not circumstances, it is the decision to surrender.",
+  "overlay_cta": "read caption"
+}
+```

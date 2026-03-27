@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "Every time you wait for the right feeling before acting, you are not preparing, you are practicing delay.",
+  "overlay_hook_2": "Every time you listen to resistance instead of acting, you are not being prudent, you are deepening the loop.",
+  "overlay_hook_3": "Making obedience your default reflex is not a personality trait, it is a pattern you build by moving now.",
+  "overlay_cta": "read caption"
+}
+```

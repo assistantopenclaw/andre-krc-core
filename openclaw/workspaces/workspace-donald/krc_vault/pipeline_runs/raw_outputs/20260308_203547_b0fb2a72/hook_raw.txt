@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "You are not waiting for confirmation, you are in a delay loop that each cycle makes harder to break.",
+  "overlay_hook_2": "The whisper telling you to pray more before acting is not divine guidance, it is resistance with a plan.",
+  "overlay_hook_3": "Spiritual authority is not given to those who wait for ideal conditions, it goes to those who move now.",
+  "overlay_cta": "read caption"
+}
+```

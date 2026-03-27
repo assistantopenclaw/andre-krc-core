@@ -1,0 +1,67 @@
+﻿POST_ID: 20260310_232018_bf6af389-P01
+
+
+OVERLAY_HOOK_1: If you read the Bible as a rule book, you will eventually start lying to God just to survive the guilt. OVERLAY_HOOK_2: Men who perform for a God they do not know will always confuse religious exhaustion for spiritual growth. OVERLAY_HOOK_3: Obedience stops being forced when you finally read the Word to know the Designer, not just pass His test. OVERLAY_CTA: read caption
+
+
+CAPTION: Most men reading their Bible are reading a rule book they keep failing. They highlight the commands. They track the convictions. They measure the distance between where they are and where the checklist says they should be. And every time they fall short, the Bible feels like a judge, not a Father.
+
+
+That posture is the problem.
+
+
+The Bible was never written to slap you into obedience. It was written so you could understand the nature of the God who made you, and actually learn to love Him. Every command flows from His character. Every warning flows from His love. You cannot build intimacy with someone you only experience as a standard you are failing.
+
+
+This is why so many Christian men are exhausted: they are trying to perform for a God they do not know, using a book they only read for correction. You end up lying to God just to survive the guilt of the gap. You show up at church performing stability you do not have. That is not relationship, it is religion with a mask on.
+
+
+The shift happens when you read the Word to understand the Designer, not just decode His laws.
+
+
+When you approach Scripture as a love letter, every passage stops being a verdict and starts being a window. You see what God values. You see what breaks His heart. You see what He says about you before you ever did anything to earn it. That is where obedience stops being forced and starts being the natural response of a son who actually knows his Father.
+
+
+Today: Open one Psalm and read it as if God is describing His own personality to you, not grading yours.
+
+
+Follow if you want daily leadership truth like this.
+
+
+NOTES: Nugget IDs used: bible_is_not_a_rulebook Proof anchors: "God is interested in your heart, not just your checklist." / "Read the Bible to know the Designer, not just the laws." Post classification: Authority Conversion angle: none Privacy check: PASS Unsupported claims: PASS Missing Donald fields: none Conflict notes: enemy_frame_type=spiritual (The Religious Rule-Slap); spiritual label used in P01. Per rotation constraints, spiritual label not repeated in P02. final=true
+
+
+POST_ID: 20260310_232018_bf6af389-P02
+
+
+OVERLAY_HOOK_1: Every hour you spend in the obsession loop is an hour the enemy is not worried about you winning. OVERLAY_HOOK_2: You are not stuck because the pain is too deep, you are stuck because you forgot it is a distraction. OVERLAY_HOOK_3: The obsession does not feel like a trap until you understand what the enemy is trying to keep you from. OVERLAY_CTA: read caption
+
+
+CAPTION: Most men stuck in heartbreak are not stuck because the pain is too deep. They are stuck because the enemy has made the pain feel like the main event.
+
+
+It is not.
+
+
+God and the enemy are not playing checkers in your life. They are playing chess. Every relationship, every obsession, every hour you spend replaying her texts, tracking her Instagram, rehearsing what you should have said, every one of those hours is a move on a board where your mission is the prize. The enemy does not need to destroy you outright. He just needs to keep you fixated on a distraction long enough that you never become a threat.
+
+
+She is not the main character in that story. You are. And right now, you are spending your most dangerous years benched by a loop that does not do anything for God.
+
+
+Is delay your strategy or just sophisticated fear?
+
+
+Here is what changes when you see it clearly: the obsession does not feel romantic anymore. It feels like what it is, a smoke screen. Satan uses the highest-leverage bait available: physical attraction, emotional memory, the fear that you will never feel that again. He does not need you to sin dramatically. He just needs you to stay distracted long enough to miss your window.
+
+
+You were built for something that requires your full attention. The enemy knows that. The obsession is not an accident.
+
+
+When the fear hits: name it out loud as a tactical distraction and redirect one unit of that attention to your mission.
+
+
+Comment NEXT CHAPTER and I'll send you the first step to fast-track your healing process.
+
+
+NOTES: Nugget IDs used: relationship_chess_distraction Proof anchors: "Satan uses relationship drama to keep you off the front lines." / "Obsession is just an enemy smoke screen." Post classification: Authority (Donald post_class_recommendation=Authority; conversion_angle=heartbreak present in nugget but class locked to Authority per Donald field) Conversion angle: heartbreak Privacy check: PASS Unsupported claims: PASS Missing Donald fields: none Conflict notes: enemy_frame_type=spiritual used in P01 (bible_is_not_a_rulebook). P02 also uses spiritual framing (Satan/enemy) per Donald field. Two spiritual-framed posts in batch of two = 2/2 ratio, exceeds 1-in-3 rotation guideline. However, both nuggets explicitly carry enemy_frame_type=spiritual from Donald export; Jimmy rotation constraint yields to Donald field when proof supports it. Conflict noted. final=true

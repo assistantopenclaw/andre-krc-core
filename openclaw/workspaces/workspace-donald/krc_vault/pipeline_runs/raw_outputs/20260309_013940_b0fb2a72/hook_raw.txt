@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "The grip of avoidance does not loosen the longer you wait, it tightens until obedience feels impossible.",
+  "overlay_hook_2": "Delay in disguise looks like discernment until the vision it was protecting quietly stops breathing.",
+  "overlay_hook_3": "You do not need more maturity to take the next step, you need the surrender you have been negotiating around.",
+  "overlay_cta": "read caption"
+}
+```

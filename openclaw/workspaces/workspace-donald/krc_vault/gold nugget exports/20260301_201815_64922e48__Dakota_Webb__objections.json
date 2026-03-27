@@ -1,0 +1,17 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260301_201815_64922e48",
+  "source_id": "FATHOM: Dakota Webb",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "obj_unworthy_past",
+      "objection_text": "I've lived my life as a piece of crap, why would God love me?",
+      "underlying_belief": "God's love is merit-based rather than nature-based.",
+      "underlying_fear": "Being a fraud or a 'bad person' forever regardless of change.",
+      "counter_truth_angle": "Grace is the gift for the undeserving. God loves you because He IS love, not because you are good.",
+      "transcript_proof_quote_redacted": "Even though that I've... Live my life as a piece of crap. I'm still worthy of his love... No, you're not. Not worthy. He doesn't love you because of who you are. He loves you because of who he is.",
+      "proof_location": "ts: 01:59:06"
+    }
+  ]
+}

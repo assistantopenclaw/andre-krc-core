@@ -1,0 +1,10 @@
+{
+  "id": "20260304-122319-split-jimmy-into-content-roles",
+  "title": "Split Jimmy into content roles",
+  "description": "Create dedicated agents: Hook Builder, Lessons Creator, CTAs Creator, Content Editor; implement a bi-directional refinement loop where the editor sends back notes to the appropriate specialist.",
+  "status": "open",
+  "created_at": "2026-03-04T12:23:19-06:00",
+  "updated_at": "2026-03-04T12:23:19-06:00",
+  "full_idea": "Remember I need to make my content creation team have more agents that have more specific purposes. For example Donald has a specific purpose, but Jimmy has multiple purposes. Jimmy needs to be split up so that we have one agent to create hooks, one agent to create lessons, one agent to create CTA’s, and one agent to do a content check/editor that understands what needs to be checked off for a content to be effective. That agent should be able to send the piece of content back to the agent who is an expert in that field that needs changes. For example if the editor decides that the hook is not connected strongly enough CTA/value of the video, it should send it back to the hook builder agent and tell him what needs to be refined.",
+  "source_text": "Remember I need to make my content creation team have more agents that have more specific purposes. For example Donald has a specific purpose, but Jimmy has multiple purposes. Jimmy needs to be split up so that we have one agent to create hooks, one agent to create lessons, one agent to create CTA’s, and one agent to do a content check/editor that understands what needs to be checked off for a content to be effective. That agent should be able to send the piece of content back to the agent who is an expert in that field that needs changes. For example if the editor decides that the hook is not connected strongly enough CTA/value of the video, it should send it back to the hook builder agent and tell him what needs to be refined."
+}

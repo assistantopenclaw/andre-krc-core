@@ -1,0 +1,120 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260302_004114_a903f9f6",
+  "source_id": "FATHOM_URL_PROVIDED",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "nug_001",
+      "category": "truth_flip",
+      "idea_one_liner": "The Trap of 'Death Through Comfort'",
+      "why_it_hits": "Exposes how 'easy' and 'convenient' relationships can be a form of spiritual stagnation that prevents movement toward Christ.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Men seeking spiritual leadership",
+      "caption_fit": "normal",
+      "value_score_overall": 9,
+      "value_equation": {
+        "dream_outcome": "Spiritual growth and alignment with God's mission",
+        "perceived_likelihood": "High, due to the contrast between comfort and call",
+        "time_delay": "immediate",
+        "effort_sacrifice": "high",
+        "numerator_notes": ["Exposes the false foundation of convenience"],
+        "denominator_notes": ["Requires giving up an emotional crutch"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 1,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "It was just convenient. It was easy... And that's the part that I struggle to let go of. Is like how easy it is... I sometimes confuse that with like, oh, is this supposed to be my future wife?",
+      "proof_location": "ts: 00:10:39",
+      "proof_anchor_lines": ["Confusing convenience with a spiritual calling", "The struggle to let go of what is easy vs what is right"],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": false,
+        "story": true,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "The convenient path is the road to spiritual death.",
+      "hook_angle_2_identity": "Are you a man of comfort or a man of God's mission?",
+      "hook_angle_3_mechanism": "Why we confuse 'easy' with 'meant to be'.",
+      "enemy_frame_type": "emotional",
+      "enemy_frame_label": "The Emotional Crutch",
+      "enemy_frame_proof_redacted": "anytime my life gets difficult, I kind of lean on her for an emotional crutch",
+      "first_step_seed": "Audit your relationships: are they easy because they are right, or because you are hiding?",
+      "cta_runway_fit": "medium",
+      "sensitivity_flag": "none",
+      "redaction_notes": "Identifier tokens used.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 8,
+        "hold_power": 8,
+        "payoff_power": 9,
+        "overall": 8.5
+      },
+      "must_not_claim": ["Instant relief from emotional pain after ending the relationship"]
+    },
+    {
+      "nugget_id": "nug_002",
+      "category": "revelation",
+      "idea_one_liner": "Crying is the Sweat of the Soul",
+      "why_it_hits": "Reclaims emotional vulnerability for men as a spiritual 'workout' that leads to grounded peace.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Men struggling with emotional repression",
+      "caption_fit": "tight",
+      "value_score_overall": 8,
+      "value_equation": {
+        "dream_outcome": "Emotional freedom and presence",
+        "perceived_likelihood": "High",
+        "time_delay": "immediate",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Beautiful metaphor", "Relatable to physical exercise"],
+        "denominator_notes": ["Stigma around men crying"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 3,
+          "mechanism_B": 1,
+          "speed_C": 2,
+          "effort_clarity_D": 2
+        }
+      },
+      "proof_quote_redacted": "crying is the sweat of the soul. You know, like literally your soul is just working and you're sweating the same way you go to a [EXERCISE] class... afterwards, you feel so good.",
+      "proof_location": "ts: 00:57:26",
+      "proof_anchor_lines": ["Emotional release as spiritual labor", "The grounded peace found after the 'sweat'"],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "Holding in your tears is like skipping your soul's workout.",
+      "hook_angle_2_identity": "The strong man knows how to let his soul sweat.",
+      "hook_angle_3_mechanism": "The 'post-workout' high of spiritual honesty.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "Fear of the 'Empty Space'",
+      "enemy_frame_proof_redacted": "I don't know why I fear that so much when it's really not that bad and it's not that intense.",
+      "first_step_seed": "Allow yourself to feel the weight you are carrying; let the soul sweat.",
+      "cta_runway_fit": "weak",
+      "sensitivity_flag": "none",
+      "redaction_notes": "Redacted exercise brand.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 9,
+        "hold_power": 7,
+        "payoff_power": 8,
+        "overall": 8
+      },
+      "must_not_claim": ["Crying solves all clinical depression"]
+    }
+  ]
+}

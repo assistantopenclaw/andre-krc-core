@@ -1,0 +1,26 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260302_002538_0d3a95ef",
+  "source_id": "FATHOM:20260302_002538_0d3a95ef",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "OBJ_001",
+      "objection_text": "I can't be with her because she's past her prime and already has a child with another man.",
+      "underlying_belief": "My legacy depends on biological 'firsts' and purity of the family line rather than God's plan.",
+      "underlying_fear": "I am being cheated out of the 'ideal' romance fantasy; my ego won't survive 'seconds'.",
+      "counter_truth_angle": "God uses messy, non-linear families throughout scripture to establish His kingdom; holiness isn't a straight line.",
+      "transcript_proof_quote_redacted": "It'd be annoying to not get to fulfill my fantasy of having a firstborn... my woman's been with another man and given him another kid, and I'm just kind of like getting the seconds",
+      "proof_location": "ts: 02:17:14"
+    },
+    {
+      "objection_id": "OBJ_002",
+      "objection_text": "I'm afraid a relationship will ruin my morning routine and my spiritual focus.",
+      "underlying_belief": "God is only accessible in silence and isolation; a woman is an 'interruption' to holiness.",
+      "underlying_fear": "Loss of control; I can't maintain my discipline if someone else triggers my lust or chaos.",
+      "counter_truth_angle": "A wife isn't an interruption to the mission; she IS the mission or the primary helper to it. True discipline holds in the presence of others.",
+      "transcript_proof_quote_redacted": "When I'm by myself, I love kind of like having my morning routine... The second she comes into my world, that obviously gets interrupted. And I almost resent her for that.",
+      "proof_location": "ts: 02:40:14"
+    }
+  ]
+}

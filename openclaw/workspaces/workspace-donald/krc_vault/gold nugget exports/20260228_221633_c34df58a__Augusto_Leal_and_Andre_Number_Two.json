@@ -1,0 +1,90 @@
+{
+  "call_digest": {
+    "call_type": "Coaching / Testimony / Spiritual Deep-Dive - Number Two",
+    "main_themes": [
+      "The 'Garden of Eden' Reframe: We are always in the garden, we just keep eating the apple.",
+      "God's 'Historical Gusto': Seeing God's hand in history and geography.",
+      "The Strength of Weakness: Letting God carry the cross when you are physically broken.",
+      "Professional Skill Redemption: How 'evil' skills are redeemed for the Kingdom."
+    ],
+    "emotional_peaks": [
+      "Augusto's raw peace during a near-death surfing experience.",
+      "The 'Divine Coincidence' of the gardener-turned-Orthodox priest full-circle moment.",
+      "Andre's story of deleting everything to serve God."
+    ],
+    "top_objections": [
+      "Objection: 'I feel weird/anxious about praying for/approaching others.' (Growth Anxiety)",
+      "Objection: 'I'm a massive sinner, why would God want me?' (The Heartbreak Punch)"
+    ],
+    "top_truth_flips": [
+      "We aren't waiting for God; we're in the Garden right now, just distracted by 'apple-picking.'",
+      "Anxiety isn't always bad; 'Growth Anxiety' is a test of courage."
+    ]
+  },
+  "nuggets": [
+    {
+      "nugget_id": "garden_of_eden_today_006_v2",
+      "category": "truth_flip",
+      "idea_one_liner": "You aren't trying to find the Garden of Eden; you're living in it, you just won't stop eating the apple.",
+      "why_it_hits": "Massive paradigm shift. Peace is a current choice, not a future destination.",
+      "proof_quote": "I would almost argue that we do have, we are in the Garden of Eden, constantly eating the apple. Because I can tap into God at any time. ... We choose to be stressed, rushed, anxious, tired. That is us eating our apples.",
+      "proof_location": "01:52:34",
+      "micro_tags": { "hookable": true, "tension": true, "flip": true, "mechanism": false, "story": false, "pattern_interrupt": true, "payoff": true },
+      "value_equation": {
+        "dream_outcome": "Immediate access to heavenly peace.",
+        "perceived_likelihood": "High.",
+        "time_delay": "Instant.",
+        "effort_sacrifice": "Low (just stop 'picking the apple').",
+        "value_score_overall": 9.8
+      },
+      "hook_angles": [
+        "Welcome to the Garden of Eden. Why are you still eating the apple?",
+        "Heaven on earth isn't a place. It's a choice you're currently refusing."
+      ],
+      "audience_fit": "General Christians",
+      "format_fit": "reel",
+      "score": { "stop_power": 10, "hold_power": 9, "payoff_power": 10, "overall": 9.7 }
+    },
+    {
+      "nugget_id": "growth_vs_demonic_anxiety_007_v2",
+      "category": "framework",
+      "idea_one_liner": "If your anxiety is about your own growth, it's a test; if it's based on fear, it's demonic.",
+      "why_it_hits": "Simple discernment filter for internal states.",
+      "proof_quote": "If there's a tinge of anxiety that's not an anxiety based on growth, but an anxiety based on fear, it's demonic, pure and simple.",
+      "proof_location": "01:54:15",
+      "micro_tags": { "hookable": true, "tension": true, "flip": true, "mechanism": true, "story": true, "pattern_interrupt": true, "payoff": true },
+      "value_equation": {
+        "dream_outcome": "Clarity on which thoughts to follow.",
+        "perceived_likelihood": "High.",
+        "time_delay": "Immediate.",
+        "effort_sacrifice": "Medium.",
+        "value_score_overall": 9.3
+      },
+      "hook_angles": [
+        "Is your anxiety from God or the Devil?",
+        "Why 'Scared' is sometimes the best way to feel."
+      ],
+      "audience_fit": "General",
+      "format_fit": "reel",
+      "score": { "stop_power": 9, "hold_power": 9, "payoff_power": 9, "overall": 9.1 }
+    }
+  ],
+  "objection_bank": [
+    {
+      "objection_text": "I'm afraid of what God will ask me to give up.",
+      "underlying_belief": "God's plan is less satisfying than my own.",
+      "underlying_fear": "If I give up control, I will be miserable.",
+      "counter_truth_angle": "Peace comes from surrender. As soon as you release the need, God often opens the door to abundance.",
+      "transcript_proof_quote": "I released the need. And as a result of it, they continue to come."
+    }
+  ],
+  "handoff_packet": {
+    "top_5_nuggets": [
+      { "id": "garden_of_eden", "one_liner": "Stop eating the apple and enjoy the Garden.", "why": "Top-tier stop power." }
+    ],
+    "creator_notes": {
+      "preserve_phrases": ["Garden of Eden apple-picking", "Historical gusto", "Evil skills redeemed"],
+      "tone": "Vlog/Adventure spirit mixed with deep theology. (Reprocessed Run Number Two)."
+    }
+  }
+}

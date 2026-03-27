@@ -1,0 +1,36 @@
+{
+  "ok": true,
+  "tests": [
+    {
+      "name": "URL intake one line",
+      "pass": true,
+      "run_id": "20260308_171522_61022128"
+    },
+    {
+      "name": "Idempotency same URL",
+      "pass": true,
+      "run_id": "20260308_171522_61022128"
+    },
+    {
+      "name": "Atomic write no partial reads",
+      "pass": true,
+      "run_id": "20260308_171522_401462f8"
+    },
+    {
+      "name": "Pairing rule blocks finalize when hook missing",
+      "pass": true,
+      "run_id": "20260308_171523_55b93cc6"
+    },
+    {
+      "name": "Failure one-line response",
+      "pass": true,
+      "run_id": "20260308_171523_02d7766f"
+    },
+    {
+      "name": "Punctuation ban final output",
+      "pass": true,
+      "run_id": "20260308_171522_61022128"
+    }
+  ],
+  "ts": "2026-03-08T22:15:24.349418+00:00"
+}

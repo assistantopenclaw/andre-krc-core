@@ -1,0 +1,120 @@
+{
+  "schema_version": "prospector_v1.3",
+  "run_id": "20260307_063002_b10df11c",
+  "source_id": "FATHOM:Hyf6QJAGXFimPtqpszx5DM2G3-nXgxuQ",
+  "final": true,
+  "nuggets": [
+    {
+      "nugget_id": "NUG_001",
+      "category": "truth_flip",
+      "idea_one_liner": "Laughter is often a cover-up for the fear of facing the truth.",
+      "why_it_hits": "Exposes the mechanism of emotional avoidance and how it prevents growth by keeping the 'monster' of pain unaddressed.",
+      "post_class_recommendation": "Authority",
+      "conversion_angle": "none",
+      "audience_fit": "Those stuck in loops of emotional avoidance.",
+      "caption_fit": "normal",
+      "value_score_overall": 8,
+      "value_equation": {
+        "dream_outcome": "Movement toward intimacy with Christ by facing truth.",
+        "perceived_likelihood": "Clear mechanism of identifying laughter as a defense.",
+        "time_delay": "immediate",
+        "effort_sacrifice": "medium",
+        "numerator_notes": ["Exposes false foundation (avoidance)", "Redirects to truth"],
+        "denominator_notes": ["Requires emotional honesty"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 3,
+          "mechanism_B": 2,
+          "speed_C": 2,
+          "effort_clarity_D": 1
+        }
+      },
+      "proof_quote_redacted": "I use laughter a lot to overcome pain. Always have. So a lot of times it's not appropriate. ... You've been unable to actually look at that pain. And so you've covered it up with laughter to try to just not see it.",
+      "proof_location": "ts: 00:18:00",
+      "proof_anchor_lines": ["Using humor as a shield to avoid looking at deep hurt.", "Running from the truth prevents it from transforming you."],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "The monster you're hiding with a smile is only getting bigger.",
+      "hook_angle_2_identity": "Are you the person who jokes to avoid Jesus?",
+      "hook_angle_3_mechanism": "Why your sense of humor is actually your biggest spiritual block.",
+      "enemy_frame_type": "cognitive",
+      "enemy_frame_label": "laughter_as_defense",
+      "enemy_frame_proof_redacted": "laughter a lot to overcome pain",
+      "first_step_seed": "Identify the next time you laugh to deflect a serious spiritual discomfort.",
+      "cta_runway_fit": "medium",
+      "sensitivity_flag": "none",
+      "redaction_notes": "None needed for this general principle.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 8,
+        "hold_power": 7,
+        "payoff_power": 8,
+        "overall": 7.7
+      },
+      "must_not_claim": []
+    },
+    {
+      "nugget_id": "NUG_002",
+      "category": "pain_point",
+      "idea_one_liner": "Running out of 'oxygen' because you put the needs of others above your own connection to God.",
+      "why_it_hits": "Uses the airline mask analogy to show that neglecting self-care/God-connection isn't selfless; it's a path to being unable to help anyone.",
+      "post_class_recommendation": "Conversion",
+      "conversion_angle": "heartbreak",
+      "audience_fit": "Caregivers and tired parents/grandparents.",
+      "caption_fit": "long",
+      "value_score_overall": 9,
+      "value_equation": {
+        "dream_outcome": "Sustainable ministry/care via God-connection.",
+        "perceived_likelihood": "Concrete analogy (airplane mask).",
+        "time_delay": "immediate",
+        "effort_sacrifice": "low",
+        "numerator_notes": ["Exposes misplaced allegiance (people pleasing)", "Direct Christ redirection"],
+        "denominator_notes": ["Requires boundary setting"],
+        "rubric_breakdown": {
+          "foundation_shift_A": 4,
+          "mechanism_B": 2,
+          "speed_C": 2,
+          "effort_clarity_D": 1
+        }
+      },
+      "proof_quote_redacted": "Take care of yourself first. ... If you're dead, you can't help anybody. ... You've been unable to put your needs first, just so that you can stay alive, so that you can deal with the stresses.",
+      "proof_location": "ts: 00:49:00",
+      "proof_anchor_lines": ["Ignoring your own spiritual health means you have nothing left for your family.", "Putting God first is the only way to survive the chaos of raising kids."],
+      "micro_tags": {
+        "hookable": true,
+        "tension": true,
+        "flip": true,
+        "mechanism": true,
+        "story": false,
+        "pattern_interrupt": true,
+        "payoff": true
+      },
+      "hook_angle_1_stakes": "Your 'selflessness' is actually killing your ability to lead your family.",
+      "hook_angle_2_identity": "For the grandmother who is doing everything but praying.",
+      "hook_angle_3_mechanism": "The 'Oxygen Mask' principle for spiritual survival.",
+      "enemy_frame_type": "emotional",
+      "enemy_frame_label": "self_neglect_as_service",
+      "enemy_frame_proof_redacted": "put them first... above yourself",
+      "first_step_seed": "Set a boundary today that protects your first 15 minutes of God-time.",
+      "cta_runway_fit": "strong",
+      "sensitivity_flag": "none",
+      "redaction_notes": "De-identified family dynamics.",
+      "eligible_for_content": true,
+      "eligibility_reason": "pass",
+      "score": {
+        "stop_power": 9,
+        "hold_power": 8,
+        "payoff_power": 9,
+        "overall": 8.7
+      },
+      "must_not_claim": ["Guaranteed resolution of family conflict"]
+    }
+  ]
+}

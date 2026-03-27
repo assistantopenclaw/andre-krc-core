@@ -1,0 +1,4 @@
+START run_id=20260301_201952_757f20c7 url=https://fathom.video/share/91CY4riqemPZ3sD8j3mV_BjzeFFsCp6C
+FETCH source=fathom_api status=ok
+WROTE raw_transcript_file=/home/openclaw_agent_1/krc_vault/raw call transcripts/20260301_201952_757f20c7__Chris_Sharman_and_Andre_Panet-Raymond.txt
+WROTE nugget_export_file=/home/openclaw_agent_1/krc_vault/gold nugget exports/20260301_201952_757f20c7__gold_nugget_export.md

@@ -1,0 +1,2 @@
+time=2026-03-01T12:35:52.777-06:00 level=DEBUG msg="creating client options with custom scopes" serviceLabel=drive email=assistant@kingdomrelationshipcoaching.com
+time=2026-03-01T12:35:52.782-06:00 level=DEBUG msg="client options with custom scopes created successfully" serviceLabel=drive email=assistant@kingdomrelationshipcoaching.com

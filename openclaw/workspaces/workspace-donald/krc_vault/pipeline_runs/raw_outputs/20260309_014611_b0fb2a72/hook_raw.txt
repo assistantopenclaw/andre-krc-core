@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "You cannot crave authority and normalize the pattern that dissolves it without eventually choosing one.",
+  "overlay_hook_2": "Vision atrophy is not a sudden collapse, it is the slow result of every cycle you chose delay over surrender.",
+  "overlay_hook_3": "The question of whether it is strategy or fear is already answered by how many cycles you have completed.",
+  "overlay_cta": "read caption"
+}
+```

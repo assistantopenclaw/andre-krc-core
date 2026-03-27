@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "profiles": {
+    "openrouter:default": {
+      "type": "api_key",
+      "provider": "openrouter",
+      "key": "{{AGENTS_DONALD_AUTH_PROFILES_PROFILES_OPENROUTER_DEFAULT_KEY}}"
+    },
+    "openrouter:manual": {
+      "type": "token",
+      "provider": "openrouter",
+      "token": "{{OPENROUTER_TOKEN}}"
+    }
+  },
+  "lastGood": {
+    "openrouter": "openrouter:default"
+  },
+  "usageStats": {
+    "openrouter:default": {
+      "lastUsed": 1772889326433,
+      "errorCount": 0
+    },
+    "openrouter:manual": {
+      "lastUsed": 1773012507521,
+      "errorCount": 0
+    }
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "follower_count": {
+    "data": [
+      {
+        "description": "Total number of unique accounts following this profile",
+        "id": "17841405437184927/insights/follower_count/day",
+        "name": "follower_count",
+        "period": "day",
+        "title": "Follower Count",
+        "values": [
+          {
+            "end_time": "2026-02-21T08:00:00+0000",
+            "value": 17
+          },
+          {
+            "end_time": "2026-02-22T08:00:00+0000",
+            "value": 21
+          },
+          {
+            "end_time": "2026-02-23T08:00:00+0000",
+            "value": 13
+          },
+          {
+            "end_time": "2026-02-24T08:00:00+0000",
+            "value": 30
+          },
+          {
+            "end_time": "2026-02-25T08:00:00+0000",
+            "value": 21
+          },
+          {
+            "end_time": "2026-02-26T08:00:00+0000",
+            "value": 14
+          },
+          {
+            "end_time": "2026-02-27T08:00:00+0000",
+            "value": 22
+          },
+          {
+            "end_time": "2026-02-28T08:00:00+0000",
+            "value": 28
+          },
+          {
+            "end_time": "2026-03-01T08:00:00+0000",
+            "value": 25
+          },
+          {
+            "end_time": "2026-03-02T08:00:00+0000",
+            "value": 21
+          },
+          {
+            "end_time": "2026-03-03T08:00:00+0000",
+            "value": 26
+          },
+          {
+            "end_time": "2026-03-04T08:00:00+0000",
+            "value": 15
+          },
+          {
+            "end_time": "2026-03-05T08:00:00+0000",
+            "value": 12
+          },
+          {
+            "end_time": "2026-03-06T08:00:00+0000",
+            "value": 17
+          },
+          {
+            "end_time": "2026-03-07T08:00:00+0000",
+            "value": 13
+          },
+          {
+            "end_time": "2026-03-08T08:00:00+0000",
+            "value": 15
+          },
+          {
+            "end_time": "2026-03-09T07:00:00+0000",
+            "value": 19
+          },
+          {
+            "end_time": "2026-03-10T07:00:00+0000",
+            "value": 17
+          },
+          {
+            "end_time": "2026-03-11T07:00:00+0000",
+            "value": 22
+          },
+          {
+            "end_time": "2026-03-12T07:00:00+0000",
+            "value": 17
+          },
+          {
+            "end_time": "2026-03-13T07:00:00+0000",
+            "value": 12
+          },
+          {
+            "end_time": "2026-03-14T07:00:00+0000",
+            "value": 19
+          },
+          {
+            "end_time": "2026-03-15T07:00:00+0000",
+            "value": 23
+          },
+          {
+            "end_time": "2026-03-16T07:00:00+0000",
+            "value": 55
+          },
+          {
+            "end_time": "2026-03-17T07:00:00+0000",
+            "value": 0
+          },
+          {
+            "end_time": "2026-03-18T07:00:00+0000",
+            "value": 0
+          },
+          {
+            "end_time": "2026-03-19T07:00:00+0000",
+            "value": 0
+          },
+          {
+            "end_time": "2026-03-20T07:00:00+0000",
+            "value": 0
+          },
+          {
+            "end_time": "2026-03-21T07:00:00+0000",
+            "value": 0
+          },
+          {
+            "end_time": "2026-03-22T07:00:00+0000",
+            "value": 0
+          }
+        ]
+      }
+    ],
+    "paging": {
+      "next": "https://graph.facebook.com/v25.0/17841405437184927/insights?access_token=EAAM8BxU4WFQBRKcSXZA8sEhwZCoxQjfhDkWePGLmkOcCvtR6oZCvPuq7Qfk9MX4gXZCcMbcHFGLNX58UeTFgcgjZB2DmCmUnHJtX0D82ZCnDP3StBe5ZCTJoVUac3fblGhfGwfz7zlcMUrbceMYh8gWaJyTq6lUHCoQNdZChYODP6QUZBAX7SRzkyECebEry9Tl34apnw&since=1774195201&until=1776736801&metric=follower_count&period=day",
+      "previous": "https://graph.facebook.com/v25.0/17841405437184927/insights?access_token=EAAM8BxU4WFQBRKcSXZA8sEhwZCoxQjfhDkWePGLmkOcCvtR6oZCvPuq7Qfk9MX4gXZCcMbcHFGLNX58UeTFgcgjZB2DmCmUnHJtX0D82ZCnDP3StBe5ZCTJoVUac3fblGhfGwfz7zlcMUrbceMYh8gWaJyTq6lUHCoQNdZChYODP6QUZBAX7SRzkyECebEry9Tl34apnw&since=1769111999&until=1771653599&metric=follower_count&period=day"
+    }
+  },
+  "profile_views": {
+    "data": [
+      {
+        "description": "The number of times your profile was visited.",
+        "id": "17841405437184927/insights/profile_views/day",
+        "name": "profile_views",
+        "period": "day",
+        "title": "Profile visits",
+        "total_value": {
+          "value": 1978
+        }
+      }
+    ],
+    "paging": {
+      "next": "https://graph.facebook.com/v25.0/17841405437184927/insights?access_token=EAAM8BxU4WFQBRKcSXZA8sEhwZCoxQjfhDkWePGLmkOcCvtR6oZCvPuq7Qfk9MX4gXZCcMbcHFGLNX58UeTFgcgjZB2DmCmUnHJtX0D82ZCnDP3StBe5ZCTJoVUac3fblGhfGwfz7zlcMUrbceMYh8gWaJyTq6lUHCoQNdZChYODP6QUZBAX7SRzkyECebEry9Tl34apnw&since=1774195201&until=1776736801&metric=profile_views&metric_type=total_value&period=day",
+      "previous": "https://graph.facebook.com/v25.0/17841405437184927/insights?access_token=EAAM8BxU4WFQBRKcSXZA8sEhwZCoxQjfhDkWePGLmkOcCvtR6oZCvPuq7Qfk9MX4gXZCcMbcHFGLNX58UeTFgcgjZB2DmCmUnHJtX0D82ZCnDP3StBe5ZCTJoVUac3fblGhfGwfz7zlcMUrbceMYh8gWaJyTq6lUHCoQNdZChYODP6QUZBAX7SRzkyECebEry9Tl34apnw&since=1769111999&until=1771653599&metric=profile_views&metric_type=total_value&period=day"
+    }
+  },
+  "reach": {
+    "data": [
+      {
+        "description": "Total number of times the Business Account's media objects have been uniquely viewed",
+        "id": "17841405437184927/insights/reach/day",
+        "name": "reach",
+        "period": "day",
+        "title": "Reach",
+        "values": [
+          {
+            "end_time": "2026-02-21T08:00:00+0000",
+            "value": 5371
+          },
+          {
+            "end_time": "2026-02-22T08:00:00+0000",
+            "value": 6629
+          },
+          {
+            "end_time": "2026-02-23T08:00:00+0000",
+            "value": 7814
+          },
+          {
+            "end_time": "2026-02-24T08:00:00+0000",
+            "value": 17377
+          },
+          {
+            "end_time": "2026-02-25T08:00:00+0000",
+            "value": 11277
+          },
+          {
+            "end_time": "2026-02-26T08:00:00+0000",
+            "value": 5947
+          },
+          {
+            "end_time": "2026-02-27T08:00:00+0000",
+            "value": 11004
+          },
+          {
+            "end_time": "2026-02-28T08:00:00+0000",
+            "value": 13737
+          },
+          {
+            "end_time": "2026-03-01T08:00:00+0000",
+            "value": 15312
+          },
+          {
+            "end_time": "2026-03-02T08:00:00+0000",
+            "value": 19176
+          },
+          {
+            "end_time": "2026-03-03T08:00:00+0000",
+            "value": 13981
+          },
+          {
+            "end_time": "2026-03-04T08:00:00+0000",
+            "value": 14396
+          },
+          {
+            "end_time": "2026-03-05T08:00:00+0000",
+            "value": 2700
+          },
+          {
+            "end_time": "2026-03-06T08:00:00+0000",
+            "value": 2022
+          },
+          {
+            "end_time": "2026-03-07T08:00:00+0000",
+            "value": 2980
+          },
+          {
+            "end_time": "2026-03-08T08:00:00+0000",
+            "value": 2772
+          },
+          {
+            "end_time": "2026-03-09T07:00:00+0000",
+            "value": 7110
+          },
+          {
+            "end_time": "2026-03-10T07:00:00+0000",
+            "value": 18304
+          },
+          {
+            "end_time": "2026-03-11T07:00:00+0000",
+            "value": 13781
+          },
+          {
+            "end_time": "2026-03-12T07:00:00+0000",
+            "value": 8247
+          },
+          {
+            "end_time": "2026-03-13T07:00:00+0000",
+            "value": 3764
+          },
+          {
+            "end_time": "2026-03-14T07:00:00+0000",
+            "value": 2338
+          },
+          {
+            "end_time": "2026-03-15T07:00:00+0000",
+            "value": 26433
+          },
+          {
+            "end_time": "2026-03-16T07:00:00+0000",
+            "value": 56472
+          },
+          {
+            "end_time": "2026-03-17T07:00:00+0000",
+            "value": 89954
+          },
+          {
+            "end_time": "2026-03-18T07:00:00+0000",
+            "value": 58375
+          },
+          {
+            "end_time": "2026-03-19T07:00:00+0000",
+            "value": 18365
+          },
+          {
+            "end_time": "2026-03-20T07:00:00+0000",
+            "value": 13653
+          },
+          {
+            "end_time": "2026-03-21T07:00:00+0000",
+            "value": 75130
+          },
+          {
+            "end_time": "2026-03-22T07:00:00+0000",
+            "value": 24256
+          }
+        ]
+      }
+    ],
+    "paging": {
+      "next": "https://graph.facebook.com/v25.0/17841405437184927/insights?access_token=EAAM8BxU4WFQBRKcSXZA8sEhwZCoxQjfhDkWePGLmkOcCvtR6oZCvPuq7Qfk9MX4gXZCcMbcHFGLNX58UeTFgcgjZB2DmCmUnHJtX0D82ZCnDP3StBe5ZCTJoVUac3fblGhfGwfz7zlcMUrbceMYh8gWaJyTq6lUHCoQNdZChYODP6QUZBAX7SRzkyECebEry9Tl34apnw&since=1774195201&until=1776736801&metric=reach&period=day",
+      "previous": "https://graph.facebook.com/v25.0/17841405437184927/insights?access_token=EAAM8BxU4WFQBRKcSXZA8sEhwZCoxQjfhDkWePGLmkOcCvtR6oZCvPuq7Qfk9MX4gXZCcMbcHFGLNX58UeTFgcgjZB2DmCmUnHJtX0D82ZCnDP3StBe5ZCTJoVUac3fblGhfGwfz7zlcMUrbceMYh8gWaJyTq6lUHCoQNdZChYODP6QUZBAX7SRzkyECebEry9Tl34apnw&since=1769111999&until=1771653599&metric=reach&period=day"
+    }
+  }
+}

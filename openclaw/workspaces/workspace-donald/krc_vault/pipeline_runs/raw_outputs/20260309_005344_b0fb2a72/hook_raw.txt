@@ -1,0 +1,8 @@
+```json
+{
+  "overlay_hook_1": "The delay loop does not feel like fear because each cycle teaches you to call it something wiser.",
+  "overlay_hook_2": "Every excuse baptized as prudence is just resistance that found a more convincing outfit to wear.",
+  "overlay_hook_3": "Stagnation ends the moment surrender replaces negotiation as your first response to what you already know.",
+  "overlay_cta": "read caption"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "run_id": "RUN_20260301_195942_HLF5ax4m",
+  "source_url": "https://fathom.video/share/HLF5ax4mNjMzgUd8sMjKH9x8yoyxZmmY",
+  "status": "success",
+  "title": "Stefania Schenetti and Andre Panet-Raymond - V4",
+  "raw_transcript_file": "krc_vault/raw call transcripts/${RUN_ID}__${TITLE}.txt",
+  "nugget_export_file": "krc_vault/gold nugget exports/${RUN_ID}__Stefania_Schenetti_V4.json"
+}

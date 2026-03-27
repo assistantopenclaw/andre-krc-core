@@ -1,0 +1,109 @@
+{
+  "run_id": "20260309_004129_b0fb2a72",
+  "source_id": "fathom_b0fb2a72fa14926e",
+  "source_kind": "fathom_share_url",
+  "reprocess": true,
+  "created_at": "2026-03-09T05:41:29.540802+00:00",
+  "updated_at": "2026-03-09T05:41:29.540810+00:00",
+  "current_stage": "jimmy",
+  "stage_status": {
+    "donald": {
+      "status": "done",
+      "canonical_input_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_inputs/donald_url_intake.json",
+      "canonical_output_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_outputs/donald_canonical.json",
+      "started_at": "2026-03-09T05:41:29.553619+00:00",
+      "completed_at": "2026-03-09T05:41:30.261937+00:00",
+      "handoff_message": "RUN_ID=20260309_004129_b0fb2a72 STAGE=DONALD_DONE"
+    },
+    "mark": {
+      "status": "done",
+      "canonical_input_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_outputs/donald_canonical.json",
+      "canonical_output_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_outputs/mark_body.md",
+      "started_at": "2026-03-09T05:41:30.274410+00:00",
+      "completed_at": "2026-03-09T05:41:41.429352+00:00",
+      "handoff_message": "RUN_ID=20260309_004129_b0fb2a72 STAGE=MARK_DONE"
+    },
+    "bob": {
+      "status": "done",
+      "canonical_input_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_outputs/mark_body.md",
+      "canonical_output_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_outputs/bob_caption.md",
+      "started_at": "2026-03-09T05:45:18.910051+00:00",
+      "completed_at": "2026-03-09T05:49:21.372442+00:00",
+      "handoff_message": "RUN_ID=20260309_004129_b0fb2a72 STAGE=BOB_DONE"
+    },
+    "hook": {
+      "status": "done",
+      "canonical_input_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_outputs/bob_caption.md",
+      "canonical_output_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_outputs/hook_overlays.json",
+      "started_at": "2026-03-09T05:49:21.385512+00:00",
+      "completed_at": "2026-03-09T05:49:37.121197+00:00",
+      "handoff_message": "RUN_ID=20260309_004129_b0fb2a72 STAGE=HOOK_DONE"
+    },
+    "jimmy": {
+      "status": "done",
+      "canonical_input_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_outputs/hook_overlays.json",
+      "canonical_output_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/final/final_post_ready.md",
+      "started_at": "2026-03-09T05:49:37.133505+00:00",
+      "completed_at": "2026-03-09T05:49:41.375836+00:00",
+      "handoff_message": "RUN_ID=20260309_004129_b0fb2a72 STAGE=FINAL_READY"
+    }
+  },
+  "flags": [
+    {
+      "flag_code": "DONALD_ZERO_NUGGET_FALLBACK",
+      "stage": "donald",
+      "severity": "warn",
+      "short_note": "No nuggets returned, generated deterministic fallback nugget",
+      "ts": "2026-03-09T05:41:30.257279+00:00"
+    },
+    {
+      "flag_code": "BOB_APPEND_ONLY_FALLBACK",
+      "stage": "bob",
+      "severity": "warn",
+      "short_note": "Bob output modified body, using deterministic append fallback",
+      "ts": "2026-03-09T05:49:21.367943+00:00"
+    }
+  ],
+  "errors": {},
+  "meta": {
+    "chat_policy": "one_line_only",
+    "pipeline_mode": "single_direction_no_revision_loop"
+  },
+  "metrics": {
+    "events": [
+      {
+        "ts": "2026-03-09T05:41:41.429338+00:00",
+        "run_id": "20260309_004129_b0fb2a72",
+        "stage": "mark",
+        "model": "openrouter/moonshotai/kimi-k2-thinking",
+        "failure_code": null,
+        "raw_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/raw_outputs/20260309_004129_b0fb2a72/mark_raw.txt",
+        "canonical_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_outputs/mark_body.md"
+      },
+      {
+        "ts": "2026-03-09T05:49:21.372410+00:00",
+        "run_id": "20260309_004129_b0fb2a72",
+        "stage": "bob",
+        "model": "openrouter/deepseek/deepseek-chat-v3.1",
+        "failure_code": null,
+        "raw_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/raw_outputs/20260309_004129_b0fb2a72/bob_raw.txt",
+        "canonical_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_outputs/bob_caption.md"
+      },
+      {
+        "ts": "2026-03-09T05:49:37.121183+00:00",
+        "run_id": "20260309_004129_b0fb2a72",
+        "stage": "hook",
+        "model": "openrouter/anthropic/claude-sonnet-4.6",
+        "failure_code": null,
+        "raw_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/raw_outputs/20260309_004129_b0fb2a72/hook_raw.txt",
+        "canonical_path": "/home/openclaw_agent_1/krc_vault/pipeline_runs/runs/20260309_004129_b0fb2a72/stage_outputs/hook_overlays.json"
+      }
+    ]
+  },
+  "final_delivery": {
+    "drive_folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "drive_file_id": "17MECWJFNjUDR8HehCgNxWagCVPwdX3-h6xHA3NHfjVc",
+    "drive_link": "https://docs.google.com/document/d/17MECWJFNjUDR8HehCgNxWagCVPwdX3-h6xHA3NHfjVc/edit?usp=drivesdk",
+    "uploaded_at": "2026-03-09T05:49:41.375820+00:00"
+  }
+}

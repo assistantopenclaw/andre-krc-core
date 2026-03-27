@@ -1,0 +1,43 @@
+{
+  "created_at": "2026-03-08T11:30:24.498903+00:00",
+  "pending_total": 164,
+  "selected_count": 3,
+  "results": [
+    {
+      "share_url": "https://fathom.video/share/kgLpjMboKQuyJo8s9yQJnDCUjPV9B8aS",
+      "client": "Augusto Leal (aleal4@gmail.com)",
+      "created_at": "2026-02-24T22:57:05Z",
+      "meeting_title": "Augusto Leal and Andre Panet-Raymond",
+      "ok": true,
+      "returncode": 0,
+      "run_id": "20260308_063002_c34df58a",
+      "stderr": "",
+      "nugget_export": "/home/openclaw_agent_1/krc_vault/gold nugget exports/20260308_063002_c34df58a__Augusto Leal _aleal4_gmail.com___nuggets.json",
+      "objection_export": "/home/openclaw_agent_1/krc_vault/gold nugget exports/20260308_063002_c34df58a__Augusto Leal _aleal4_gmail.com___objections.json"
+    },
+    {
+      "share_url": "https://fathom.video/share/MeEeshZHBLUUJz9d2LVZUaeyicHcxYRh",
+      "client": "Austin Foster (austinrfoster01@gmail.com)",
+      "created_at": "2026-02-17T21:58:39Z",
+      "meeting_title": "Austin Foster and Andre Panet-Raymond",
+      "ok": true,
+      "returncode": 0,
+      "run_id": "20260308_063002_97e91a95",
+      "stderr": "",
+      "nugget_export": "/home/openclaw_agent_1/krc_vault/gold nugget exports/20260308_063002_97e91a95__Austin Foster _austinrfoster01_gmail.com___nuggets.json",
+      "objection_export": "/home/openclaw_agent_1/krc_vault/gold nugget exports/20260308_063002_97e91a95__Austin Foster _austinrfoster01_gmail.com___objections.json"
+    },
+    {
+      "share_url": "https://fathom.video/share/gjnz-nx5zzVkwa1LK1zZaQi8Xng1sNXs",
+      "client": "Barbara Miller-Brandyberry (sunriseskies@hotmail.com)",
+      "created_at": "2025-11-13T21:04:47Z",
+      "meeting_title": "Barbara Miller-Brandyberry and Andre Panet-Raymond",
+      "ok": true,
+      "returncode": 0,
+      "run_id": "20260308_063002_6c5da4b5",
+      "stderr": "",
+      "nugget_export": "/home/openclaw_agent_1/krc_vault/gold nugget exports/20260308_063002_6c5da4b5__Barbara Miller-Brandyberry _sunriseskies_hotmail.com___nuggets.json",
+      "objection_export": "/home/openclaw_agent_1/krc_vault/gold nugget exports/20260308_063002_6c5da4b5__Barbara Miller-Brandyberry _sunriseskies_hotmail.com___objections.json"
+    }
+  ]
+}

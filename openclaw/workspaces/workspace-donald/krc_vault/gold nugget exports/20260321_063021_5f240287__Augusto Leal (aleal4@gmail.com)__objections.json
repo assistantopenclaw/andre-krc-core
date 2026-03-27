@@ -1,0 +1,17 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260321_063021_5f240287",
+  "source_id": "FATHOM:xeXtgYksG6RqyP9Qvt9xR3z7S_TuEnH2",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "OBJ_GODLESS_CORP",
+      "objection_text": "I don't think God is interested in profits or hitting sales numbers.",
+      "underlying_belief": "God is only involved in 'pure' things; commercial success is inherently godless.",
+      "underlying_fear": "Compromising my spiritual journey for worldliness.",
+      "counter_truth_angle": "God created the order that allows for commerce; if it's 'godless,' it's because the men in it refuse to look for Him. Seeking His kingdom *while* doing the work is the mission.",
+      "transcript_proof_quote_redacted": "I have a hard time seeing them as one thing... I don't think God is interested in profits or hitting sales numbers. It's just like, there's so much fear around these environments.",
+      "proof_location": "ts: 00:17:35"
+    }
+  ]
+}

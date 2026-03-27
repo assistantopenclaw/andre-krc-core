@@ -1,0 +1,138 @@
+[
+  {
+    "nugget_id": "20260308_035023_0f4006e6_01",
+    "category": "truth_flip",
+    "idea_one_liner": "Your anxiety is the compass pointing to the words God wants you to speak.",
+    "why_it_hits": "It flips the feeling of fear from a 'stop' signal to a 'go' signal, specifically for men who struggle with social anxiety or silence.",
+    "post_class_recommendation": "Authority",
+    "conversion_angle": "none",
+    "audience_fit": "Men who feel 'tangled up' in silence or social overthinking.",
+    "caption_fit": "normal",
+    "value_score_overall": 9,
+    "value_equation": {
+      "dream_outcome": "Confidence to speak God's truth in the moment.",
+      "perceived_likelihood": "High, as it uses the existing feeling of anxiety as the trigger.",
+      "time_delay": "immediate",
+      "effort_sacrifice": "medium",
+      "numerator_notes": [
+        "Direct connection to Christ's voice vs the Accuser",
+        "Clear mechanism (anxiety = compass)"
+      ],
+      "denominator_notes": [
+        "Requires overcoming the immediate reflex to withdraw"
+      ],
+      "rubric_breakdown": {
+        "foundation_shift_A": 4,
+        "mechanism_B": 2,
+        "speed_C": 2,
+        "effort_clarity_D": 1
+      }
+    },
+    "proof_quote_redacted": "[01:51:22] [COACH]: If you notice that pressure that is pushing you against speaking, away from speaking, what direction are you, can you be confident... [ISAAC]: To go in. Oh, yeah. Go up. Go up. Yeah... Continue to do what you've been asked to do.",
+    "proof_location": "ts: 01:51:22",
+    "proof_anchor_lines": [
+      "The pressure pushing you away from speaking is the direction you must go.",
+      "Anxiety is the confirmation that someone doesn't want the word said."
+    ],
+    "micro_tags": {
+      "hookable": true,
+      "tension": true,
+      "flip": true,
+      "mechanism": true,
+      "story": false,
+      "pattern_interrupt": true,
+      "payoff": true
+    },
+    "hook_angle_1_stakes": "If you keep listening to the voice of 'not valuable,' your own voice will eventually disappear entirely.",
+    "hook_angle_2_identity": "You aren't a socially awkward overthinker; you are a mouthpiece under spiritual siege.",
+    "hook_angle_3_mechanism": "Why your nervousness isn't a sign to stop, but a sign that you're hitting an target the enemy wants to protect.",
+    "enemy_frame_type": "spiritual",
+    "enemy_frame_label": "The Accuser's Silencer",
+    "enemy_frame_proof_redacted": "[01:30:25] [COACH]: That statement, you don't have anything valuable to say. Is that an accusation? [ISAAC]: Yes. And I'm listening to it.",
+    "first_step_seed": "The next time you feel that 'withdraw' pressure, label it: 'That's the Accuser.' Then speak the very next word.",
+    "cta_runway_fit": "medium",
+    "sensitivity_flag": "none",
+    "redaction_notes": "None needed for this core principle.",
+    "eligible_for_content": true,
+    "eligibility_reason": "pass",
+    "score": {
+      "stop_power": 8,
+      "hold_power": 9,
+      "payoff_power": 9,
+      "overall": 9
+    },
+    "must_not_claim": [
+      "Guaranteed positive reactions from others",
+      "Instant removal of all anxiety"
+    ],
+    "final": true
+  },
+  {
+    "nugget_id": "20260308_035023_0f4006e6_02",
+    "category": "framework",
+    "idea_one_liner": "Silence is the form of lying that kills the Holy Spirit's work through you.",
+    "why_it_hits": "It redefines 'not speaking' from a neutral safety move to an active violation of truth.",
+    "post_class_recommendation": "Conversion",
+    "conversion_angle": "heartbreak",
+    "audience_fit": "Christians who 'listen well' but never lead with the truth.",
+    "caption_fit": "tight",
+    "value_score_overall": 8,
+    "value_equation": {
+      "dream_outcome": "Integrity between internal prompt and external action.",
+      "perceived_likelihood": "High",
+      "time_delay": "immediate",
+      "effort_sacrifice": "high",
+      "numerator_notes": [
+        "Exposes the false foundation of 'safety' in silence",
+        "Direct link to the definition of a lie"
+      ],
+      "denominator_notes": [
+        "Hard to face the reality that silence is a lie"
+      ],
+      "rubric_breakdown": {
+        "foundation_shift_A": 3,
+        "mechanism_B": 2,
+        "speed_C": 2,
+        "effort_clarity_D": 1
+      }
+    },
+    "proof_quote_redacted": "[01:41:05] [COACH]: When you have something to say, and you don't say it, you're lying. [ISAAC]: I don't disagree.",
+    "proof_location": "ts: 01:41:05",
+    "proof_anchor_lines": [
+      "When God says speak and you don't, you are giving voice to a lie.",
+      "Silence is often just a safer name for cowardice."
+    ],
+    "micro_tags": {
+      "hookable": true,
+      "tension": true,
+      "flip": true,
+      "mechanism": false,
+      "story": false,
+      "pattern_interrupt": true,
+      "payoff": true
+    },
+    "hook_angle_1_stakes": "You think you're being polite by staying quiet. You're actually killing your connection to the Spirit.",
+    "hook_angle_2_identity": "Stop calling yourself a 'good listener' when you're actually a silent liar.",
+    "hook_angle_3_mechanism": "The formula for why God stops speaking to you: you stopped repeating what He said.",
+    "enemy_frame_type": "cognitive",
+    "enemy_frame_label": "The 'Polite Silence' Lie",
+    "enemy_frame_proof_redacted": "[01:41:17] [COACH]: And so if you're lying, is God living within you? [ISAAC]: No.",
+    "first_step_seed": "Identify one conversation where you withheld the truth 'to be safe.' Admit it was a lie, then go back and speak it.",
+    "cta_runway_fit": "medium",
+    "sensitivity_flag": "none",
+    "redaction_notes": "None.",
+    "eligible_for_content": true,
+    "eligibility_reason": "pass",
+    "score": {
+      "stop_power": 9,
+      "hold_power": 8,
+      "payoff_power": 8,
+      "overall": 8.5
+    },
+    "must_not_claim": [
+      "It's okay to blurt out every random thought",
+      "You should speak with the intent to offend"
+    ],
+    "final": true
+  }
+]

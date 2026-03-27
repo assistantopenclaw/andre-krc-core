@@ -1,0 +1,26 @@
+{
+  "schema_version": "objectionbank_v1.2",
+  "run_id": "20260303_063003_11572454",
+  "source_id": "FATHOM:LP1ED5F9dnz9PwaLHnM_ys9xAxLVZz_8",
+  "final": true,
+  "objections": [
+    {
+      "objection_id": "OBJ_SUCCESS_FIRST",
+      "objection_text": "I need to have material success first so people can take me seriously.",
+      "underlying_belief": "Value is derived from external status and wealth rather than spiritual truth.",
+      "underlying_fear": "Rejection/Irrelevance due to lack of traditional 'proof.'",
+      "counter_truth_angle": "The 'Journey' is more relatable than the 'Finish Line.' People follow movement more than they follow static success.",
+      "transcript_proof_quote_redacted": "I think you have to have some sort of material success first so people can take you seriously... building the business, having success, and then having the time... to actually pursue the speaking.",
+      "proof_location": "ts: 00:33:15"
+    },
+    {
+      "objection_id": "OBJ_PERFECT_FOUNDATION",
+      "objection_text": "I'm waiting for the perfect house and the perfect wife to start evangelizing.",
+      "underlying_belief": "I must be 'finished' before I can be 'useful.'",
+      "underlying_fear": "Hypocrisy/Exposure of current messiness.",
+      "counter_truth_angle": "Evangelizing *is* the mechanism that attracts the stability and the partner, not the reward for achieving them.",
+      "transcript_proof_quote_redacted": "I guess I'm waiting for like the perfect house and the perfect white picket fence and the perfect wife to then start evangelizing... When in reality, I think if I evangelize sooner than later, I will unironically attract all those things.",
+      "proof_location": "ts: 00:53:20"
+    }
+  ]
+}

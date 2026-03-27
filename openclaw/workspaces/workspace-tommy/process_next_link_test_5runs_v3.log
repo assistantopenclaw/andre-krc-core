@@ -1,0 +1,120 @@
+===== RUN 1 START =====
+20260311_213133_bf6af389
+PROCESS_NEXT_LINK_FAIL https://app.fathom.video/calls/492831090
+===== RUN 1 RC=1 =====
+===== RUN 2 START =====
+{
+  "ok": true,
+  "run_id": "20260311_213300_5011f901",
+  "raw_transcript_file": "/home/openclaw_agent_1/krc_vault_clone/raw call transcripts/20260311_213300_5011f901__Agacy_Goul_and_Andre_Panet-Raymond.txt",
+  "export_file": "/home/openclaw_agent_1/krc_vault_clone/gold nugget exports/20260311_213300_5011f901__gold_nugget_export.md",
+  "finished_content_files": [
+    "finished content for posting/20260311_213300_5011f901__finished_content.md"
+  ],
+  "drive": {
+    "file_id": "13GCDJhfyKn9cgNE7K5htdMIH3oGV9VRQxx-zyPvAZO4",
+    "link": "https://docs.google.com/document/d/13GCDJhfyKn9cgNE7K5htdMIH3oGV9VRQxx-zyPvAZO4/edit?usp=drivesdk",
+    "format": "google_doc"
+  },
+  "payloads": [
+    "Same source call as RUN_ID `20260311_060014_5011f901` (FATHOM:493272082) — same two primary nuggets already produced (`mental_marriage_addiction`/`mental_marriage_drug` and `god_is_not_a_janitor`). Third nugget `spiritual_displacement_formula` maps directly to `gratitude_as_detachment` from the prior run, which was skipped then for quality threshold reasons.\n\nChecking what is genuinely new and unused:\n- `mental_marriage_drug` — substantially identical to `mental_marriage_addiction` (RUN_ID=20260311_060014_5011f901-P01). Already produced.\n- `god_is_not_a_janitor` — identical nugget, already produced (RUN_ID=20260311_060014_5011f901-P02).\n- `spiritual_displacement_formula` — skipped in prior run (quality threshold met at 2 posts). This is the only unproduced nugget. Value score 8, caption_fit normal, Authority, conversion_angle=heartbreak. Producible now as a standalone post.\n\nProducing 1 post from `spiritual_displacement_formula`. Writing caption first.",
+    "1914 chars — within 1850±150 range ✓. Writing hooks.",
+    "All under 110 chars ✓. H3 contains \"because\" ✓. Writing file.",
+    "✅ New content ready. RUN_ID=20260311_213300_5011f901. File: 20260311_213300_5011f901__finished_content.md. (3 hooks inside.) Drive: https://docs.google.com/document/d/13GCDJhfyKn9cgNE7K5htdMIH3oGV9VRQxx-zyPvAZO4/edit?usp=drivesdk\n\n**1 post produced:**\n- **P01** — Gratitude displaces obsession; you cannot empty the space, only fill it (Authority + heartbreak CTA, nugget: `spiritual_displacement_formula`, value score 8)\n\n**2 nuggets skipped:** Both `mental_marriage_drug` and `god_is_not_a_janitor` were already produced from this same source call in RUN_ID=20260311_060014_5011f901. Duplicate production avoided."
+  ]
+}
+PROCESS_NEXT_LINK_OK https://app.fathom.video/calls/493272082
+===== RUN 2 RC=0 =====
+===== RUN 3 START =====
+{
+  "ok": false,
+  "run_id": "20260311_213530_4566db4e",
+  "status": "export_ready",
+  "payloads": [
+    "Same source call as RUN_ID `20260311_171002_4566db4e` (FATHOM:455850356). Checking against prior production:\n\n- `thought_tree_seed_framework` — identical to `thought_tree_framework` already produced in RUN_ID=20260311_171002_4566db4e-P01. Same proof, same framework, same first_step_seed. Already produced.\n- `gratitude_armor_shield` — identical to `gratitude_biological_shield` from the prior run, skipped then (Conversion class, conversion_angle=none, no clean CTA route). Same situation applies here. Still no clean locked CTA route.\n\nBoth nuggets already handled in the prior run. No unproduced content available from this export.\n\nRUN_ID=20260311_213530_4566db4e shares the same source call (FATHOM:455850356) as RUN_ID=20260311_171002_4566db4e. Both nuggets were already handled:\n\n- `thought_tree_seed_framework` — produced as P01 in RUN_ID=20260311_171002_4566db4e\n- `gratitude_armor_shield` — skipped in both runs: Conversion class with conversion_angle=none, no clean locked CTA route\n\nNo new content available from this export. No output produced. If Donald produces a corrected conversion_angle for `gratitude_armor_shield` in a future export, it can be routed then."
+  ],
+  "manifest": {
+    "run_id": "20260311_213530_4566db4e",
+    "source_url": "https://app.fathom.video/calls/455850356",
+    "url_hash": "4566db4e556bac81ef3c2c16000b16c38fa8a3bd682985ae7bd203dfd5917612",
+    "status": "export_ready",
+    "raw_transcript_file": "/home/openclaw_agent_1/krc_vault_clone/raw call transcripts/20260311_213530_4566db4e__Jared_Russell_and_Andre_Panet-Raymond.txt",
+    "nugget_export_file": "/home/openclaw_agent_1/krc_vault_clone/gold nugget exports/20260311_213530_4566db4e__gold_nugget_export.md",
+    "finished_content_files": [],
+    "finished_content_file(s)": [],
+    "posts": [],
+    "drive": null,
+    "duplicate_of_run_id": null,
+    "failure": null,
+    "archived_legacy": false,
+    "created_at": "2026-03-12T02:35:30.881982+00:00",
+    "updated_at": "2026-03-12T02:36:21.788953+00:00",
+    "donald_stage": "export_ready"
+  }
+}
+PROCESS_NEXT_LINK_FAIL https://app.fathom.video/calls/455850356
+===== RUN 3 RC=1 =====
+===== RUN 4 START =====
+{
+  "ok": false,
+  "run_id": "20260311_213640_6e7d7890",
+  "status": "export_ready",
+  "payloads": [
+    "Same source call as RUN_ID `20260311_173633_6e7d7890` (FATHOM:474414211). Checking against prior production:\n\n- `the_daughter_parable_shift` — identical to `the_daughter_visualization` already produced in RUN_ID=20260311_173633_6e7d7890-P02. Same proof, same visualization, same first_step_seed. Already produced.\n- `the_enemy_tax_system` — identical to `the_planned_parenthood_tax` from the prior run, skipped then (Conversion class, conversion_angle=none, no clean locked CTA route). Same situation: conversion_angle=none, no clean locked CTA.\n\nBoth nuggets already handled. No unproduced content available.\n\nRUN_ID=20260311_213640_6e7d7890 shares the same source call (FATHOM:474414211) as RUN_ID=20260311_173633_6e7d7890. Both nuggets were already handled:\n\n- `the_daughter_parable_shift` — produced as P02 in RUN_ID=20260311_173633_6e7d7890\n- `the_enemy_tax_system` — skipped in both runs: Conversion class with conversion_angle=none, no clean locked CTA route; also carries audience-divisiveness risk on specific cause name\n\nNo new content available from this export. No output produced."
+  ],
+  "manifest": {
+    "run_id": "20260311_213640_6e7d7890",
+    "source_url": "https://app.fathom.video/calls/474414211",
+    "url_hash": "6e7d7890f45992cc6dea4b57f9def07bf512ba34da2cf6f706cde0a3f3c96da7",
+    "status": "export_ready",
+    "raw_transcript_file": "/home/openclaw_agent_1/krc_vault_clone/raw call transcripts/20260311_213640_6e7d7890__Jim_Robinson_and_Andre_Panet-Raymond.txt",
+    "nugget_export_file": "/home/openclaw_agent_1/krc_vault_clone/gold nugget exports/20260311_213640_6e7d7890__gold_nugget_export.md",
+    "finished_content_files": [],
+    "finished_content_file(s)": [],
+    "posts": [],
+    "drive": null,
+    "duplicate_of_run_id": null,
+    "failure": null,
+    "archived_legacy": false,
+    "created_at": "2026-03-12T02:36:40.077466+00:00",
+    "updated_at": "2026-03-12T02:37:25.923543+00:00",
+    "donald_stage": "export_ready"
+  }
+}
+PROCESS_NEXT_LINK_FAIL https://app.fathom.video/calls/474414211
+===== RUN 4 RC=1 =====
+===== RUN 5 START =====
+{
+  "ok": true,
+  "run_id": "20260311_213743_bf6af389",
+  "raw_transcript_file": "/home/openclaw_agent_1/krc_vault_clone/raw call transcripts/20260311_213743_bf6af389__Cade_Williamson_and_Andre_Panet-Raymond.txt",
+  "export_file": "/home/openclaw_agent_1/krc_vault_clone/gold nugget exports/20260311_213743_bf6af389__gold_nugget_export.md",
+  "finished_content_files": [
+    "finished content for posting/20260311_213743_bf6af389__finished_content.md"
+  ],
+  "drive": {
+    "file_id": "1chztY9dV-bOv7l3SkUD1edbEF75EnmqLMHLQEXdAJSs",
+    "link": "https://docs.google.com/document/d/1chztY9dV-bOv7l3SkUD1edbEF75EnmqLMHLQEXdAJSs/edit?usp=drivesdk",
+    "format": "google_doc"
+  },
+  "payloads": [
+    "Same source call as RUN_IDs `20260310_232018_bf6af389` and `20260311_210053_bf6af389` (FATHOM:492831090). Checking all four nuggets against prior production across both runs:\n\n- `bible_nature_manual` — identical to `bible_is_not_a_rulebook` (produced RUN_ID=20260310_232018_bf6af389-P01) and `bible_as_relationship_manual` (skipped as duplicate in 20260311_210053_bf6af389). Already produced.\n- `strategic_sidequest` — identical to `chess_game_obsession` already produced in RUN_ID=20260311_210053_bf6af389-P01. Already produced.\n- `dna_curse_break` — identical to `generational_dna_unlocked` already produced in RUN_ID=20260311_210053_bf6af389-P02. Already produced.\n- `recruitment_criteria` — identical to `recruitment_malpractice` from RUN_ID=20260311_210053_bf6af389, skipped there for quality threshold reasons (2 posts already met threshold). **This is the only unproduced nugget from this source call.** Value 9, caption_fit tight, Authority, conversion_angle=none. Producible now.\n\nProducing 1 post from `recruitment_criteria`.",
+    "1888 chars — within 1850±150 range ✓. Writing hooks.",
+    "H3 is 112 chars — over limit. Trimming.",
+    "98 chars ✓. H3 contains \"because\" ✓. All hooks under 110. Checking Authority CTA: caption ends with `Comment STABLE if this is the standard you're choosing.` ✓ (locked Authority template). Writing file.",
+    "✅ New content ready. RUN_ID=20260311_213743_bf6af389. File: 20260311_213743_bf6af389__finished_content.md. (3 hooks inside.) Drive: https://docs.google.com/document/d/1chztY9dV-bOv7l3SkUD1edbEF75EnmqLMHLQEXdAJSs/edit?usp=drivesdk\n\n**1 post produced:**\n- **P01** — You are not a sex addict; you are a bad recruiter (Authority, nugget: `recruitment_criteria`, value score 9)\n\n**3 nuggets skipped:** `bible_nature_manual`, `strategic_sidequest`, and `dna_curse_break` were all already produced from this same source call in earlier runs. Duplicate production avoided."
+  ]
+}
+PROCESS_NEXT_LINK_OK https://app.fathom.video/calls/492831090
+===== RUN 5 RC=0 =====
+
+=== links_done ===
+https://app.fathom.video/calls/493272082
+https://app.fathom.video/calls/492831090
+
+=== links_failed ===
+https://app.fathom.video/calls/492831090
+https://app.fathom.video/calls/455850356
+https://app.fathom.video/calls/474414211
+
+=== remaining ===

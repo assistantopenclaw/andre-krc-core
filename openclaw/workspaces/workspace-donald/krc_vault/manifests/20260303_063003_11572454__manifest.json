@@ -1,0 +1,27 @@
+{
+  "run_id": "20260303_063003_11572454",
+  "timestamp": "2026-03-03T06:30:03Z",
+  "status": "content_ready",
+  "client": "Augusto Leal",
+  "source_id": "FATHOM:LP1ED5F9dnz9PwaLHnM_ys9xAxLVZz_8",
+  "files": {
+    "finished_content": "krc_vault/finished content for posting/20260303_063003_11572454__finished_content.md"
+  },
+  "drive": {
+    "file_id": "1NiEYSJwi7MX-MxRrHwxm4bAUyLDpn2uFzRjvbO2rlcI",
+    "folder_id": "1NOCxQ2K1S2vM07hGHc0xEqTrsl2Ub1tv",
+    "link": "https://docs.google.com/document/d/1NiEYSJwi7MX-MxRrHwxm4bAUyLDpn2uFzRjvbO2rlcI/edit?usp=drivesdk",
+    "format": "google_doc",
+    "uploaded_at": "2026-03-03T06:31:00Z"
+  },
+  "content_summary": {
+    "posts_generated": 2,
+    "nuggets_used": [
+      "NUG_002_CONTRAST_TESTIMONY — contrast testimony / imposter trap (9.0) — Conversion/heartbreak",
+      "NUG_001_BORROWED_STRENGTH — borrowed strength / self-reliance delusion (8.0) — Authority"
+    ]
+  },
+  "finished_content_file(s)": [
+    "/home/openclaw_agent_1/krc_vault/finished content for posting/20260303_063003_11572454__finished_content.md"
+  ]
+}
