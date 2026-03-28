@@ -1,0 +1,6 @@
+/krc/
+/__pycache__/
+/archived_*/
+*.log
+*.lock
+
